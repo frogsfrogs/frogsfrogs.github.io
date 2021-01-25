@@ -18,9 +18,12 @@ Available Designs:
 > Roots. Minimum 8 in. tall.
 > [![big goldfish flash](/images/flash/goldfish-flash-2-web.jpg)](https://frogsfrogs.github.io/images/flash/goldfish-flash-2-web.jpg)
   
-> Seaweed and death. #2.6 minimum 6 in. tall, #2.7 minimum 8 in. tall. 
->[![seaweed flash](/images/flash/seaweed-flash-web.jpg)](https://frogsfrogs.github.io/images/flash/seaweed-flash-web.jpg)
-  
+> Seaweed and death. #2.6 minimum 6 in. tall. 
+>[![seaweed flash 1](/images/flash/seaweed-flash-1.jpg)](https://frogsfrogs.github.io/images/flash/seaweed-flash-1.jpg)
+
+> Seaweed and death . Minimum 8 in. tall. 
+>[![seaweed flash 2](/images/flash/seaweed-flash-2.jpg)](https://frogsfrogs.github.io/images/flash/seaweed-flash-2.jpg)
+
 > Persimmons. Minimum 3 inch tall. 
 >[![persimmons color flash](/images/flash/persimmons-color-brush-1-web.jpg)](https://frogsfrogs.github.io/images/flash/persimmons-color-brush-1-web.jpg)
   
