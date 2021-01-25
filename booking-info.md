@@ -9,7 +9,7 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Booking**  
-- I only book tattoos through the booking form. Please do not email me with tattoo requests.  
+- I only book tattoos through the booking form. Please do not email me with booking requests.  
 - New flash and booking form opening goes out by email to my mailing list.  Only leftover flash + filling cancellation spots goes out on my instagram.  
 - [You can join my mailing list at this link](https://eepurl.com/hgUiO9)  
 - My tattoo work can be viewed [here](https://instagram.com/sleep.on.frogs)  
