@@ -39,12 +39,13 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Pricing**  
-- I price mostly flat rate; I will send you the price quote in my email response to your booking request. Higher cost pieces I usually quote sliding scale (<a href="/sliding-scale">take a look at this note</a> if you are unfamiliar with sliding scale).  
-If it is still out of budget, let me know and I'll make it work with you as much as I can. I don't like to price people out.  
+- I price mostly flat rate; I will send you the price quote in my email response to your booking request. For more expensive projects I often send a sliding scale quote. If you are uncertain about sliding scale pricing <a href="/sliding-scale">please see this note about it</a>.  
+- If it is still out of budget, let me know and I'll make it work with you as much as I can. I don't like to price people out.  
 - Sometimes I will quote hourly rate or day rate if it is a large scale piece. Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  
 - My appointment minimum is $100.  
-- There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo. Usually nonrefundable, but for COVID reasons I am flexible (like you are sick, or may have been infected, or need to take care of somebody b/c of COVID). Please try to let me know as soon as possible if you need to cancel or reschedule - if I have time to fill the spot and I succeed I will refund the deposit always. If not, I'll still always apply it towards your tattoo if we do it later.  
 - **Tips not required** because I set my own prices and I currently work at a collective space so it's flat rent, the studio doesn't take a cut.  
+- There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo. Usually nonrefundable, but for COVID reasons I am flexible (like you are sick, or may have been infected, or need to take care of somebody b/c of COVID).  
+- Please try to let me know as soon as possible if you need to cancel or reschedule - if I have time to fill the spot and I succeed I will refund the deposit always. If not, I'll still always apply it towards your tattoo if we do it later.  
 <br>
 
 **Touchups**  

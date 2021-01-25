@@ -5,13 +5,14 @@ permalink: /about/
 ---
 <a href="/">back</a>
 <br><br>
-Hi, I am an illustrator + tattoo artist living in Lenapehoking / NYC.  
+Hi, I am an illustrator and tattoo artist living in Lenapehoking / NYC.  
 <br>
-CV available upon request.  
+My CV is available upon request.  
 <br>
 **Contact:**   
 general - jessowang@protonmail.com  
-tattoo-related - jessowang.tattoo@gmail.com
-<br><br>
-[instagram](https://instagram.com/sleep.on.frogs)
+tattoo-related - jessowang.tattoo@gmail.com  
+<br>
+**Social Media:**  
+[Instagram](https://instagram.com/sleep.on.frogs)
 
