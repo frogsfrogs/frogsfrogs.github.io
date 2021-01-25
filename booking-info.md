@@ -59,5 +59,20 @@ Please read this FAQ before submitting a booking form.
 - Also if you can't be around anything else, whether allergy things or scents or loud music or anything, just let me know.  
 <br>
 
+---
+## COVID-19 PRECAUTIONS - REQUIRED FOR APPOINTMENT  
+<br>
+
+- Please RESCHEDULE if you are sick/someone you came into contact is sick. I will reschedule w/ no additional deposit or refund if necessary for this!!  
+- Please NO companions, though they are welcome to accompany you up to the point of the building door.  
+- Please EAT before your appointment! Also please bring your own water bottle.  
+- The building my studio is in requires that everybody is wearing a KN-95 or surgical mask (or N-95). Please come wearing one and keep it on for the duration of the appointment. If there is difficulty in obtaining one, I will have extra on hand.  
+- I'm getting tested every 2 weeks if not more frequently.  
+- There are 2 rooms in our studio. We will have at most 4 people (2 artists+clients) in the smaller room and 6 people in the big room (3 artists+clients), and the stations are spaced out.  
+- We'll be cleaning thoroughly as normal at the studio, which is dousing everything in medical grade sterilants several times a day between clients. 
+
+### Last note -  I have a chronic cough  
+I've had it for 7 years. It is due to non-infectious reasons (stomach issues). On worse days I will have spurts of coughing, on better days it's barely there - I just want to disclose this beforehand as it understandably can make people nervous. 
+
 
 
