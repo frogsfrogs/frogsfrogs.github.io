@@ -7,7 +7,7 @@ permalink: /red-seal/
 <br>
 **A note on designs that draw from cultural imagery (flash marked with red seal + applicable customs)**  
 <br>
-This is what the seal looks like:  
+This is the seal image (you can ignore anything else):  
 ![red-seal](/images/red-seal.png)  
 <br>
 - As an artist I would really prefer to tattoo certain designs of mine that draw from Chinese cultural imagery to people who have personal cultural connection to it (I put my red seal stamp on these flashes). This could mean you are of Chinese/Taiwanese descent, or other specific personal context. I also acknowledge that these imagery overlap with styles and subject matters of other cultures (for example, chinese knots and korean norigae are quite similar), so I'm not super picky about this.  
