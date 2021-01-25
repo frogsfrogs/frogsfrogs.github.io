@@ -6,7 +6,7 @@ permalink: /flash-designs/
 <a href="/">back</a>
 <br>
 <br>
-Larger designs tattooed once or twice, smaller designs repeatable
+Larger designs tattooed up to twice, smaller designs repeatable
 <br><br>
 Available Designs:  
 (click on image for full size file)
