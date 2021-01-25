@@ -49,7 +49,7 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Touchups**  
-- I do 1 free touchup within the first 6 months. After that I still do touchups fro a fee (fee depends on the scope/scale). Book touchups using the normal booking form.  
+- I do 1 free touchup within the first 6 months. After that I still do touchups for a fee (fee depends on the scope/scale). Book touchups using the normal booking form.  
 - Please let your tattoo heal at least 1 month before getting it touched up.  
 <br>
 

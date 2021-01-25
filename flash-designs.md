@@ -41,9 +41,9 @@ Available Designs:
 >[![frog flash](/images/flash/frog.png)](https://frogsfrogs.github.io/images/flash/frog.png)  
 > Minimum size: 4 inches wide. Ideally +.  
   
-> Gentle Frens
+> Gentle Frens.  
 >[![capybara flash](/images/flash/gentle-frens.jpg)](https://frogsfrogs.github.io/images/flash/gentle-frens.jpg)
   
-> Persimmons  
+> Persimmons.  
 >[![linework persimmons flash](/images/flash/persimmons-lines.jpg)](https://frogsfrogs.github.io/images/flash/persimmons-lines.jpg)  
 > Minimum size: 2.5-3 inches wide. Ideally +.  
