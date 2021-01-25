@@ -3,9 +3,60 @@ layout: page
 title: Booking-Info
 permalink: /booking-info/
 ---
-<a href="/">back</a>
+<a href="/">back</a>  
 <br>
+Please read this FAQ before submitting a booking form.  
 <br>
-Please read FAQ before submitting a booking form
-<br><br>
-FAQ
+
+**Booking**  
+- I only book tattoos through the booking form. Please do not email me with tattoo requests.  
+- New flash and booking form opening goes out by email to my mailing list.  Only leftover flash + filling cancellation spots goes out on my instagram.  
+- [You can join my mailing list at this link](https://eepurl.com/hgUiO9)  
+- My tattoo work can be viewed [here](https://instagram.com/sleep.on.frogs)  
+<br>
+
+**Flash Designs**  
+- See link on main page for currently available designs.   
+- Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
+<br>
+
+**Custom Designs**  
+- At this time, the only custom tattoo requests I am accepting are lucky knots, and finishing projects that we already started. The <a href="/red-seal">note I mention above</a> applies to custom lucky knot designs as well.  
+- Custom designs will be available to view **at the time of the appointment**. I totally understand if this is a dealbreaker, as I know for some this is not comfortable. I cannot make the promise to send drafts earlier however. Adjustments can be made to the design at the time of the appointment!  
+<br>
+
+**Color Tests**  
+- Color tests available free of charge (after a project is accepted and you intend to get the tattoo that booking period but before you put down a deposit). Color tests are not required.  
+<br>
+
+**Consultation**  
+- I do not offer these right now, especially not with the pandemic and all. Everything happens over email until the appointment.  
+<br>
+
+**Cover-ups**  
+- I usually do not do cover-ups, but occasionally I will take on this kind of project. Usually the design has to be a lot bigger than the old one to be effective.  
+- Adding onto / 'evolving' an old tattoo also I rarely do.  
+<br>
+
+**Pricing**  
+- I price mostly flat rate; I will send you the price quote in my email response to your booking request. Higher cost pieces I usually quote sliding scale (<a href="/sliding-scale">take a look at this note</a> if you are unfamiliar with sliding scale).  
+If it is still out of budget, let me know and I'll make it work with you as much as I can. I don't like to price people out.  
+- Sometimes I will quote hourly rate or day rate if it is a large scale piece. Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  
+- My appointment minimum is $100.  
+- There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo. Usually nonrefundable, but for COVID reasons I am flexible (like you are sick, or may have been infected, or need to take care of somebody b/c of COVID). Please try to let me know as soon as possible if you need to cancel or reschedule - if I have time to fill the spot and I succeed I will refund the deposit always. If not, I'll still always apply it towards your tattoo if we do it later.  
+- **Tips not required** because I set my own prices and I currently work at a collective space so it's flat rent, the studio doesn't take a cut.  
+<br>
+
+**Touchups**  
+- I do 1 free touchup within the first 6 months. After that I still do touchups fro a fee (fee depends on the scope/scale). Book touchups using the normal booking form.  
+- Please let your tattoo heal at least 1 month before getting it touched up.  
+<br>
+
+**Location + Miscellaneous**  
+- I'm at Moonrise Tattoo Collective([insta](https://instagram.com/moonrise.tattoo)); it's right off the Morgan L stop.  
+- If you can't be around dogs for any reason let me know in the booking form - my studiomate's friendly dog hangs out in the studio sometimes, but she can be not there for our tattoo session.  
+- Also if you can't be around anything else, whether allergy things or scents or loud music or anything, just let me know.  
+<br>
+
+
+
