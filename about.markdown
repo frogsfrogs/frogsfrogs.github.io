@@ -21,4 +21,4 @@ tattoo-related - jessowang.tattoo@gmail.com
 <br>
 <br>
 <br>
-I made this site using [riggraz's jekyll theme](https://github.com/riggraz/no-style-please)
+This site uses [riggraz's jekyll theme](https://github.com/riggraz/no-style-please)
