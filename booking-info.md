@@ -5,10 +5,16 @@ permalink: /booking-info/
 ---
 <a href="/">back</a>  
 <br>
-Please read this FAQ before submitting a booking form.  
+Books are currently: CLOSED  
+Thank you everyone who submitted requests! I will be getting back to everybody in the next few days.  
+---
 <br>
+<br>
+<br>
+Please read this FAQ before submitting a booking form.  
 
 **Booking**  
+<br>
 - I only book tattoos through the booking form. Please do not email me with booking requests.  
 - New flash and booking form opening goes out by email to my mailing list.  Only leftover flash + filling cancellation spots goes out on my instagram.  
 - [You can join my mailing list at this link](https://eepurl.com/hgUiO9)  
