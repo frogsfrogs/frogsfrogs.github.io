@@ -22,7 +22,7 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Flash Designs**  
-- See link on main page for currently available designs. (none currently available)   
+- No flash designs currently available. I will send out new flash sometime in the next few weeks.   
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
 <br>
 
