@@ -5,13 +5,13 @@ permalink: /booking-info/
 ---
 <a href="/">back</a>  
 <br>
-Books are currently: CLOSED  
-Thank you everyone who submitted requests! I will be getting back to everybody in the next few days.  
+Books are currently: OPEN (for custom freehand only)  
+<br>
+Please read this FAQ before submitting a booking form.   
 ---
 <br>
 <br>
 <br>
-Please read this FAQ before submitting a booking form.  
 
 **Booking**  
 <br>
@@ -22,13 +22,14 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Flash Designs**  
-- See link on main page for currently available designs.   
+- See link on main page for currently available designs. (none currently available)   
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
 <br>
 
 **Custom Designs**  
-- At this time, the only custom tattoo requests I am accepting are lucky knots, and finishing projects that we already started. The <a href="/red-seal">note I mention above</a> applies to custom lucky knot designs as well.  
-- Custom designs will be available to view **at the time of the appointment**. I totally understand if this is a dealbreaker, as I know for some this is not comfortable. I cannot make the promise to send drafts earlier however. Adjustments can be made to the design at the time of the appointment!  
+- At this time, the only custom tattoo requests I am accepting are **freehand black linework only** designs. Freehand means that I draw the design directly onto your skin at the appointment (therefore design will not be shown beforehand as there is nothing to show).   
+- The <a href="/red-seal">note I mention above</a> applies to custom designs as well.  
+<!-- - Custom designs will be available to view **at the time of the appointment**. I totally understand if this is a dealbreaker, as I know for some this is not comfortable. I cannot make the promise to send drafts earlier however. Adjustments can be made to the design at the time of the appointment! -->  
 <br>
 
 **Color Tests**  
@@ -45,10 +46,10 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Pricing**  
-- I price mostly flat rate; I will send you the price quote in my email response to your booking request. For more expensive projects I often send a sliding scale quote. If you are uncertain about sliding scale pricing <a href="/sliding-scale">please see this note about it</a>.  
-- If it is still out of budget, let me know and I'll make it work with you as much as I can. I don't like to price people out.  
-- Sometimes I will quote hourly rate or day rate if it is a large scale piece. Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  
-- My appointment minimum is $100.  
+- I will send you the price quote in my email response to your booking request. Usually it is flat rate, sometimes hourly or day rate if it is a big project. <!--  For more expensive projects I often send a sliding scale quote. If you are uncertain about sliding scale pricing <a href="/sliding-scale">please see this note about it</a>.   -->
+- If it is out of budget, let me know I will send you a sliding scale pricing.    
+- Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  
+- My appointment minimum is $150.  
 - **Tips not required** because I set my own prices and I currently work at a collective space so it's flat rent, the studio doesn't take a cut.  
 - There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo. Usually nonrefundable, but for COVID reasons I am flexible (like you are sick, or may have been infected, or need to take care of somebody b/c of COVID).  
 - Please try to let me know as soon as possible if you need to cancel or reschedule - if I have time to fill the spot and I succeed I will refund the deposit always. If not, I'll still always apply it towards your tattoo if we do it later.  
@@ -72,6 +73,7 @@ Please read this FAQ before submitting a booking form.
 - The building my studio is in requires that everybody is wearing a KN-95 or surgical mask or N-95. Please come wearing one and keep it on for the duration of the appointment. If there is difficulty in obtaining one, I will have extra on hand.  
 - Please RESCHEDULE if you are sick/someone you came into contact is sick. I will reschedule w/ no additional deposit or refund if necessary for this!!  
 - Please NO companions, though they are welcome to accompany you up to the point of the building door.  
+- Please try to come ON TIME - best not to be early or late, as appointments are spaced so that not too many people are at the studio at any time.  
 - Please EAT before your appointment! Also please bring your own water bottle.  
 - I'm getting tested every 2 weeks if not more frequently.  
 - Please get **tested** if you at all can! We will be spending an extended period of time together at a very close distance. If it is a great difficulty then I understand as the testing situation is so variable, but please exercise caution where you can.  
