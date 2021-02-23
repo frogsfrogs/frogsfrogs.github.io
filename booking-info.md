@@ -5,7 +5,10 @@ permalink: /booking-info/
 ---
 <a href="/">back</a>  
 <br>
-Books are currently: OPEN (for custom freehand only)  
+Books are currently: CLOSED   
+<br>
+I closed the form early because I got over 30 requests for about 5 spots like way faster than I thought I would.  
+Thank you everyone who submitted a booking form! Please look out for a response from me sometime this week.  
 <br>
 Please read this FAQ before submitting a booking form.   
 ---
