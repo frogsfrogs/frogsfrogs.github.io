@@ -51,7 +51,7 @@ Please read this FAQ before submitting a booking form.
 **Pricing**  
 - I will send you the price quote in my email response to your booking request. Usually it is flat rate, sometimes hourly or day rate if it is a big project. <!--  For more expensive projects I often send a sliding scale quote. If you are uncertain about sliding scale pricing <a href="/sliding-scale">please see this note about it</a>.   -->
 - If it is out of budget, let me know I will send you a sliding scale pricing.    
-- Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  
+- Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month. Currently hourly rate 150/hr.  
 - My appointment minimum is $150.  
 - **Tips not required** because I set my own prices and I currently work at a collective space so it's flat rent, the studio doesn't take a cut.  
 - There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo. Usually nonrefundable, but for COVID reasons I am flexible (like you are sick, or may have been infected, or need to take care of somebody b/c of COVID).  
