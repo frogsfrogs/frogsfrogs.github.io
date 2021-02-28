@@ -7,25 +7,23 @@ permalink: /booking-info/
 <br>
 Books are currently: CLOSED   
 <br>
-I closed the form early because I got over 6x as many requests as slots I have.  
-Thank you everyone who submitted a booking form! Please look out for a response from me sometime this week.  
-<br>
 Please read this FAQ before submitting a booking form.   
 ---
 <br>
 <br>
 <br>
 
-**Booking**  
+**How to Book**  
 <br>
+- Once to twice a month, I will email out to my mailing list when my books open. At that time a link to a tattoo booking form will appear on this website.  
 - I only book tattoos through the booking form. Please do not email me with booking requests.  
-- New flash and booking form opening goes out by email to my mailing list.  Only leftover flash + filling cancellation spots goes out on my instagram.  
+- New flash goes out by email to the mailing list. If I have last minute openings or cancellations come up, I will post on my instagram.    
 - [You can join my mailing list at this link](https://eepurl.com/hgUiO9)  
-- My tattoo work can be viewed [here](https://instagram.com/sleep.on.frogs)  
+- My tattoo work can be viewed [here](https://instagram.com/sleep.on.frogs) on instagram.  
 <br>
 
 **Flash Designs**  
-- No flash designs currently available. I will send out new flash sometime in the next few weeks.   
+- No flash designs currently available to view. I will send out new flash sometime in the next few weeks.   
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
 <br>
 
@@ -39,13 +37,20 @@ Please read this FAQ before submitting a booking form.
 - Color tests available free of charge (after a project is accepted and you intend to get the tattoo that booking period but before you put down a deposit). Color tests are not required.  
 <br>
 
+**Complexion**  
+- I tattoo all complexions.  
+- I fully trust that people know best what they want on their own bodies.  
+- If there is something to do with complexion that I am not confident with on a technical level, I will offer a steep discount if the client is generous to trust me with the project anyways, as it would be a learning tattoo.  
+- I am well settled in the styles I tattoo in though, so the above rarely comes up nowadays.  
+<br>
+
 **Consultation**  
 - I do not offer these right now, especially not with the pandemic and all. Everything happens over email until the appointment.  
 <br>
 
 **Cover-ups**  
 - I usually do not do cover-ups, but occasionally I will take on this kind of project. Usually the design has to be a lot bigger than the old one to be effective.  
-- Adding onto / 'evolving' an old tattoo also I rarely do.  
+- Adding onto / 'evolving' an old tattoo I usually also do not do.    
 <br>
 
 **Pricing**  
@@ -54,7 +59,11 @@ Please read this FAQ before submitting a booking form.
 - Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month. Currently hourly rate 150/hr.  
 - My appointment minimum is $150.  
 - **Tips not required** because I set my own prices and I currently work at a collective space so it's flat rent, the studio doesn't take a cut.  
-- There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo. Usually nonrefundable, but for COVID reasons I am flexible (like you are sick, or may have been infected, or need to take care of somebody b/c of COVID).  
+<br>
+
+**Deposits, Cancellations, Rescheduling**  
+- There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo. Usually nonrefundable, but for COVID reasons I am flexible (like you are sick, or may have been infected, or need to take care of somebody b/c of COVID). Or other emergency reasons.  
+- An exception to that is 'I got nervous because COVID', as COVID was already a thing when the appointment was booked. Since it's been a thing for about a year now.  
 - Please try to let me know as soon as possible if you need to cancel or reschedule - if I have time to fill the spot and I succeed I will refund the deposit always. If not, I'll still always apply it towards your tattoo if we do it later.  
 <br>
 
@@ -73,18 +82,19 @@ Please read this FAQ before submitting a booking form.
 ## COVID-19 PRECAUTIONS - REQUIRED FOR APPOINTMENT  
 <br>
 
-- The building my studio is in requires that everybody is wearing a KN-95 or surgical mask or N-95. Please come wearing one and keep it on for the duration of the appointment. If there is difficulty in obtaining one, I will have extra on hand.  
-- Please RESCHEDULE if you are sick/someone you came into contact is sick. I will reschedule w/ no additional deposit or refund if necessary for this!!  
-- Please NO companions, though they are welcome to accompany you up to the point of the building door.  
-- Please try to come ON TIME - best not to be early or late, as appointments are spaced so that not too many people are at the studio at any time.  
-- Please EAT before your appointment! Also please bring your own water bottle.  
-- I'm getting tested every 2 weeks if not more frequently.  
+- The building my studio is in requires that everybody is wearing a **KN-95** or **surgical mask** or **N-95**. Please come wearing one and keep it on for the duration of the appointment. If there is difficulty in obtaining one, I will have extra on hand.  
+- Please **RESCHEDULE** if you are sick/someone you came into contact is sick. I will reschedule w/ no additional deposit or refund if necessary for this!!  
+- Please **NO companions**, though they are welcome to accompany you up to the point of the building door.  
+- Please come **ON TIME** as possible, rather than early or late, as appointments are spaced so that not too many people are at the studio at any time.  
+- Please **EAT before** your appointment! Also please bring your own water bottle.  
+- **I'm getting tested every 2 weeks** if not more frequently.  
+- I will be wearing a KN-95 mask during our appointment.  
 - Please get **tested** if you at all can! We will be spending an extended period of time together at a very close distance. If it is a great difficulty then I understand as the testing situation is so variable, but please exercise caution where you can.  
 - There are 2 rooms in our studio. We will have at most 4 people (2 artists+clients) in the smaller room and 6 people in the big room (3 artists+clients), and the stations are spaced out.  
 - We'll be cleaning thoroughly as normal at the studio, which is dousing everything in medical grade sterilants several times a day between clients. 
 
 ### Last note -  I have a chronic cough  
-I've had it for 7 years. It is due to non-infectious reasons (stomach issues). On worse days I will have spurts of coughing, on better days it's barely there - I just want to disclose this beforehand as it understandably can make people nervous. 
+I've had it for 7 years. It is due to non-infectious reasons (stomach issues). On worse days I will have spurts of coughing, on better days it's barely there - I just want to disclose this beforehand as it understandably can make people nervous.   
 
 
 
