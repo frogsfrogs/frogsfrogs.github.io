@@ -28,8 +28,10 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Custom Designs**  
-- At this time, I am taking custom tattoo requests for **freehand black linework designs only**. Freehand means that I draw the design directly onto your skin at the appointment (therefore design will not be shown beforehand as there is nothing to show).   
-- The <a href="/red-seal">note I mention above</a> applies to custom designs as well.  
+- At this time, I am not taking custom tattoo requests.  
+
+<!-- - At this time, I am taking custom tattoo requests for **freehand black linework designs only**. Freehand means that I draw the design directly onto your skin at the appointment (therefore design will not be shown beforehand as there is nothing to show).   
+- The <a href="/red-seal">note I mention above</a> applies to custom designs as well. -->
 <!-- - Custom designs will be available to view **at the time of the appointment**. I totally understand if this is a dealbreaker, as I know for some this is not comfortable. I cannot make the promise to send drafts earlier however. Adjustments can be made to the design at the time of the appointment! -->  
 <br>
 

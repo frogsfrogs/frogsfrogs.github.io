@@ -1,7 +1,7 @@
 ---
 layout: page
 title: blog-posts
-permalink: /blog/
+permalink: /blog-posts/
 ---
 <a href="/">main menu< </a>  
 <a href="/categories">post categories< </a>  
