@@ -3,7 +3,7 @@ layout: page
 title: Booking-Info
 permalink: /booking-info/
 ---
-<a href="/">back</a>  
+<a href="/">back< </a>  
 <br>
 Books are currently: CLOSED   
 <br>

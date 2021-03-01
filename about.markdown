@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<a href="/">back</a>
+<a href="/">back< </a>
 <br>
 <br>
 <br>

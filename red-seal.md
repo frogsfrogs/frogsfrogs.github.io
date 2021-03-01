@@ -3,7 +3,7 @@ layout: page
 title: Red-Seal
 permalink: /red-seal/
 ---
-<a href="/">back</a>  
+<a href="/">back< </a>  
 <br>
 **A note on designs that draw from cultural imagery (flash marked with red seal + applicable customs)**  
 <br>
