@@ -16,7 +16,7 @@ Please read this FAQ before submitting a booking form.
 **How to Book**  
 <br>
 - Once to twice a month, I will email out to my mailing list when my books open. At that time a link to a tattoo booking form will appear on this website.  
-- I only book tattoos through the booking form. Please do not email me with booking requests.  
+- I only book tattoos through the booking form. Please do not email or DM with booking requests.  
 - New flash goes out by email to the mailing list. If I have last minute openings or cancellations come up, I will post on my instagram.    
 - [You can join my mailing list at this link](https://eepurl.com/hgUiO9)  
 - My tattoo work can be viewed [here](https://instagram.com/sleep.on.frogs) on instagram.  
