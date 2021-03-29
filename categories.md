@@ -4,7 +4,7 @@ title: categories
 permalink: /categories/
 ---
 
-<!-- {% for category in site.categories %}
+{% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
   <ul>
   	{% for post in category[1] %}
@@ -12,4 +12,4 @@ permalink: /categories/
     {% endfor %} 
   </ul>
 {% endfor %}
- -->
+

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: blog-posts
-permalink: /blog-posts/
+permalink: /blog/
 ---
-<!-- <a href="/">main menu< </a>  
+<a href="/">main menu< </a>  
 <a href="/categories">post categories< </a>  
 <br>
 <h3>Posts</h3>  
@@ -13,4 +13,4 @@ permalink: /blog-posts/
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul> -->
+</ul>
