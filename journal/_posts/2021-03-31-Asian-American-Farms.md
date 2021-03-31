@@ -22,6 +22,6 @@ currently hiring for mid April-Dec. (start date 4/19/21, sebastopol, CA) (screen
   
 [Other Article linked from that article](https://www.nbcnews.com/news/asian-america/bok-choy-bread-fruit-how-traditional-crops-fit-food-secure-n999051)  
   
-- Also [Tooth & Nail Collective](https://www.instagram.com/tooth.nailcollective/), the little farm collective in rhode island that jenny li (the tat client i did changxi and xihe for)
-
-
+- Also [Tooth & Nail Collective](https://www.instagram.com/tooth.nailcollective/), the little farm collective in rhode island that jenny li (the tat client i did changxi and xihe for)  
+  
+- Also, not Asian American, but QTPOC run farm that does WWOOF, [Sunday Creek Sanctuary (instagram)](https://www.instagram.com/sundaycreeksanctuary/), Athens Ohio.  
