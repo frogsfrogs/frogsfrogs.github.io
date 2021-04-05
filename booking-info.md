@@ -63,6 +63,10 @@ Please read this FAQ before submitting a booking form.
 - **Tips not required** because I set my own prices and I currently work at a collective space so it's flat rent, the studio doesn't take a cut.  
 <br>
 
+**COVID-19 VACCINE**  
+- IF YOU ARE GETTING/HAVE GOTTEN THE COVID-19 VACCINE: please wait at least 2 weeks after your final shot before getting your tattoo with me. There is a distinct possibility of poor tattoo healing or pseudo-allergic reactions with tattoos done directly after receiving a vaccine shot, due to increased immune system reactivity.  
+<br>
+
 **Deposits, Cancellations, Rescheduling**  
 - There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo. Usually nonrefundable, but for COVID reasons I am flexible (like you are sick, or may have been infected, or need to take care of somebody b/c of COVID). Or other emergency reasons.  
 - An exception to that is 'I got nervous because COVID', as COVID was already a thing when the appointment was booked. Since it's been a thing for about a year now.  
@@ -89,9 +93,8 @@ Please read this FAQ before submitting a booking form.
 - Please **NO companions**, though they are welcome to accompany you up to the point of the building door.  
 - Please come **ON TIME** as possible, rather than early or late, as appointments are spaced so that not too many people are at the studio at any time.  
 - Please **EAT before** your appointment! Also please bring your own water bottle.  
-- **I'm getting tested every 2 weeks** if not more frequently.  
-- I will be wearing a KN-95 mask during our appointment.  
-- Please get **tested** if you at all can! We will be spending an extended period of time together at a very close distance. If it is a great difficulty then I understand as the testing situation is so variable, but please exercise caution where you can.  
+- I am fully vaccinated for COVID-19, but I will still be wearing a mask during our appointment.  
+- Please get **tested** if you at all can! We will be spending an extended period of time together at a very close distance. If it is a great difficulty then I understand as the testing situation is so variable, but please exercise caution where you can. If you are vaccinated for COVID-19 then no need to get tested beforehand.  
 - There are 2 rooms in our studio. We will have at most 4 people (2 artists+clients) in the smaller room and 6 people in the big room (3 artists+clients), and the stations are spaced out.  
 - We'll be cleaning thoroughly as normal at the studio, which is dousing everything in medical grade sterilants several times a day between clients. 
 
