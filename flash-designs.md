@@ -37,10 +37,6 @@ Available Designs:
 >[![lotus_3_4](/images/flash/lotus_3_4.jpg)](https://frogsfrogs.github.io/images/flash/lotus_3_4.jpg)  
 > #3.4: 5-7 inches tall.  
 
-> Persimmon.  
->[![persimmon](/images/flash/persimmons-color-brush-2-web.jpg)](https://frogsfrogs.github.io/images/flash/persimmons-color-brush-2-web.jpg)  
-> size: 2-3 inches wide.   
-
 > Red lotus.  
 [![lotus_3_5b](/images/flash/lotus_3_5b.jpg)](https://frogsfrogs.github.io/images/flash/lotus_3_5b.jpg) 
 > #3.5: 8 inches tall.  
@@ -52,6 +48,10 @@ Available Designs:
 > Shoal.  
 >[![shoal2](/images/flash/shoal2.jpg)](https://frogsfrogs.github.io/images/flash/shoal2.jpg)  
 > #sh1: 12 inches tall.  
+
+> Persimmon.  
+>[![persimmon](/images/flash/persimmons-color-brush-2-web.jpg)](https://frogsfrogs.github.io/images/flash/persimmons-color-brush-2-web.jpg)  
+> size: 2-3 inches wide.   
 
 
 > Mockups. On a pic of the leg of yrs truly. Scroll down for swatches.  
