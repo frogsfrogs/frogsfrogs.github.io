@@ -7,36 +7,41 @@ permalink: /flash-designs/
 <br>
 <br><br>
 Available Designs:  
-(click on image for full size file)
+= Listed sizes are preferred/minimum. Can be bigger.  
+= Pricing is for listed size. Pricing might vary a little depending on placement.    
+(please click on image and view full size file)
 <br><br>
 
 
 
 [![drawingsheet](/images/flash/drawingsheet.jpg)](https://frogsfrogs.github.io/images/flash/drawingsheet.jpg)
-#sp1: 2.5 inches wide.  
-#sp2: 4 to 5 inches wide.  
-#sp2.2: 3.5 to 4.5 inches wide.  
-#3.1: 6 inches tall.  
-#3.2: 5 inches tall.  
+#sp1: 2.5 inches wide. 200.  
+#sp2: 5.5 inches wide. 300.  
+#sp2.2: 4.5 inches wide. 250.  
+#3.1: 6 inches tall. 225.  
+#3.2: 6 inches tall. 300.  
 <br>
 <br>
 
 [![paintedsheet](/images/flash/paintedsheet.jpg)](https://frogsfrogs.github.io/images/flash/paintedsheet.jpg)
-#3.6: 6 inches wide.  
-#3.3: 5-7 inches tall.  
-#3.4: 5-7 inches tall.  
-persimmons: 2-3 inches wide.   
+= Color prices may be a bit higher depending on the placement. I will let you know in my email reply to booking form request.  
+#3.6: 5.5 inches wide. (just the flower not the leaf) 375.  
+#3.4: 6 inches tall. 300.  
+#3.3: 6.5 inches tall. 325.  
+= (the little persimmons are time intensive for how small they are).  
+#2.5-2.7: 2 inches wide. 300.  
+#2.8: 3 inches wide. 350.  
 <br>
 <br> 
 
 [![lotus_3_5b](/images/flash/lotus_3_5b.jpg)](https://frogsfrogs.github.io/images/flash/lotus_3_5b.jpg) 
-#3.5: 8 inches tall.  
+#3.5: 8 inches tall. Pricing depends on placement. Probably 2 sessions, 200-300 per session.  
 <br>
 <br>
 
 [![shoals](/images/flash/shoals.jpg)](https://frogsfrogs.github.io/images/flash/shoals.jpg)
-#sh1: Can be as large as desired. Minimum size 8 inches tall.  
-#sh2: Can be as large as desired. Minimum size 10 inches tall.  
+#sh1: Can be as large as desired. Minimum size 8 inches tall. Starts at 325.  
+#sh2: Can be as large as desired. Minimum size 10 inches tall. Starts at 350.  
 <br>
 <br>
 
