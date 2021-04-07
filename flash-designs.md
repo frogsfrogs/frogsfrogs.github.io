@@ -60,9 +60,9 @@ Available Designs:
 >[![lotus_mockups](/images/flash/lotus_mockups.jpg)](https://frogsfrogs.github.io/images/flash/lotus_mockups.jpg)  
 >[![redlotusmockup](/images/flash/redlotus_mockup.jpg)](https://frogsfrogs.github.io/images/flash/redlotus_mockup.jpg)  
 >[![shoals_mockup_1](/images/flash/shoals_mockup_1.jpg)](https://frogsfrogs.github.io/images/flash/shoals_mockup_1.jpg)  
->[![shoalplacement2](/images/flash/shoalplacement2.jpg)](https://frogsfrogs.github.io/images/flash/shoalplacement2.jpg)  
+>[![shoalplacement2](/images/flash/shoalplacement2.JPG)](https://frogsfrogs.github.io/images/flash/shoalplacement2.JPG)  
 >[![shoals_mockup_2](/images/flash/shoals_mockup_2.jpg)](https://frogsfrogs.github.io/images/flash/shoals_mockup_2.jpg)  
->[![shoalplacement](/images/flash/shoalplacement.jpg)](https://frogsfrogs.github.io/images/flash/shoalplacement.jpg)  
+>[![shoalplacement](/images/flash/shoalplacement.JPG)](https://frogsfrogs.github.io/images/flash/shoalplacement.JPG)  
 >[![persimmons_mockup](/images/flash/persimmons_mockup.jpg)](https://frogsfrogs.github.io/images/flash/persimmons_mockup.jpg)  
 
 > Approximate tone samples  
