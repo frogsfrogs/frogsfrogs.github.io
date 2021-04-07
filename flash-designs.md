@@ -72,6 +72,7 @@ Available Designs:
 >[![shoal2_dark](/images/flash/shoal2_dark.jpg)](https://frogsfrogs.github.io/images/flash/shoal2_dark.jpg)  
 >[![axolotl_mid](/images/flash/axolotl_mid.jpg)](https://frogsfrogs.github.io/images/flash/axolotl_mid.jpg)  
 >[![lotus_3_3_dark](/images/flash/lotus_3_3_dark.jpg)](https://frogsfrogs.github.io/images/flash/lotus_3_3_dark.jpg)  
+>[![redlotus_dark](/images/flash/redlotus_dark.jpg)](https://frogsfrogs.github.io/images/flash/redlotus_dark.jpg)  
 >[![persimmons_mid](/images/flash/persimmons_mid.jpg)](https://frogsfrogs.github.io/images/flash/persimmons_mid.jpg)  
 
 
