@@ -5,14 +5,61 @@ permalink: /flash-designs/
 ---
 <a href="/">back</a>
 <br>
-<br>
-Scroll to end for scrappy mockups  
 <br><br>
 Available Designs:  
 (click on image for full size file)
 <br><br>
 
-> Sparrows.  
+
+
+[![drawingsheet](/images/flash/drawingsheet.jpg)](https://frogsfrogs.github.io/images/flash/drawingsheet.jpg)
+#sp1: 2.5 inches wide.  
+#sp2: 4 to 5 inches wide.  
+#sp2.2: 3.5 to 4.5 inches wide.  
+#3.1: 6 inches tall.  
+#3.2: 5 inches tall.  
+<br>
+<br>
+
+[![paintedsheet](/images/flash/paintedsheet.jpg)](https://frogsfrogs.github.io/images/flash/paintedsheet.jpg)
+#3.6: 6 inches wide.  
+#3.3: 5-7 inches tall.  
+#3.4: 5-7 inches tall.  
+persimmons: 2-3 inches wide.   
+<br>
+<br> 
+
+[![lotus_3_5b](/images/flash/lotus_3_5b.jpg)](https://frogsfrogs.github.io/images/flash/lotus_3_5b.jpg) 
+#3.5: 8 inches tall.  
+<br>
+<br>
+
+[![shoals](/images/flash/shoals.jpg)](https://frogsfrogs.github.io/images/flash/shoals.jpg)
+#sh1: Can be as large as desired. Minimum size 8 inches tall.  
+#sh2: Can be as large as desired. Minimum size 10 inches tall.  
+<br>
+<br>
+
+**Tone Reference.**  
+= Just a reference view with a grain of salt. Colors usually don't look this muted irl but digital layering is limited.  
+>[![drawingsheet](/images/flash/drawingsheet_tones.jpg)](https://frogsfrogs.github.io/images/flash/drawingsheet_tones.jpg)  
+>[![paintedsheet_tones](/images/flash/paintedsheet_tones.jpg)](https://frogsfrogs.github.io/images/flash/paintedsheet_tones.jpg)  
+>[![shoals_tones](/images/flash/shoals_tones.jpg)](https://frogsfrogs.github.io/images/flash/shoals_tones.jpg)  
+
+**Scrappy mockups**  
+= On yrs truly's leg.  
+= Placements are not set feel free to request for not leg  
+>[![sparrows_mockup](/images/flash/sparrows_mockup.jpg)](https://frogsfrogs.github.io/images/flash/sparrows_mockup.jpg)  
+>[![redlotusmockup](/images/flash/redlotus_mockup.jpg)](https://frogsfrogs.github.io/images/flash/redlotus_mockup.jpg)  
+>[![swallow_axolotl](/images/flash/swallow_axolotl.jpg)](https://frogsfrogs.github.io/images/flash/swallow_axolotl.jpg)  
+>[![lotus_mockups](/images/flash/lotus_mockups.jpg)](https://frogsfrogs.github.io/images/flash/lotus_mockups.jpg)  
+>[![shoals_mockup_1](/images/flash/shoals_mockup_1.jpg)](https://frogsfrogs.github.io/images/flash/shoals_mockup_1.jpg)  
+>[![shoalplacement2](/images/flash/shoalplacement2.JPG)](https://frogsfrogs.github.io/images/flash/shoalplacement2.JPG)  
+>[![shoals_mockup_2](/images/flash/shoals_mockup_2.jpg)](https://frogsfrogs.github.io/images/flash/shoals_mockup_2.jpg)  
+>[![shoalplacement](/images/flash/shoalplacement.JPG)](https://frogsfrogs.github.io/images/flash/shoalplacement.JPG)  
+>[![persimmons_mockup](/images/flash/persimmons_mockup.jpg)](https://frogsfrogs.github.io/images/flash/persimmons_mockup.jpg)  
+
+<!-- > Sparrows.  
 >[![sparrows](/images/flash/sparrows.jpg)](https://frogsfrogs.github.io/images/flash/sparrows.jpg)  
 > #sp1: 2.5 inches wide.  
 > #sp2: 4 to 5 inches wide.  
@@ -65,7 +112,7 @@ Available Designs:
 >[![shoalplacement](/images/flash/shoalplacement.JPG)](https://frogsfrogs.github.io/images/flash/shoalplacement.JPG)  
 >[![persimmons_mockup](/images/flash/persimmons_mockup.jpg)](https://frogsfrogs.github.io/images/flash/persimmons_mockup.jpg)  
 
-> Approximate tone samples  
+> Tone samples for not my leg    
 >[![sparrows_dark](/images/flash/sparrows_dark.jpg)](https://frogsfrogs.github.io/images/flash/sparrows_dark.jpg)  
 >[![swallow_mid](/images/flash/swallow_mid.jpg)](https://frogsfrogs.github.io/images/flash/swallow_mid.jpg)  
 >[![shoal1_mid](/images/flash/shoal1_mid.jpg)](https://frogsfrogs.github.io/images/flash/shoal1_mid.jpg)  
@@ -76,3 +123,4 @@ Available Designs:
 >[![persimmons_mid](/images/flash/persimmons_mid.jpg)](https://frogsfrogs.github.io/images/flash/persimmons_mid.jpg)  
 
 
+ -->
