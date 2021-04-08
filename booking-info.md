@@ -41,12 +41,12 @@ Please read this FAQ before submitting a booking form.
 **Color Tests**  
 - Color tests available free of charge (after a project is accepted and you intend to get the tattoo that booking period but before you put down a deposit). Color tests are not required.  
 <br>
-<!-- 
-Complexion  
+
+<!-- Complexion  
 - I tattoo all complexions.  
 - I fully trust that people know best what they want on their own bodies.  
 - If there is something to do with complexion that I am not confident with on a technical level, I will offer a steep discount if the client is generous to trust me with the project anyways, as it would be a learning tattoo.  
-- I am well settled in the styles I tattoo in though, so the above rarely comes up nowadays.  
+- I am well settled in the styles I tattoo in though, so the above rarely comes up nowadays.   
 <br> -->
 
 **Consultation**  
@@ -59,6 +59,7 @@ Complexion
 <br>
 
 **Pricing**  
+
 <!-- - I will send you the price quote in my email response to your booking request. Usually it is flat rate, sometimes hourly or day rate if it is a big project. For more expensive projects I often send a sliding scale quote. If you are uncertain about sliding scale pricing <a href="/sliding-scale">please see this note about it</a>.  
 - If it is out of budget, let me know I will send you a sliding scale pricing.    
 - Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  

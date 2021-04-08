@@ -9,7 +9,8 @@ permalink: /flash-designs/
 Available Designs:  
 = Listed sizes are preferred/minimum. Can be bigger.  
 = Pricing is for listed size. Pricing might vary a little depending on placement.    
-(please click on image and view full size file)
+(please click on image and view full size file)  
+(on mobile you should be able to just zoom in on this page)  
 <br><br>
 
 
