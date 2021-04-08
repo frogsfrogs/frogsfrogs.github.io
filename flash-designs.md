@@ -37,12 +37,12 @@ Available Designs:
 
 [![paintedsheet](/images/flash/paintedsheet.jpg)](https://frogsfrogs.github.io/images/flash/paintedsheet.jpg)
 = Color prices may be a bit higher depending on the placement. I will let you know in my email reply to booking form request.  
-#3.6: 5.5 inches wide. (just the flower not the leaf) 375.  
+#3.6: 5.5 inches wide. (just the flower not the leaf) 350.  
 #3.4: 6 inches tall. 300.  
 #3.3: 6.5 inches tall. 325.  
 = (the little persimmons are time intensive for how small they are).  
-#2.5-2.7: 2 inches wide. 300.  
-#2.8: 3 inches wide. 350.  
+#2.5-2.7: 2 inches wide. 250.  
+#2.8: 3 inches wide. 325.  
 <br>
 <br> 
 
