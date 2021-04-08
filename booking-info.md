@@ -5,10 +5,10 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: OPEN  
-I will close them when my April spots are filled, likely in the next 2 days.  
+Books are currently: CLOSED  
+<!-- I will close them when my April spots are filled, likely in the next 2 days.   -->
 <br>
-[Booking Form Link](https://form.jotform.com/210240919510142)  
+<!-- [Booking Form Link](https://form.jotform.com/210240919510142)   -->
 Please read this FAQ before submitting a booking form.   
 ---
 <br>
@@ -25,7 +25,8 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Flash Designs**  
-- [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-designs)   
+<!-- - [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-designs)    -->
+- Flash Designs will be posted here when books open.
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
 <br>
 
