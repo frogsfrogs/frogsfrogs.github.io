@@ -20,7 +20,7 @@ Available Designs:
 
 
 [![drawingsheet](/images/flash/drawingsheet.jpg)](https://frogsfrogs.github.io/images/flash/drawingsheet.jpg)
-= **tentatively TAKEN** #sp1: 2.5 inches wide. 175.   
+= **TAKEN** ~~#sp1: 2.5 inches wide. 175.~~   
 = **tentatively TAKEN** #sp2: 5.5 inches wide. 300.  
 = #sp2.2: 4.5 inches wide. 250.  
 = **tentatively TAKEN** #3.1: 6 inches tall. 225.  
@@ -42,7 +42,7 @@ see end for mockups.
 <br> -->
 
 [![circleshoals](/images/flash/circleshoals.jpg)](https://frogsfrogs.github.io/images/flash/circleshoalsjpg)  
-= **TAKEN: #SH3**  
+= **TAKEN** ~~#sh3: Can be as large as desired. 5 inches tall or larger. 250, goes up with size.~~  
 = #sh4: Can be as large as desired. 5 inches tall or larger. 250, goes up with size.  
 <br>
 <br>
@@ -76,7 +76,7 @@ see end for mockups.
 <br>
 
 [![handknot](/images/flash/3_10.jpg)](https://frogsfrogs.github.io/images/flash/3_10.jpg)
-= **tentatively TAKEN** #3.10: 6 inches tall. 300.  
+= **TAKEN** ~~#3.10: 6 inches tall. 300.~~  
 <br>
 <br>
 
@@ -84,7 +84,7 @@ see end for mockups.
 Color prices may depend on placement. Will quote by email.    
 = **tentatively TAKEN** #3.6: 5.5 inches wide. (just the flower not the leaf) 350.  
 = **AVAILABLE** #3.4: 6 inches tall. 300.  
-= **tentatively TAKEN** #3.3: 6.5 inches tall. 325.    
+= **TAKEN** ~~#3.3: 6.5 inches tall. 325.~~    
 **all persimmons have several pending requests**  
 = #2.5-2.7: 2 inches wide. 250.  
 = #2.8: 3 inches wide. 300.  
