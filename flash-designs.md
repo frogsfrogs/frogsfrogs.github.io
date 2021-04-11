@@ -7,10 +7,10 @@ permalink: /flash-designs/
 <br>
 <br><br>
 Available Designs:  
-= Listed sizes are preferred/minimum. Can be bigger.  
+= Listed sizes are preferred/minimum. Can be bigger. Will not do smaller.  
 = Pricing is for listed size, might vary a little depending on placement.  
-= Each design tattooed once.  
-= I will cross designs out as they get booked.  
+= Each design tattooed once, I will cross designs out as they get booked.  
+= Will consider all placements but probably will favor arm/leg/back/chest placements over side/rib/sternum.  
 = Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
   
 (on mobile you should be able to just zoom in on this page)  
