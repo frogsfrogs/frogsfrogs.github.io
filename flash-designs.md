@@ -9,7 +9,7 @@ permalink: /flash-designs/
 Available Designs:  
 = Listed sizes are preferred/minimum. Can be bigger. Will not do smaller.  
 = Pricing is for listed size, might vary a little depending on placement.  
-= Each design tattooed once, I will cross designs out as they get booked.  
+= Each design tattooed once, I will mark designs 'TAKEN' in the description as they get booked.  
 = Will consider all placements but probably will favor arm/leg/back/chest placements over side/rib/sternum.  
 = Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
   
@@ -42,7 +42,7 @@ see end for mockups.
 <br> -->
 
 [![circleshoals](/images/flash/circleshoals.jpg)](https://frogsfrogs.github.io/images/flash/circleshoalsjpg)  
-#sh3, #sh4: Can be as large as desired. 5 inches tall or larger. 250, goes up with size.  
+TAKEN: #SH3. #sh4: Can be as large as desired. 5 inches tall or larger. 250, goes up with size.  
 <br>
 <br>
 
@@ -69,7 +69,7 @@ see end for mockups.
 <br>
 
 [![chahuaknot](/images/flash/3_9.jpg)](https://frogsfrogs.github.io/images/flash/3_9.jpg)
-#3.9: 8.5 inches tall, linework (300) or full color (500).  
+TAKEN #3.9: 8.5 inches tall, linework (300) or full color (500).  
 <br>
 <br>
 
