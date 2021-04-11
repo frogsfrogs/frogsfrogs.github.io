@@ -19,7 +19,7 @@ Available Designs:
 
 
 [![drawingsheet](/images/flash/drawingsheet.jpg)](https://frogsfrogs.github.io/images/flash/drawingsheet.jpg)
-#sp1: 2.5 inches wide. 200.  
+#sp1: 2.5 inches wide. 175. 
 #sp2: 5.5 inches wide. 300.  
 #sp2.2: 4.5 inches wide. 250.  
 #3.1: 6 inches tall. 225.  
