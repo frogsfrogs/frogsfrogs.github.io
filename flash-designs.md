@@ -72,17 +72,17 @@ see below for mockups.
 <br> 
 
 [![meihuaknot](/images/flash/3_8.jpg)](https://frogsfrogs.github.io/images/flash/3_8.jpg)
-#3.8: 10 inches tall  
+#3.8: 9.5-10 inches tall, full color (450) or linework only (350).  
 <br>
 <br>
 
 [![chahuaknot](/images/flash/3_9.jpg)](https://frogsfrogs.github.io/images/flash/3_9.jpg)
-#3.9: 8.5 inches tall  
+#3.9: 8.5 inches tall, full color (500) or linework only (300).  
 <br>
 <br>
 
 [![handknot](/images/flash/3_10.jpg)](https://frogsfrogs.github.io/images/flash/3_10.jpg)
-#3.10: 6 inches tall  
+#3.10: 6 inches tall. 300.  
 <br>
 <br>
 
