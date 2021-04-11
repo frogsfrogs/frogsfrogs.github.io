@@ -72,12 +72,12 @@ see below for mockups.
 <br> 
 
 [![meihuaknot](/images/flash/3_8.jpg)](https://frogsfrogs.github.io/images/flash/3_8.jpg)
-#3.8: 9.5-10 inches tall, full color (450) or linework only (350).  
+#3.8: 9.5-10 inches tall, linework (350) or full color (500).  
 <br>
 <br>
 
 [![chahuaknot](/images/flash/3_9.jpg)](https://frogsfrogs.github.io/images/flash/3_9.jpg)
-#3.9: 8.5 inches tall, full color (500) or linework only (300).  
+#3.9: 8.5 inches tall, linework (300) or full color (500).  
 <br>
 <br>
 
@@ -98,6 +98,7 @@ see below for mockups.
 >[![mockup2](/images/flash/mockup2.jpg)](https://frogsfrogs.github.io/images/flash/mockup2.jpg)  
 >[![mockup3](/images/flash/mockup3.jpg)](https://frogsfrogs.github.io/images/flash/mockup3.jpg)  
 >[![mockup4](/images/flash/mockup4.jpg)](https://frogsfrogs.github.io/images/flash/mockup4.jpg)  
+>[![knotsmockup](/images/flash/knotsmockup.jpg)](https://frogsfrogs.github.io/images/flash/knotsmockup.jpg)  
 >[![mockup5](/images/flash/mockup5.jpg)](https://frogsfrogs.github.io/images/flash/mockup5.jpg)  
 
 <!-- >[![sparrows_mockup](/images/flash/sparrows_mockup.jpg)](https://frogsfrogs.github.io/images/flash/sparrows_mockup.jpg)  
