@@ -42,7 +42,8 @@ see end for mockups.
 <br> -->
 
 [![circleshoals](/images/flash/circleshoals.jpg)](https://frogsfrogs.github.io/images/flash/circleshoalsjpg)  
-TAKEN: #SH3. #sh4: Can be as large as desired. 5 inches tall or larger. 250, goes up with size.  
+**TAKEN: #SH3**  
+#sh4: Can be as large as desired. 5 inches tall or larger. 250, goes up with size.  
 <br>
 <br>
 
@@ -69,7 +70,7 @@ see end for mockups.
 <br>
 
 [![chahuaknot](/images/flash/3_9.jpg)](https://frogsfrogs.github.io/images/flash/3_9.jpg)
-TAKEN #3.9: 8.5 inches tall, linework (300) or full color (500).  
+**TAKEN** ~~#3.9: 8.5 inches tall, linework (300) or full color (500).~~  
 <br>
 <br>
 
