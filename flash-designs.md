@@ -66,7 +66,7 @@ see end for mockups.
 <br>
 
 [![meihuaknot](/images/flash/3_8.jpg)](https://frogsfrogs.github.io/images/flash/3_8.jpg)
-= **tentatively TAKEN** #3.8: 9.5-10 inches tall, linework (350) or full color (500).  
+= **TAKEN** ~~#3.8: 9.5-10 inches tall, linework (350) or full color (500).~~  
 <br>
 <br>
 
