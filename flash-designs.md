@@ -30,7 +30,7 @@ see end for mockups.
 <br>
 
 [![shoals](/images/flash/shoals.jpg)](https://frogsfrogs.github.io/images/flash/shoals.jpg)
-#sh1: Can be as large as desired. 8 inches tall or larger. 325, goes up with size.  
+**tentatively TAKEN** #sh1: Can be as large as desired. 8 inches tall or larger. 325, goes up with size.  
 #sh2: Can be as large as desired. 10 inches tall or larger. 350, goes up with size.  
 <br>
 <br>
