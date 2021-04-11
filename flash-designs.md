@@ -29,18 +29,6 @@ see end for mockups.
 <br>
 <br>
 
-[![biglotus](/images/flash/Biglotus.png)](https://frogsfrogs.github.io/images/flash/Biglotus.png)
-[![lotusmockups](/images/flash/lotusmockups.jpg)](https://frogsfrogs.github.io/images/flash/lotusmockups.jpg)
-#3.7: 12.5 inches tall or larger. Pricing depends on placement + size. At least 2-3 sessions, 250-500 per session (again really depends on scale). First session in April, second session in May, further sessions may mean travel or for you to wait until I come back in town later this year.    
-<br>
-<br>
-
-[![lotus_3_5b](/images/flash/lotus_3_5b.jpg)](https://frogsfrogs.github.io/images/flash/lotus_3_5b.jpg) 
-#3.5: 8 inches tall. Pricing depends on placement. 2-3 sessions, 200-350 per session. First session in April, second session in May.  
-see end for mockups.  
-<br>
-<br>
-
 [![shoals](/images/flash/shoals.jpg)](https://frogsfrogs.github.io/images/flash/shoals.jpg)
 #sh1: Can be as large as desired. 8 inches tall or larger. 325, goes up with size.  
 #sh2: Can be as large as desired. 10 inches tall or larger. 350, goes up with size.  
@@ -60,6 +48,18 @@ see end for mockups.
 
 [![hole_fish2](/images/flash/hole_fish2.jpg)](https://frogsfrogs.github.io/images/flash/hole_fish2.jpg)
 #sh5, #sh6: 3.75 inches tall. 200.  
+<br>
+<br>
+
+[![lotus_3_5b](/images/flash/lotus_3_5b.jpg)](https://frogsfrogs.github.io/images/flash/lotus_3_5b.jpg) 
+#3.5: 8 inches tall. Pricing depends on placement. 2-3 sessions, 200-350 per session. First session in April, second session in May.  
+see end for mockups.  
+<br>
+<br>
+
+[![biglotus](/images/flash/Biglotus.png)](https://frogsfrogs.github.io/images/flash/Biglotus.png)
+[![lotusmockups](/images/flash/lotusmockups.jpg)](https://frogsfrogs.github.io/images/flash/lotusmockups.jpg)
+#3.7: 12.5 inches tall or larger. Pricing depends on placement + size. At least 2-3 sessions, 250-500 per session (again really depends on scale). First session in April, second session in May, further sessions may mean travel or for you to wait until I come back in town later this year.    
 <br>
 <br>
 
