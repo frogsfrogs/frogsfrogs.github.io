@@ -5,11 +5,13 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: CLOSED  
-<!-- I will close them when my April spots are filled, likely in the next 2 days.   -->
+Books are currently: **OPEN**  
+I will close them when my April spots are filled, going to start getting back to people tonight, more or less booking requests as they come in.    
+<br>
+This might be the last booking round before I move away, I'm not sure if I will open books again for late May, if I do it will be a mini booking round, probably flash only as well.  
 <br>
 <!-- [Booking Form Link](https://form.jotform.com/210240919510142)   -->
-Please read this FAQ before submitting a booking form.   
+**Please read this FAQ before submitting a booking form, thank you!**  
 ---
 <br>
 <br>
@@ -25,8 +27,8 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Flash Designs**  
-<!-- - [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-designs)    -->
-- Flash Designs will be posted here when books open.
+- [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-designs)   
+<!-- - Flash Designs will be posted here when books open. -->
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
 <br>
 
@@ -54,7 +56,8 @@ Please read this FAQ before submitting a booking form.
 <br>
 
 **Cover-ups**  
-- I usually do not do cover-ups, but occasionally I will take on this kind of project. Usually the design has to be a lot bigger than the old one to be effective.  
+<!-- - I usually do not do cover-ups, but occasionally I will take on this kind of project. Usually the design has to be a lot bigger than the old one to be effective. -->  
+- Not doing cover-ups right now. Will consider blast overs.  
 - Adding onto / 'evolving' an old tattoo I usually also do not do.    
 <br>
 
@@ -65,17 +68,18 @@ Please read this FAQ before submitting a booking form.
 - Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  
 - My appointment minimum is $150.   -->
 - Prices are listed on the flash page.  
-- No obligation to tip, as I currently work at a collective space so the studio doesn't take a cut.  
+- Tipping not expected, as I currently work at a collective space so the studio doesn't take a cut.  
 <br>
 
 **COVID-19 VACCINE**  
-- IF YOU ARE GETTING/HAVE GOTTEN THE COVID-19 VACCINE: please wait at least 2 weeks after your final shot before getting your tattoo with me. There is a distinct possibility of poor tattoo healing or pseudo-allergic reactions with tattoos done directly after receiving a vaccine shot, due to increased immune system reactivity.  
+- IF YOU ARE GETTING/HAVE GOTTEN THE COVID-19 VACCINE: please wait at least 1.5 weeks after your final shot before getting your tattoo with me. There is a distinct possibility of poor tattoo healing or pseudo-allergic reactions with tattoos done directly after receiving a vaccine shot, due to increased immune system reactivity.  
 <br>
 
 **Deposits, Cancellations, Rescheduling**  
 - There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo.  
-- Please try to let me know as soon as possible if you need to cancel or reschedule - if I have time to fill the spot and I succeed I will refund the deposit always (usually if you can give me 3-4 days notice). If not, I'll still always apply it towards your tattoo if we do it later.  
-- If for any reason you need to back out last minute, please please just shoot me an email and let me know, I won't be mad! It just really sucks to be sitting around waiting for an hour thinking someone is going to show up.  
+- Please try to let me know as soon as possible if you need to cancel - if I have time to fill the spot and I succeed I will refund the deposit always (usually if you can give me 3-4 days notice). If not, I'll still always apply it towards your tattoo if we do it later.  
+- **As this is my last 1.5 months here before moving away, I cannot accommodate any reschedules at this time.**
+- If for any reason you need to back out last minute, please please just shoot me an email and let me know, I won't be mad! It just really sucks to be sitting around waiting for an hour thinking someone is going to show up and then I also can't fill it.  
 <br>
 
 **Touchups**  
@@ -85,7 +89,7 @@ Please read this FAQ before submitting a booking form.
 
 **Location + Miscellaneous**  
 - I'm at Moonrise Tattoo Collective([insta](https://instagram.com/moonrise.tattoo)); it's right off the Morgan L stop.  
-- My studiomate's friendly dog hangs out in the studio sometimes, let me know if this is an issue.  
+- My studiomate's friendly dog hangs out in the studio sometimes, let me know if you can't be around dogs for any reason.  
 - Also if you can't be around anything else, whether allergy things or scents or loud music or anything, just let me know.  
 <br>
 

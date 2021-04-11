@@ -4,7 +4,7 @@ entries:
       - title: <a href="/booking-info/">Booking FAQ</a>  
       - title: Join my tattoo mailing list
         url: https://eepurl.com/hgUiO9
-      # - title: <a href="/flash-designs/">Available Designs</a>
-      # - title: Booking Request Form
-      #   url: https://form.jotform.com/210240919510142
+      - title: <a href="/flash-designs/">Available Designs</a>
+      - title: Booking Request Form
+        url: https://form.jotform.com/210240919510142
   - title: <a href="/about/">About</a>
