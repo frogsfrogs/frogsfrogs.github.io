@@ -9,7 +9,7 @@ permalink: /flash-designs/
 Available Designs:  
 = Listed sizes are preferred/minimum. Can be bigger. Will not do smaller.  
 = Pricing is for listed size, might vary a little depending on placement.  
-= Each design tattooed once, I will mark designs 'TAKEN' in the description as they get booked.  
+= Each design tattooed once, I will mark designs 'TAKEN' in the description as they get booked. 'tentatively TAKEN' means I replied to someone's request for a piece but they haven't booked it in yet.   
 = Will consider all placements but probably will favor arm/leg/back/chest placements over side/rib/sternum.  
 = Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
   
@@ -20,11 +20,11 @@ Available Designs:
 
 
 [![drawingsheet](/images/flash/drawingsheet.jpg)](https://frogsfrogs.github.io/images/flash/drawingsheet.jpg)
-#sp1: 2.5 inches wide. 175.   
-#sp2: 5.5 inches wide. 300.  
+**tentatively TAKEN** #sp1: 2.5 inches wide. 175.   
+**tentatively TAKEN** #sp2: 5.5 inches wide. 300.  
 #sp2.2: 4.5 inches wide. 250.  
-#3.1: 6 inches tall. 225.  
-#3.2: 6 inches tall. 300.  
+**tentatively TAKEN** #3.1: 6 inches tall. 225.  
+**tentatively TAKEN** #3.2: 6 inches tall. 300.  
 see end for mockups.  
 <br>
 <br>
@@ -54,19 +54,19 @@ see end for mockups.
 <br>
 
 [![lotus_3_5b](/images/flash/lotus_3_5b.jpg)](https://frogsfrogs.github.io/images/flash/lotus_3_5b.jpg) 
-#3.5: 8 inches tall. Pricing depends on placement. 2-3 sessions, 200-350 per session. First session in April, second session in May.  
+**tentatively TAKEN** #3.5: 8 inches tall. Pricing depends on placement. 2-3 sessions, 200-350 per session. First session in April, second session in May.  
 see end for mockups.  
 <br>
 <br>
 
 [![biglotus](/images/flash/Biglotus.png)](https://frogsfrogs.github.io/images/flash/Biglotus.png)
 [![lotusmockups](/images/flash/lotusmockups.jpg)](https://frogsfrogs.github.io/images/flash/lotusmockups.jpg)
-#3.7: 12.5 inches tall or larger. Pricing depends on placement + size. At least 2-3 sessions, 250-500 per session (again really depends on scale). First session in April, second session in May, further sessions may mean travel or for you to wait until I come back in town later this year.    
+**tentatively TAKEN** #3.7: 12.5 inches tall or larger. Pricing depends on placement + size. At least 2-3 sessions, 250-500 per session (again really depends on scale). First session in April, second session in May, further sessions may mean travel or for you to wait until I come back in town later this year.    
 <br>
 <br>
 
 [![meihuaknot](/images/flash/3_8.jpg)](https://frogsfrogs.github.io/images/flash/3_8.jpg)
-#3.8: 9.5-10 inches tall, linework (350) or full color (500).  
+**tentatively TAKEN** #3.8: 9.5-10 inches tall, linework (350) or full color (500).  
 <br>
 <br>
 
@@ -76,15 +76,15 @@ see end for mockups.
 <br>
 
 [![handknot](/images/flash/3_10.jpg)](https://frogsfrogs.github.io/images/flash/3_10.jpg)
-#3.10: 6 inches tall. 300.  
+**tentatively TAKEN** #3.10: 6 inches tall. 300.  
 <br>
 <br>
 
 [![paintedsheet2](/images/flash/paintedsheet2.jpg)](https://frogsfrogs.github.io/images/flash/paintedsheet2.jpg)
 = Color prices may depend on placement. Will quote by email.    
-#3.6: 5.5 inches wide. (just the flower not the leaf) 350.  
+**tentatively TAKEN** #3.6: 5.5 inches wide. (just the flower not the leaf) 350.  
 #3.4: 6 inches tall. 300.  
-#3.3: 6.5 inches tall. 325.    
+**tentatively TAKEN** #3.3: 6.5 inches tall. 325.    
 #2.5-2.7: 2 inches wide. 250.  
 #2.8: 3 inches wide. 300.  
 <br>
