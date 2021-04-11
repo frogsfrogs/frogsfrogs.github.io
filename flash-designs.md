@@ -48,7 +48,8 @@ see end for mockups.
 <br>
 
 [![hole_fish2](/images/flash/hole_fish2.jpg)](https://frogsfrogs.github.io/images/flash/hole_fish2.jpg)
-#sh5, #sh6: 3.75 inches tall. 200.  
+#sh5: 3.75 inches tall. 200.  
+**TAKEN** ~~#sh6: 3.75 inches tall. 200.~~  
 <br>
 <br>
 
