@@ -5,10 +5,8 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: **OPEN**  
-I will close them when my April spots are filled, going to start getting back to people tonight, more or less booking requests as they come in.    
-<br>
-This might be the last booking round before I move away, I'm not sure if I will open books again for late May, if I do it will be a mini booking round, probably flash only as well.  
+Books are currently: **CLOSED**  
+Thank you everybody who reached out!! I'll be emailing everyone back over the next few days,I might be a bit slow at emails but you will get a reply either way, so please be patient with me and it's not necessarily a no if you don't see an email right away : )  
 <br>
 <!-- [Booking Form Link](https://form.jotform.com/210240919510142)   -->
 **Please read this FAQ before submitting a booking form, thank you!**  
