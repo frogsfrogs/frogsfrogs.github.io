@@ -76,7 +76,7 @@ see end for mockups.
 <br>
 
 [![handknot](/images/flash/3_10.jpg)](https://frogsfrogs.github.io/images/flash/3_10.jpg)
-= **TAKEN** ~~#3.10: 6 inches tall. 300.~~  
+= **AVAILABLE** #3.10: 6 inches tall. 300.  
 <br>
 <br>
 
