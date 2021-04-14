@@ -6,7 +6,7 @@ permalink: /flash-designs/
 <a href="/">back</a>
 <br>
 <br><br>
-**NONE OF THESE AVAILABLE** (books are closed, just leaving this page up for reference)
+**NONE OF THESE AVAILABLE** (books are closed, just leaving this page up for reference)  
 = Listed sizes are preferred/minimum. Can be bigger. Will not do smaller.  
 = Pricing is for listed size, might vary a little depending on placement.  
 = Each design tattooed once, I will mark designs 'TAKEN' in the description as they get booked. 'tentatively TAKEN' means I replied to someone's request for a piece but they haven't booked it in yet.   
