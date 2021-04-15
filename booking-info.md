@@ -80,11 +80,6 @@ Thank you everybody who reached out about April + May 2021 appointments!! I'll b
 - If for any reason you need to back out last minute, please please just shoot me an email and let me know, I won't be mad! It just really sucks to be sitting around waiting for an hour thinking someone is going to show up and then I also can't fill it.  
 <br>
 
-**Touchups**  
-- I do 1 free touchup within the first 6 months. After that I still do touchups for a fee (fee depends on the scope/scale). Book touchups using the normal booking form.  
-- Please let your tattoo heal at least 1 month before getting it touched up.  
-<br>
-
 **Location + Miscellaneous**  
 - I'm at Moonrise Tattoo Collective([insta](https://instagram.com/moonrise.tattoo)); it's right off the Morgan L stop.  
 - My studiomate's friendly dog hangs out in the studio sometimes, let me know if you can't be around dogs for any reason.  
