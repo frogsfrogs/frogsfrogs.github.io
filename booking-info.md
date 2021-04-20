@@ -69,6 +69,12 @@ Thank you everybody who reached out about April + May 2021 appointments!! I'll b
 - Tipping not expected, as I currently work at a collective space so the studio doesn't take a cut.  
 <br>
 
+**Touchups**  
+- I do 1 free touchup within the first 6 months. After that I still do touchups for a fee (fee depends on the scope/scale). Book touchups using the normal booking form.  
+- Please let your tattoo heal at least 1 month before getting it touched up.  
+<br>
+
+
 **COVID-19 VACCINE**  
 - IF YOU ARE GETTING/HAVE GOTTEN THE COVID-19 VACCINE: please wait at least 1.5 weeks after your final shot before getting your tattoo with me. There is a distinct possibility of poor tattoo healing or pseudo-allergic reactions with tattoos done directly after receiving a vaccine shot, due to increased immune system reactivity.  
 <br>
