@@ -83,7 +83,7 @@ see end for mockups.
 [![paintedsheet2](/images/flash/paintedsheet2.jpg)](https://frogsfrogs.github.io/images/flash/paintedsheet2.jpg)
 Color prices may depend on placement. Will quote by email.    
 = #3.6: 5.5 inches wide. (just the flower not the leaf) 350.  
-= #3.4: 6 inches tall. 300.  
+= #3.4: 6 inches tall. 325.  
 = #3.3: 6.5 inches tall. 325.    
 = #2.5-2.7: 2 inches wide. 250.  
 = #2.8: 3 inches wide. 300.  
