@@ -5,6 +5,8 @@ permalink: /flash-designs/
 ---
 <a href="/">back</a>
 <br>
+Books are currently: **CLOSED**  
+I am moving away next month, so please don't send me any inquiries about tattoo booking right now. I will announce any guest spots by email on the mailing list!  
 <br><br>
 **NONE OF THESE AVAILABLE** (books are closed, just leaving this page up for reference)  
 = Listed sizes are preferred/minimum. Can be bigger. Will not do smaller.  

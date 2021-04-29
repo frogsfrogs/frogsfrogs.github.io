@@ -6,7 +6,7 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently: **CLOSED**  
-Thank you everybody who reached out about April + May 2021 appointments!! I'll be emailing everyone back over the next few days,I might be a bit slow at emails but you will get a reply either way, so please be patient with me and it's not necessarily a no if you don't see an email right away : )  
+I am moving away next month, so please don't send me any inquiries about tattoo booking right now. I will announce any guest spots by email on the mailing list!  
 <br>
 <!-- [Booking Form Link](https://form.jotform.com/210240919510142)   -->
 **Please read this FAQ before submitting a booking form, thank you!**  
