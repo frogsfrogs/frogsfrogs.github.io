@@ -108,12 +108,12 @@ I will announce any new guest spots by email on the mailing list!
 <br>
 
 [![yufeian_birds](/images/flash/yufeian_birds.JPG)](https://frogsfrogs.github.io/images/flash/yufeian_birds.JPG)
-= #yfa1: 11-13 inches or taller. Limb or back placement. 2-3 sessions (must be able to commit beyond January).  
+= #yfa1: 11-13 inches or taller. Limb or back placement. 2-3 sessions (must be able to commit beyond January). A painting by famous painter Yu Fei An.  
 <br>
 <br>
 
 [![yufeian_birds2](/images/flash/yufeian_birds2.JPG)](https://frogsfrogs.github.io/images/flash/yufeian_birds2.JPG)
-= #yfa2: 12 inches or taller. Limb placement. 2-3 sessions (must be able to commit beyond January).  
+= #yfa2: 12 inches or taller. Limb placement. 2-3 sessions (must be able to commit beyond January). A painting by famous painter Yu Fei An.  
 <br>
 <br>
 
