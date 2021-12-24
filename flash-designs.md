@@ -86,12 +86,12 @@ I will announce any new guest spots by email on the mailing list!
 <br>
 <br>
 
-[![persimmon_bw](/images/flash/persimmon_bw.jpg)](https://frogsfrogs.github.io/images/flash/persimmon_bw.jpg)
+[![persimmon_bw](/images/flash/persimmon_bw.JPG)](https://frogsfrogs.github.io/images/flash/persimmon_bw.JPG)
 = #54: 7 inches tall.    
 <br>
 <br>
 
-[![singlepersimmon](/images/flash/singlepersimmon.jpg)](https://frogsfrogs.github.io/images/flash/singlepersimmon.jpg)
+[![singlepersimmon](/images/flash/singlepersimmon.JPG)](https://frogsfrogs.github.io/images/flash/singlepersimmon.JPG)
 = #leafy1: 4 inches or taller.  
 <br>
 <br>
