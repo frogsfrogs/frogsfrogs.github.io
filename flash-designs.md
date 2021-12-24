@@ -107,12 +107,12 @@ I will announce any new guest spots by email on the mailing list!
 <br>
 <br>
 
-[![yufeian_birds](/images/flash/yufeian_birds.jpg)](https://frogsfrogs.github.io/images/flash/yufeian_birds.jpg)
+[![yufeian_birds](/images/flash/yufeian_birds.JPG)](https://frogsfrogs.github.io/images/flash/yufeian_birds.JPG)
 = #yfa1: 11-13 inches or taller. Limb or back placement. 2-3 sessions (must be able to commit beyond January).  
 <br>
 <br>
 
-[![yufeian_birds2](/images/flash/yufeian_birds2.jpg)](https://frogsfrogs.github.io/images/flash/yufeian_birds2.jpg)
+[![yufeian_birds2](/images/flash/yufeian_birds2.JPG)](https://frogsfrogs.github.io/images/flash/yufeian_birds2.JPG)
 = #yfa2: 12 inches or taller. Limb placement. 2-3 sessions (must be able to commit beyond January).  
 <br>
 <br>
