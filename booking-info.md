@@ -20,7 +20,7 @@ Please join mailing list to receive the booking form link when books open. I wil
 - Once to twice a month, I will email out to my mailing list when my books open. At that time a link to a tattoo booking form will appear on this website. Some time later I will put the link in my instagram bio link as well.  
 - I only book tattoos through the booking form. Please do not email or DM with booking requests.  
 - New flash posted here when books open. I will keep both this page & instagram flash highlight updated with availability. If I have last minute openings or cancellations come up, I will post on instagram story.    
-- [You can join my mailing list at this link](http://eepurl.com/hD-omr)  
+- [You can join my mailing list at this link](o)  
 - My tattoo work can be viewed [here](https://instagram.com/molymoli_) on instagram.  
 <br>
 
