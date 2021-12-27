@@ -11,7 +11,7 @@ Books are currently: **OPEN**
 **AVAILABLE**  
 <!-- (books are closed, just leaving this page up for reference)   -->  
 = Listed sizes are preferred, but usually I'm down to do a bit bigger or smaller. 2 inches is the smallest I will go though.  
-= I will provide price quote in my email response to your booking form. Pricing varies based on size and placement. Color and bw shading take a longer time than linework only.   
+= I will provide price quote in my email response to your booking form. Pricing varies based on size and placement. See booking info for more details.  
 = Designs will be crossed out if they become unavailable. Each tattooed up to twice (but usually only once). If this is something you care about please put a note in the booking form.  
 = Will consider all placements but I will favor arm/leg/back placements. I have some injuries that make it difficult for me to book placements that require me to stand/hover.  
 = Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
