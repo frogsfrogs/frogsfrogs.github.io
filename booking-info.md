@@ -5,11 +5,12 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: **CLOSED**  
-Please join mailing list to receive the booking form link when books open. I will open books within the next week or two for Jan 2022 in LA. I originally said I was going to be here until May but now I am not sure how long I will stay in LA because it is looking like the classes I moved here to take are going to move online oops.  
+Books are currently: **OPEN**  
+<!-- Please join mailing list to receive the booking form link when books open.   -->
 <br>
-<!-- [Booking Form Link](https://form.jotform.com/210240919510142)   -->
-**Please read this FAQ before submitting a booking form, thank you!**  
+---  
+**Booking Form link at bottom of page.  
+Please read info below before submitting a booking form, thank you!**  
 ---
 <br>
 <br>
@@ -19,7 +20,7 @@ Please join mailing list to receive the booking form link when books open. I wil
 <br>
 - Once to twice a month, I will email out to my mailing list when my books open. At that time a link to a tattoo booking form will appear on this website. Some time later I will put the link in my instagram bio link as well.  
 - I only book tattoos through the booking form. Please do not email or DM with booking requests.  
-- New flash posted here when books open. I will keep both this page & instagram flash highlight updated with availability. If I have last minute openings or cancellations come up, I will post on instagram story.    
+- New flash posted here when books open. I will keep both this page updated with availability. If I have last minute openings or cancellations come up, I will post on my instagram story.    
 - [You can join my mailing list at this link](o)  
 - My tattoo work can be viewed [here](https://instagram.com/molymoli_) on instagram.  
 <br>
@@ -62,7 +63,7 @@ Please join mailing list to receive the booking form link when books open. I wil
 - If it is out of budget, let me know I will send you a sliding scale pricing.    
 - Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  
 - My appointment minimum is $150.   -->
-- Prices are listed on the flash page, may vary a bit depending on placement/sizing, I will give you an exact quote in my email reply to your booking form.  
+- I will send you the price quote in my email response to your booking request. Usually it is flat rate, sometimes hourly or session rate if it is a big project.   
 - Tips not expected, the price you are quoted is the total cost of the tattoo.  
 <br>
 
@@ -76,28 +77,31 @@ Please join mailing list to receive the booking form link when books open. I wil
 <br>
 
 **Deposits, Cancellations, Rescheduling**  
-- There is a $50 deposit to book the appointment, it goes towards the cost of the tattoo.  
+- There is a nonrefundable deposit equivalent to 25% of the cost of the tattoo to book the appointment, it goes towards the cost of the tattoo.  
 - Please try to let me know as soon as possible if you need to cancel - if I have time to fill the spot and I succeed I will refund the deposit always (usually if you can give me 3-4 days notice). If not, I'll still always apply it towards your tattoo if we do it later.  
 - **As I am currently traveling, it is difficult to accommodate reschedules at this time (though I will try).**
 - If for any reason you need to back out last minute, please please just shoot me an email and let me know, I won't be mad! It just really sucks to be sitting around waiting for an hour thinking someone is going to show up and then I also can't fill it.  
 <br>
 
 **Location + Miscellaneous**  
-- Currently in Los Angeles - most likely will be guesting out of various spaces around Ktown and DTLA.  
+- Currently in Los Angeles at least until end of January - most likely will be guesting out of various spaces around Ktown and DTLA.  
 <br>
 
 ---
 ## COVID-19 PRECAUTIONS POLICIES - REQUIRED FOR APPOINTMENT  
 <br>
 
-- **Please come wearing a mask covering nose & mouth and keep it on for the duration of the appointment.** Ideally a KN-95 or N-95 mask, but if there is difficulty in obtaining one, I will have extra on hand.  
-- **Regardless if you are vaccinated or not, please get PCR tested within 72 hours of our appointment** and if it comes back positive let me know immediately and I will do my best to reschedule you later on free of additional charge, or if that is not possible I will refund your deposit. No hard feelings or anything if so. I ask that you please honor this as I am high risk (currently going through diagnosis of possible autoimmune disease).  
+- <h4 style="color: #B80000;">Please come wearing a mask covering nose & mouth and keep it on for the duration of the appointment.</h4> Ideally a KN-95 or N-95 mask, but if there is difficulty in obtaining one, I will have extra on hand.  
+- <h4 style="color: #B80000;">Please get PCR tested within 72 hours before our appointment, regardless if you are vaccinated or not</h4> If it comes back positive, let me know immediately and I will do my best to reschedule you later on free of additional charge, or if that is not possible I will refund your deposit. No hard feelings or anything if so. I ask that you please honor this as I have increased risk (currently going through diagnosis of possible autoimmune disease).  
 - Please **RESCHEDULE** if you are sick/someone you came into contact is sick. I will reschedule w/ no additional deposit or refund if necessary for this!!  
 - Please **NO companions**, though they are welcome to accompany you up to the point of the building door.  
 - Please **EAT before** your appointment! Also please bring your own water bottle.  
 
 ### Last note -  I have a chronic cough  
-I've had it for 7 years. It is due to non-infectious reasons (stomach issues). On worse days I will have spurts of coughing, on better days it's barely there - I just want to disclose this beforehand as it understandably can make people nervous. I will be masked up the whole time of the appointment.   
+I've had it for about 7 years. It is due to non-infectious reasons (stomach issues). On worse days I will have spurts of coughing, on better days it's barely there - I just want to disclose this beforehand as it understandably can make people nervous. I will be masked up the whole time of the appointment.   
 
+---
 
+># [Booking Form Link](https://form.jotform.com/210240919510142)  
 
+---

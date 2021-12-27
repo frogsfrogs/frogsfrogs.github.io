@@ -5,15 +5,15 @@ permalink: /flash-designs/
 ---
 <a href="/">back< </a>
 <br>
-Books are currently: **CLOSED**  
-Please join mailing list to receive the booking form link when books open. I will open books within the next week or two for Jan 2022 in LA. I originally said I was going to be here until May but now I am not sure how long I will stay in LA because it is looking like the classes I moved here to take are going to move online oops.  
+Books are currently: **OPEN**  
+<!-- Please join mailing list to receive the booking form link when books open. I will open books within the next week or two for Jan 2022 in LA. I originally said I was going to be here until May but now I am not sure how long I will stay in LA because it is looking like the classes I moved here to take are going to move online oops.  
 
-I will announce any new guest spots by email on the mailing list!  
+I will announce any new guest spots by email on the mailing list!   -->
 <br><br>
 **AVAILABLE** 
-(books are closed, just leaving this page up for reference)  
+<!-- (books are closed, just leaving this page up for reference)   -->
 = Listed sizes are preferred, but usually I'm down to do a bit bigger or smaller. 2 inches is the smallest I will go though.  
-= Pricing is an estimate may vary depending on placement and sizing. I will provide exact pricing in my email response to your booking form. Full colorwork and blackwork take a longer time for good quality, this is why the pricing for them is higher.   
+= I will provide price quote in my email response to your booking form. Pricing varies based on size and placement. Color and bw shading take a longer time than linework only.   
 = Designs will be crossed out if they become unavailable. Each tattooed up to twice (but usually only once). If this is something you care about please put a note in the booking form.  
 = Will consider all placements but I will favor arm/leg/back placements. I have some injuries that make it difficult for me to book placements that require me to stand/hover.  
 = Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
@@ -22,7 +22,64 @@ I will announce any new guest spots by email on the mailing list!
 (if not please click on image to view full size file)  
 <br><br>
 
-[![wannado](/images/flash/wannado.jpg)](https://frogsfrogs.github.io/images/flash/wannado.jpg)
+[![flashsheet](/images/flash/flashsheet.png)](https://frogsfrogs.github.io/images/flash/flashsheet.png)  
+= #cat1: 2.5-3.5 inches wide.  
+= #haw1:  3 inches or taller.  
+= #shishi2 (see <a href="/red-seal">note</a>):  3.5-5 inches wide.  
+= #capy2: 3-4 inches wide.  
+= #monkey1: 2.25-3inches tall.  
+= #birdy1: 2x3 inches to 2.5x4 inches.  
+= #kero1: 2-3 inches tall.  
+= #lentil1: 3-4 inches tall.    
+= #lentil2: 2.75-4 inches tall.  
+= #wirt1: 3.5-4 inches tall.  
+= #bb1: 3-4 inches or taller. 
+<br>
+<br>
+
+[![persimmon_bw](/images/flash/persimmon_bw.png)](https://frogsfrogs.github.io/images/flash/persimmon_bw.png)
+= #54 (see <a href="/red-seal">note</a>): 6-7 inches or taller.    
+<br>
+<br>
+
+[![lanternbearers](/images/flash/LB.png)](https://frogsfrogs.github.io/images/flash/LB.png)
+= #LB: 2.5 x 4.5 inches. BW shading.  
+<br>
+<br>
+
+[![yufeian](/images/flash/yufeian_flowers.png)](https://frogsfrogs.github.io/images/flash/yufeian_flowers.png)  
+= #camellia1: 2.5 inches or taller.  
+= #camellia2: 3 inches or taller.  
+= #camellia3: 4-5 inches tall.  
+= #leihua: 4.5-5 inches wide.  
+<br>
+<br>
+
+[![H1-2](/images/flash/H1-2.png)](https://frogsfrogs.github.io/images/flash/H1-2.png)  
+= #H1: any size, minimum 3.5 inches tall.  
+= #H2: any size, minimum 3.5 inches tall.  
+<br>
+
+[![H3-4](/images/flash/H3-4.png)](https://frogsfrogs.github.io/images/flash/H3-4.png)  
+= #H3: any size, minimum 4 inches tall. with or without rectangle.  
+= #H4: 4.5-5 inches tall.  
+<br>
+
+[![H5-6](/images/flash/H5-6.png)](https://frogsfrogs.github.io/images/flash/H5-6.png)  
+= #H5: 3 inches or taller.  
+= #H6: 3 inches or taller.  
+<br>
+
+[![H7-9](/images/flash/H7-9.png)](https://frogsfrogs.github.io/images/flash/H7-9.png)  
+= #H7: minimum 4.5 inches wide. 
+= #H8: minimum 3 inches wide.  
+= #H9: 3.5 x 5.5 inches.  
+<br>
+
+[![H10-11](/images/flash/H10-11.png)](https://frogsfrogs.github.io/images/flash/H10-11.png)  
+= #H10: at least 6 inches tall.  
+= #H11: at least 4-5 inches tall.  
+<br>
 
 <!-- 
 [![botanical_old](/images/flash/botanical_old.jpg)](https://frogsfrogs.github.io/images/flash/botanical_old.jpg)
