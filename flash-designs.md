@@ -8,10 +8,11 @@ permalink: /flash-designs/
 Books are currently: **OPEN**  
 <!-- Please join mailing list to receive the booking form link when books open. I will open books within the next week or two for Jan 2022 in LA. I originally said I was going to be here until May but now I am not sure how long I will stay in LA because it is looking like the classes I moved here to take are going to move online oops.  
 
-I will announce any new guest spots by email on the mailing list!   -->
+I will announce any new guest spots by email on the mailing list!   -->  
+
 <br><br>
-**AVAILABLE** 
-<!-- (books are closed, just leaving this page up for reference)   -->
+**AVAILABLE**  
+<!-- (books are closed, just leaving this page up for reference)   -->  
 = Listed sizes are preferred, but usually I'm down to do a bit bigger or smaller. 2 inches is the smallest I will go though.  
 = I will provide price quote in my email response to your booking form. Pricing varies based on size and placement. Color and bw shading take a longer time than linework only.   
 = Designs will be crossed out if they become unavailable. Each tattooed up to twice (but usually only once). If this is something you care about please put a note in the booking form.  
