@@ -36,7 +36,7 @@ Books are currently: **OPEN**
 <br>
 
 [![persimmon_bw](/images/flash/persimmon_bw.png)](https://frogsfrogs.github.io/images/flash/persimmon_bw.png)
-= #54 (see <a href="/red-seal">note</a>): 6-7 inches or taller.    
+= #54 (see <a href="/red-seal">note</a>): 6-7 inches or taller. BW shading.  
 <br>
 <br>
 
