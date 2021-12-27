@@ -59,7 +59,7 @@ Books are currently: **OPEN**
 <br>
 
 [![H3-4](/images/flash/H3-4.png)](https://frogsfrogs.github.io/images/flash/H3-4.png)  
-= #H3: any size, minimum 4 inches tall. with or without rectangle.  
+= #H3: any size, minimum 4 inches tall. With or without rectangle.  
 = #H4: 4.5-5 inches tall.  
 <br>
 
@@ -75,7 +75,7 @@ Books are currently: **OPEN**
 <br>
 
 [![H10-11](/images/flash/H10-11.png)](https://frogsfrogs.github.io/images/flash/H10-11.png)  
-= #H10: at least 6 inches tall.  
+= #H10: at least 6 inches tall. With rectangle.  
 = #H11: at least 4-5 inches tall.  
 <br>
 
