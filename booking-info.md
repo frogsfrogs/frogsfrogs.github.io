@@ -5,14 +5,16 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: **OPEN**  
-<!-- Please join mailing list to receive the booking form link when books open.   -->
+Books are currently: **CLOSED**  
+*Thank you if you submitted a booking request for Jan 2022 in LA! I will start responding to everyone by email in the next few days, as soon as I get confirmation on my guest spot dates.*  
+
+Please join mailing list to receive the booking form link when books next open.  
 <br>
 ---  
-**Booking Form link at bottom of page.  
+<!-- **Booking Form link at bottom of page.  
 Please read info below before submitting a booking form, thank you!**  
 ---
-<br>
+<br> -->
 <br>
 <br>
 
@@ -64,7 +66,7 @@ Please read info below before submitting a booking form, thank you!**
 - Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  
 - My appointment minimum is $150.   -->
 - I will send you the price quote in my email response to your booking request. Usually it is flat rate, sometimes hourly or session rate if it is a big project.  
-- For a rough idea, my appointment minimum is 150, so simplest designs are around 150, small-medium blackwork only designs 200-300, small-med color/bw shading 250-400, medium-larger full bw shading/color 400-800. My prices have gone up because I've developed a ton of joint issues by tattooing too much and too intensely the last few years so I have increased my rates so that I can work a manageable amount instead of quitting all together. I'm really sorry that this will likely price out some people I might've been able to work with otherwise, I hope to return to sliding scale in the future when I am settled down in one place again.  
+<!-- - For a rough idea, my appointment minimum is 150, so simplest designs are around 150, small-medium blackwork only designs 200-300, small-med color/bw shading 250-400, medium-larger full bw shading/color 400-800. My prices have gone up because I've developed a ton of joint issues by tattooing too much and too intensely the last few years so I have increased my rates so that I can work a manageable amount instead of quitting all together. I'm really sorry that this will likely price out some people I might've been able to work with otherwise, I hope to return to sliding scale in the future when I am settled down in one place again.   -->
 - Tips not expected, the price you are quoted is the total cost of the tattoo.  
 <br>
 
@@ -101,8 +103,8 @@ Please read info below before submitting a booking form, thank you!**
 ### Last note -  I have a chronic cough  
 I've had it for about 7 years. It is due to non-infectious reasons (stomach issues). On worse days I will have spurts of coughing, on better days it's barely there - I just want to disclose this beforehand as it understandably can make people nervous. I will be masked up the whole time of the appointment.   
 
----
+<!-- ---
 
 ># [Booking Form Link](https://form.jotform.com/212941513054246)  
 
----
+--- -->

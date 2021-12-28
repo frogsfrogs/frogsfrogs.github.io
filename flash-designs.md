@@ -5,11 +5,12 @@ permalink: /flash-designs/
 ---
 <a href="/">back< </a>
 <br>
-Books are currently: **OPEN**  
+Books are currently: **CLOSED**  
+*Thank you if you submitted a booking request for Jan 2022 in LA! I will start responding to everyone by email in the next few days, as soon as I get confirmation on my guest spot dates.*  
 
 <br><br>
-**AVAILABLE**  
-<!-- (books are closed, just leaving this page up for reference)   -->  
+**FLASH**  
+(books are closed, just leaving this page up for reference)    
 = Listed sizes are preferred, but usually I'm down to do a bit bigger or smaller. 2 inches is the smallest I will go though.  
 = I will provide price quote in my email response to your booking form. Pricing varies based on size and placement. See booking info for more details.  
 = Designs will be crossed out if they become unavailable. Each tattooed up to twice (but usually only once). If this is something you care about please put a note in the booking form.  
