@@ -6,7 +6,7 @@ permalink: /flash-designs/
 <a href="/">back< </a>
 <br>
 Books are currently: **CLOSED**  
-*Thank you if you submitted a booking request for Jan 2022 in LA! I will start responding to everyone by email in the next few days, as soon as I get confirmation on my guest spot dates.*  
+*Thank you if you submitted a booking request for Jan 2022 in LA! I have responded to all inquiries.*  
 
 <br><br>
 **FLASH**  
@@ -25,43 +25,43 @@ Books are currently: **CLOSED**
 = #cat1: 2.5-3.5 inches wide.  
 = #haw1:  3 inches or taller.  
 = #shishi2 (see <a href="/red-seal">note</a>):  3.5-5 inches wide.  
-= #capy2: 3-4 inches wide.  
+= <s>#capy2: 3-4 inches wide.</s> unavailable  
 = #monkey1: 2.25-3inches tall.  
 = #birdy1: 2x3 inches to 2.5x4 inches.  
 = #kero1: 2-3 inches tall.  
 = #lentil1: 3-4 inches tall.    
 = #lentil2: 2.75-4 inches tall.  
 = #wirt1: 3.5-4 inches tall.  
-= #bb1: 3-4 inches or taller. 
+= <s>#bb1: 3-4 inches or taller.</s> unavailable  
 <br>
 <br>
 
 [![persimmon_bw](/images/flash/persimmon_bw.png)](https://frogsfrogs.github.io/images/flash/persimmon_bw.png)
-= #54 (see <a href="/red-seal">note</a>): 6-7 inches or taller. BW shading.  
+= <s>#54 (see <a href="/red-seal">note</a>): 6-7 inches or taller. BW shading.</s> unavailable  
 <br>
 <br>
 
 [![lanternbearers](/images/flash/LB.png)](https://frogsfrogs.github.io/images/flash/LB.png)
-= #LB: 2.5 x 4.5 inches. BW shading.  
+= <s>#LB: 2.5 x 4.5 inches. BW shading.</s> unavailable  
 <br>
 <br>
 
 [![yufeian](/images/flash/yufeian_flowers.png)](https://frogsfrogs.github.io/images/flash/yufeian_flowers.png)  
-= #camellia1: 2.5 inches or taller.  
-= #camellia2: 3 inches or taller.  
-= #camellia3: 4-5 inches tall.  
-= #leihua: 4.5-5 inches wide.  
+= <s>#camellia1: 2.5 inches or taller.</s> unavailable  
+= <s>#camellia2: 3 inches or taller.</s> unavailable  
+= <s>#camellia3: 4-5 inches tall.</s> unavailable  
+= <s>#leihua: 4.5-5 inches wide.</s> unavailable  
 <br>
 <br>
 
 [![H1-2](/images/flash/H1-2.png)](https://frogsfrogs.github.io/images/flash/H1-2.png)  
-= #H1: any size, minimum 3.5 inches tall.  
-= #H2: any size, minimum 3.5 inches tall.  
+= <s>#H1: any size, minimum 3.5 inches tall.</s> unavailable  
+= <s>#H2: any size, minimum 3.5 inches tall.</s> unavailable  
 <br>
 
 [![H3-4](/images/flash/H3-4.png)](https://frogsfrogs.github.io/images/flash/H3-4.png)  
-= #H3: any size, minimum 4 inches tall. With or without rectangle.  
-= #H4: 4.5-5 inches tall.  
+= <s>#H3: any size, minimum 4 inches tall. With or without rectangle.</s> unavailable  
+= <s>#H4: 4.5-5 inches tall.</s> unavailable  
 <br>
 
 [![H5-6](/images/flash/H5-6.png)](https://frogsfrogs.github.io/images/flash/H5-6.png)  
@@ -76,7 +76,7 @@ Books are currently: **CLOSED**
 <br>
 
 [![H10-11](/images/flash/H10-11.png)](https://frogsfrogs.github.io/images/flash/H10-11.png)  
-= #H10: at least 6 inches tall. With rectangle.  
+= <s>#H10: at least 6 inches tall. With rectangle.</s> unavailable  
 = #H11: at least 4-5 inches tall.  
 <br>
 
