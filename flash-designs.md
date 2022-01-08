@@ -32,11 +32,11 @@ Books are currently: **CLOSED**
 = #lentil1: 3-4 inches tall.    
 = #lentil2: 2.75-4 inches tall.  
 = #wirt1: 3.5-4 inches tall.  
-= <s>#bb1: 3-4 inches or taller.</s> unavailable  
+= #bb1: 3-4 inches or taller.  
 <br>
 <br>
 
-[![persimmon_bw](/images/flash/persimmon_bw.png)](https://frogsfrogs.github.io/images/flash/persimmon_bw.png)
+<!-- [![persimmon_bw](/images/flash/persimmon_bw.png)](https://frogsfrogs.github.io/images/flash/persimmon_bw.png)
 = <s>#54 (see <a href="/red-seal">note</a>): 6-7 inches or taller. BW shading.</s> unavailable  
 <br>
 <br>
@@ -62,7 +62,7 @@ Books are currently: **CLOSED**
 [![H3-4](/images/flash/H3-4.png)](https://frogsfrogs.github.io/images/flash/H3-4.png)  
 = <s>#H3: any size, minimum 4 inches tall. With or without rectangle.</s> unavailable  
 = <s>#H4: 4.5-5 inches tall.</s> unavailable  
-<br>
+<br> -->
 
 [![H5-6](/images/flash/H5-6.png)](https://frogsfrogs.github.io/images/flash/H5-6.png)  
 = #H5: 3 inches or taller.  
@@ -70,7 +70,7 @@ Books are currently: **CLOSED**
 <br>
 
 [![H7-9](/images/flash/H7-9.png)](https://frogsfrogs.github.io/images/flash/H7-9.png)  
-= #H7: minimum 4.5 inches wide. 
+= #H7: minimum 4.5 inches wide.  
 = #H8: minimum 3 inches wide.  
 = #H9: 3.5 x 5.5 inches.  
 <br>
