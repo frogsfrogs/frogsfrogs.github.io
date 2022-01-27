@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "oranges"
-categories: journal
+categories: journal prose
 date: 2022-01-27 00:41:00
 ---
 <a href="/blog-posts">all blog posts< </a>  
