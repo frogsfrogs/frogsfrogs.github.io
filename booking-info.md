@@ -7,6 +7,7 @@ permalink: /booking-info/
 <br>
 Books are currently: **OPEN**  
 *- Now taking booking requests for Feb-March 2022, Sundays in Brooklyn -*  
+*Will leave forms open for 2-3 days*  
 
 <!-- Please join mailing list to receive the booking form link when books next open.   -->
 <br>
