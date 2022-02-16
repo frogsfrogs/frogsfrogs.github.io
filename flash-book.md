@@ -6,7 +6,7 @@ permalink: /flash-book/
 <a href="/">back< </a>
 <br>
 Books are currently: **OPEN**  
-*- Now taking booking requests for Feb-March 2022, Sundays in Brooklyn -*  
+*- see <a href="/booking-info">booking info page</a> to book -*  
 
 <br><br>
 **FLASHBOOK**  
