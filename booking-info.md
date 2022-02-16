@@ -109,8 +109,9 @@ Please read info below before submitting a booking form, thank you!**
 ### Last note -  I have a chronic cough  
 I've had it for about 7 years. It is due to non-infectious reasons (stomach issues). On worse days I will have spurts of coughing, on better days it's barely there - I just want to disclose this beforehand as it understandably can make people nervous. I will be masked up the whole time of the appointment.   
 
-<!-- ---
+---
 
-># [Booking Form Link](https://form.jotform.com/212941513054246)  
+># [CUSTOM DESIGN Booking Form Link](https://form.jotform.com/213116766264254)  
+># [FLASH DESIGN Booking Form Link](https://form.jotform.com/212941513054246)  
 
---- -->
+---
