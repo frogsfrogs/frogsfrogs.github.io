@@ -70,6 +70,7 @@ Please read info below before submitting a booking form, thank you!**
 <!-- - For a rough idea, my appointment minimum is 150, so simplest designs are around 150, small-medium blackwork only designs 200-300, small-med color/bw shading 250-400, medium-larger full bw shading/color 400-800. My prices have gone up because I've developed a ton of joint issues by tattooing too much and too intensely the last few years so I have increased my rates so that I can work a manageable amount instead of quitting all together. I'm really sorry that this will likely price out some people I might've been able to work with otherwise, I hope to return to sliding scale in the future when I am settled down in one place again.   -->
 - Tips not expected.  
 - Cash only  
+- Will have some either pay-what-you-want or sliding scale apptmts available in April next time I do booking.  
 <br>
 
 **Touchups**  
