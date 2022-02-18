@@ -5,16 +5,14 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: **OPEN**  
-*- Now taking booking requests for Feb-March 2022, Sundays in Brooklyn -*  
-*Will leave forms open for 2-3 days*  
-**EDIT** - More interest than expected, likely going to just book April as well from these requests  
-<!-- Please join mailing list to receive the booking form link when books next open.   -->
-<br>
+Books are currently: **CLOSED**  
+*- Thanks for submitting booking requests! I will be responding to them within the next week-ish -*  
+Please join mailing list to receive the booking form link when books next open.  
+<!-- <br>
 ---  
 **Booking Form links at bottom of page.  
 Please read info below before submitting a booking form, thank you!**  
----
+--- -->
 <br>
 <br>
 <br>
@@ -111,8 +109,8 @@ Please read info below before submitting a booking form, thank you!**
 I've had it for about 7 years. It is due to non-infectious reasons (stomach issues). On worse days I will have spurts of coughing, on better days it's barely there - I just want to disclose this beforehand as it understandably can make people nervous. I will be masked up the whole time of the appointment.   
 
 ---
-
+<!-- 
 ># [FLASH DESIGN Booking Form Link](https://form.jotform.com/212941513054246)  
 ># [CUSTOM DESIGN Booking Form Link](https://form.jotform.com/213116766264254)  
-
+ -->
 ---

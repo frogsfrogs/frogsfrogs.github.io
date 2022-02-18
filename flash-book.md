@@ -5,8 +5,9 @@ permalink: /flash-book/
 ---
 <a href="/">back< </a>
 <br>
-Books are currently: **OPEN**  
-*- see <a href="/booking-info">booking info page</a> to book -*  
+Books are currently: **CLOSED**  
+*- Thanks for submitting booking requests! I will be responding to them within the next week-ish -*  
+*- see <a href="/booking-info">booking info page</a> for mailing list -*  
 
 <br><br>
 **FLASHBOOK**  
