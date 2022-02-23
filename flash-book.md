@@ -40,7 +40,7 @@ Books are currently: **CLOSED**
 <br>
 
 [![yufeian_birds2](/images/flash/yufeian_birds2.JPG)](https://frogsfrogs.github.io/images/flash/yufeian_birds2.JPG)
-= #yfa2: 12-13 inches or taller. Full color. Limb placement preferred. 2-3 full day sessions (Feb-April 2022). A painting by Yu Fei An. Not repeatable.  
+= <s>#yfa2: 12-13 inches or taller. Full color. Limb placement preferred. 2-3 full day sessions (Feb-April 2022). A painting by Yu Fei An. Not repeatable.</s> **unavailable**  
 <br>
 <br>
 
