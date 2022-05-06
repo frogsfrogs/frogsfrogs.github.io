@@ -36,15 +36,15 @@ Shoal
 
 [![turtles](/images/flash/13.jpg)](https://frogsfrogs.github.io/images/flash/13.jpg)  
 Memento Mori  
-= #13: 5.5-6 inches or taller (including smoke height)  
-= #14: 6 inches or taller.  
-= #15: 6 inches or taller (including smoke height)  
+= #13: 5.5-6 inches or taller (including smoke height). available.  
+= #14: 6 inches or taller. available.  
+= #15: 6 inches or taller (including smoke height). available.  
 <br>
 <br>
 
 [![moth](/images/flash/15.jpg)](https://frogsfrogs.github.io/images/flash/15.jpg)  
 Memento Mori  
-= #35: 7.5 inches or taller (including smoke height)  
+= #35: 7.5 inches or taller (including smoke height). available.  
 (please ignore the hand that's a random sketch)  
 <br>
 <br>
@@ -52,7 +52,7 @@ Memento Mori
 [![scribblyknots](/images/flash/37.jpg)](https://frogsfrogs.github.io/images/flash/37.jpg)  
 Abstract Lucky Knots  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
-= #37-41: 5 to 10 inches tall.    
+= #37-41: 5 to 10 inches tall. available.   
 <br>
 <br>
 
@@ -62,23 +62,23 @@ Lucky Knots
 Will tattoo these designs once in lines, once in color.  
 Larger sizing preferred.  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
-= #9: 9 inches tall or larger.   
-= #10: 7 inches tall or larger.  
-= #11: 9 inches tall or larger.  
-= #12: 4.5 inches tall or larger.  
+= #9: 9 inches tall or larger. available.   
+= #10: 7 inches tall or larger. available.  
+= #11: 9 inches tall or larger. available.  
+= #12: 4.5 inches tall or larger. available.  
 <br>
 <br>
 
 [![misc](/images/flash/26.jpg)](https://frogsfrogs.github.io/images/flash/26.jpg)  
 = #26: approx 2.5-3 inches wide.  
-= #27: 3.5 inches wide or larger.  
-= #28: 1.75 inches tall or larger.  
-= #29: 1.75 inches tall or larger.  
-= #30: 1.75 inches tall or larger.  
-= #31: 1.5 inches wide or larger.  
-= #32: 3.5 inches wide or larger.  
-= #33: 3.5 inches wide or larger.  
-= #34: 1.75 inches tall or larger.  
+= #27: 3.5 inches wide or larger. available.  
+= #28: 1.75 inches tall or larger. available.  
+= #29: 1.75 inches tall or larger. available.  
+= #30: 1.75 inches tall or larger. available.  
+= #31: 1.5 inches wide or larger. available.  
+= #32: 3.5 inches wide or larger. available.  
+= #33: 3.5 inches wide or larger. available.  
+= #34: 1.75 inches tall or larger. available.  
 <br>
 <br>
 
@@ -86,34 +86,35 @@ Larger sizing preferred.
 [![sunwukong](/images/flash/16.jpg)](https://frogsfrogs.github.io/images/flash/16.jpg)  
 sun wu kong  
 = #16: 7 in. wide x 9.5 in. tall or larger, larger preferred.  
+= available.  
 = this is the sketch - can do it in linework or BW shading.  
 = Please read <a href="/red-seal">this note</a> before requesting.  
 <br>
 <br>
 
 [![pendrawings](/images/flash/17.jpg)](https://frogsfrogs.github.io/images/flash/17.jpg)  
-= #17: 5.5-6 inches tall or larger.  
-= #18: 4 inches tall or larger.  
-= #19: 4 in. wide x 4.75 in. tall or larger.  
-= #20: 3.25 inches tall or larger.  
+= #17: 5.5-6 inches tall or larger. available.  
+= #18: 4 inches tall or larger. available.  
+= #19: 4 in. wide x 4.75 in. tall or larger. available.  
+= #20: 3.25 inches tall or larger. available.  
 <br>
 <br>
 
 [![bunnyknot](/images/flash/24.jpg)](https://frogsfrogs.github.io/images/flash/24.jpg)  
-= #24: 4-5 inches tall or larger.  
-= #25: 4-5 inches tall or larger.  
+= #24: 4-5 inches tall or larger. available.  
+= #25: 4-5 inches tall or larger. available.  
 <br>
 <br>
 
 [![persimmons](/images/flash/22.jpg)](https://frogsfrogs.github.io/images/flash/22.jpg)  
 Persimmons (collaged from paintings by zhang da qian)  
-= #22: approx 5-6 inches tall.  
-= #23: approx 4-5 inches tall.  
+= #22: approx 5-6 inches tall. available.  
+= #23: approx 4-5 inches tall. available.  
 <br>
 <br>
 
 [![flower](/images/flash/36.png)](https://frogsfrogs.github.io/images/flash/36.png)  
-= #camellia2: approx 3-3.5" tall.  
+= #camellia2: approx 3-3.5" tall. available.  
 <br>
 <br>
 
