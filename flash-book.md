@@ -67,6 +67,7 @@ Abstract Lucky Knots
 [![knots](/images/flash/9.jpg)](https://frogsfrogs.github.io/images/flash/9.jpg)  
 Lucky Knots  
 Will tattoo these designs once in lines, once in color.  
+Please specify in the booking form if you want linework only, or color.  
 Larger sizing preferred.  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
 = #9: 9 inches tall or larger. available.   
