@@ -30,7 +30,7 @@ Shoals
 
 [![bigshoal](/images/flash/8.jpg)](https://frogsfrogs.github.io/images/flash/8.jpg)  
 Shoal  
-= #8: minimum size 11 inches tall, larger preferred. available.  
+= #8: minimum size 11 inches tall, larger sizing preferred. available.  
 <br>
 <br>
 
