@@ -13,7 +13,7 @@ Books are currently: **OPEN**
 **FLASHBOOK**  
   
 = All flash placements: arm/leg/back. other placements, maybe.  
-= I **cannot tattoo ribs or side (anything between hip bone and armpit)** due to my back injury, I am unable to sustain the posture needed to tattoo this area.  
+= I **cannot tattoo ribs or side (anything between hip bone and armpit)** due to my back issues, I am unable to sustain the posture needed to tattoo this area.  
 = I will include a price quote in my email response to your booking form, based on size/placement/style.  
 <br>
 <br>
