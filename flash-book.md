@@ -49,13 +49,20 @@ Memento Mori
 <br>
 <br>
 
+[![pendrawings](/images/flash/17.jpg)](https://frogsfrogs.github.io/images/flash/17.jpg)  
+= #17: 5.5-6 inches tall or larger. available.  
+= #18: 4 inches tall or larger. available.  
+= #19: 4 in. wide x 4.75 in. tall or larger. available.  
+= #20: 3.25 inches tall or larger. available.  
+<br>
+<br>
+
 [![scribblyknots](/images/flash/37.jpg)](https://frogsfrogs.github.io/images/flash/37.jpg)  
 Abstract Lucky Knots  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
 = #37-41: 5 to 10 inches tall. available.   
 <br>
 <br>
-
 
 [![knots](/images/flash/9.jpg)](https://frogsfrogs.github.io/images/flash/9.jpg)  
 Lucky Knots  
@@ -66,6 +73,13 @@ Larger sizing preferred.
 = #10: 7 inches tall or larger. available.  
 = #11: 9 inches tall or larger. available.  
 = #12: 4.5 inches tall or larger. available.  
+<br>
+<br>
+
+[![bunnyknot](/images/flash/24.jpg)](https://frogsfrogs.github.io/images/flash/24.jpg)  
+Bunny universe  
+= #24: 4-5 inches tall or larger. available.  
+= #25: 4-5 inches tall or larger. available.  
 <br>
 <br>
 
@@ -82,27 +96,12 @@ Larger sizing preferred.
 <br>
 <br>
 
-
 [![sunwukong](/images/flash/16.jpg)](https://frogsfrogs.github.io/images/flash/16.jpg)  
 sun wu kong  
-= #16: 7 in. wide x 9.5 in. tall or larger, larger preferred.  
+= #16: 7 in. wide x 9.5 in. tall or larger, or really large.  
 = available.  
 = this is the sketch - can do it in linework or BW shading.  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-<br>
-<br>
-
-[![pendrawings](/images/flash/17.jpg)](https://frogsfrogs.github.io/images/flash/17.jpg)  
-= #17: 5.5-6 inches tall or larger. available.  
-= #18: 4 inches tall or larger. available.  
-= #19: 4 in. wide x 4.75 in. tall or larger. available.  
-= #20: 3.25 inches tall or larger. available.  
-<br>
-<br>
-
-[![bunnyknot](/images/flash/24.jpg)](https://frogsfrogs.github.io/images/flash/24.jpg)  
-= #24: 4-5 inches tall or larger. available.  
-= #25: 4-5 inches tall or larger. available.  
 <br>
 <br>
 
@@ -117,6 +116,8 @@ Persimmons (collaged from paintings by zhang da qian)
 = #camellia2: approx 3-3.5" tall. available.  
 <br>
 <br>
+
+
 
 
 
