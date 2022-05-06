@@ -5,14 +5,16 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: **CLOSED**  
-*- Thanks for submitting booking requests! I will be responding to them within the next week-ish -*  
-Please join mailing list to receive the booking form link when books next open.  
-<!-- <br>
+Books are currently: **OPEN**  
+*- Booking form is currently open for May/June 2022! -*  
+
+<!-- Please join mailing list to receive the booking form link when books next open.  
+<br> -->
 ---  
 **Booking Form links at bottom of page.  
 Please read info below before submitting a booking form, thank you!**  
---- -->
+
+---
 <br>
 <br>
 <br>
@@ -34,8 +36,10 @@ Please read info below before submitting a booking form, thank you!**
 <br>
 
 **Custom Designs**  
-- Custom designs will be available to view **at the time of the appointment**. Happy to make any desired adjustment day-of.  
-- Designs that flow around the body like shoals of fish, incense smoke, or rivers may work better as freehand. We can discuss this when you submit a booking form.  
+
+<!-- - Custom designs will be available to view **at the time of the appointment**. Happy to make any desired adjustment day-of.  
+- Designs that flow around the body like shoals of fish, incense smoke, or rivers may work better as freehand. We can discuss this when you submit a booking form.   -->  
+- Not currently booking custom tattoos, flash only.  
 <br>
 
 <!-- **Color Tests**  
@@ -52,7 +56,7 @@ Please read info below before submitting a booking form, thank you!**
 
 **Cover-ups**  
 <!-- - I usually do not do cover-ups, but occasionally I will take on this kind of project. Usually the design has to be a lot bigger than the old one to be effective. -->  
-- Not doing cover-ups right now. Will consider blast overs.  
+- Will consider blast overs but not currently doing cover-ups.  
 <!-- - Adding onto / 'evolving' an old tattoo I usually also do not do.  -->   
 <br>
 
@@ -63,14 +67,16 @@ Please read info below before submitting a booking form, thank you!**
 - Current rates will be listed in the booking form. My rate honestly goes up and down a bit, depending on my work situation in a particular month.  
 - My appointment minimum is $150.   -->
 <!-- - I will send you the price quote in my email response to your booking request. Usually it is flat rate, sometimes hourly or session rate if it is a big project.   -->
-- Currently I am tattooing on Sundays.  
+<!-- - Currently I am tattooing on Sundays.  
 - Booking only by half-day or full-day sessions. Half-day (2ish hrs) is 350. Full-day (4ish hrs) is 650.  
 - (the 2 or 4 hrs is tattooing time, not including stenciling/drawing/setting up etc)  
-- You can get as many tattoos as you'd like, that fit in that session length.  
+- You can get as many tattoos as you'd like, that fit in that session length.  --> 
 <!-- - For a rough idea, my appointment minimum is 150, so simplest designs are around 150, small-medium blackwork only designs 200-300, small-med color/bw shading 250-400, medium-larger full bw shading/color 400-800. My prices have gone up because I've developed a ton of joint issues by tattooing too much and too intensely the last few years so I have increased my rates so that I can work a manageable amount instead of quitting all together. I'm really sorry that this will likely price out some people I might've been able to work with otherwise, I hope to return to sliding scale in the future when I am settled down in one place again.   -->
-- Tips not expected.  
+- Cash tips not expected.  
 - Cash only  
-- Will have some either pay-what-you-want or sliding scale apptmts available in April next time I do booking.  
+- I will let you know a price quote when I reply to your booking form.  
+- Pricing approx 150-250/hr (kind of depends on overall length of session), but lmk ur budget and I'll let you know what I can do.  
+- Appointment minimum 250 (if it's a really small one I'm happy to do more than one).   
 <br>
 
 **Touchups**  
@@ -83,14 +89,14 @@ Please read info below before submitting a booking form, thank you!**
 <br>
 
 **Deposits, Cancellations, Rescheduling**  
-- There is a nonrefundable deposit to book the appointment, it goes towards the cost of the tattoo. Deposit amount is $50 for half-day session, $100 for full-day session.  
+- There is a nonrefundable deposit to book the appointment, it goes towards the cost of the tattoo. Deposit amount is $50 or $100 depending on cost of tattoo.  
 - Please try to let me know as soon as possible if you need to cancel - if I have time to fill the spot and I succeed I will refund the deposit always (usually if you can give me 3-4 days notice).  
 <!-- - **As I am currently traveling, it is difficult to accommodate reschedules at this time (though I will try).** -->
 - If for any reason you need to back out last minute, please please just shoot me an email and let me know, I won't be mad! Much better to know than to come to the studio waiting around.  
 <br>
 
 **Location + Miscellaneous**  
-- Currently in Brooklyn until at least May. Working at private studio in Broadway-Junction area.  
+- Currently in Brooklyn, NY (on Lenape land). Working at private studio in Broadway-Junction area, or sometimes in Ridgewood.    
 <br>
 
 ---
@@ -98,18 +104,17 @@ Please read info below before submitting a booking form, thank you!**
 <br>
 
 - <h4 style="color: #B80000;">Please come wearing a KN-95 or N-95 mask covering nose & mouth and keep it on for the duration of the appointment.</h4> If there is difficulty in obtaining one, I will have extra on hand.  
-- <h4 style="color: #B80000;">Please get tested for COVID within a few days before our appointment, regardless if you are vaccinated or not</h4> Ideally PCR but I realize the results might not come back soon enough, so rapid test morning-of or day-before is find too!  
+- <h4 style="color: #B80000;">Please take a rapid test night before or morning-of our appointment</h4>  
 - If it comes back positive, let me know and I will do my best to reschedule you later on free of additional charge, or if that is not possible I will refund your deposit. No hard feelings or anything if so.  
 <br>
 **I ask that you please honor this as I have increased risk of complications from COVID.**  
 - Please **RESCHEDULE** if you were in contact with someone that got it. I will reschedule w/ no additional deposit or refund if necessary for this!!  
-- Please **NO companions**, though they are welcome to accompany you up to the point of the building door.  
-- Please **EAT before** your appointment! Also please bring your own water bottle.  
-
-### Last note -  I have a chronic cough  
-I've had it for about 7 years. It is due to non-infectious reasons (stomach issues). On worse days I will have spurts of coughing, on better days it's barely there - I just want to disclose this beforehand as it understandably can make people nervous. I will be masked up the whole time of the appointment.   
+- Please **no companions**, though they are welcome to accompany you up to the point of the building door. Sometimes if no one else is working in the studio that day maybe your friend can join us later.  
+- Please **EAT before** your appointment! Also please bring your own water bottle.   
 
 ---
+# [BOOKING FORM LINK](https://form.jotform.com/212941513054246)  
+
 <!-- 
 ># [FLASH DESIGN Booking Form Link](https://form.jotform.com/212941513054246)  
 ># [CUSTOM DESIGN Booking Form Link](https://form.jotform.com/213116766264254)  
