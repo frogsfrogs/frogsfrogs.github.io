@@ -60,7 +60,12 @@ Memento Mori
 [![scribblyknots](/images/flash/37.jpg)](https://frogsfrogs.github.io/images/flash/37.jpg)  
 Abstract Lucky Knots  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
-= #37-41: 5 to 10 inches tall. available.   
+5-6 to 10 inches tall.  
+= #37: available.  
+= #38: available.  
+= #39: **taken**  
+= #40: **taken**  
+= #41: available.  
 <br>
 <br>
 
