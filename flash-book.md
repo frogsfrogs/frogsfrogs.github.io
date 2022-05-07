@@ -24,7 +24,13 @@ Books are currently: **OPEN**
 [![shoals](/images/flash/1.jpg)](https://frogsfrogs.github.io/images/flash/1.jpg)  
 Shoals  
 = prefer to tattoo these large-ish. smallest can do is 3-4 inches.  
-= #1 - #7: available
+= #1: available  
+= #2: **taken**  
+= #3: available  
+= #4: available  
+= #5: available  
+= #6: available  
+= #7: **taken**  
 <br>
 <br>
 
@@ -62,7 +68,7 @@ Abstract Lucky Knots
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
 5-6 to 10 inches tall.  
 = #37: available.  
-= #38: available.  
+= #38: **taken**  
 = #39: **taken**  
 = #40: **taken**  
 = #41: available.  
@@ -98,7 +104,7 @@ Bunny universe
 = #31: 1.5 inches wide or larger. available.  
 = #32: 3.5 inches wide or larger. available.  
 = #33: 3.5 inches wide or larger. available.  
-= #34: 1.75 inches tall or larger. available.  
+= #34: **taken**  
 <br>
 <br>
 
