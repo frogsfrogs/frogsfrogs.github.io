@@ -85,7 +85,7 @@ Larger sizing preferred.
 [![bunnyknot](/images/flash/24.jpg)](https://frogsfrogs.github.io/images/flash/24.jpg)  
 Bunny universe  
 = #24: 4-5 inches tall or larger. available.  
-= #25: 4-5 inches tall or larger. available.  
+= #25: **taken**  
 <br>
 <br>
 
@@ -113,8 +113,8 @@ sun wu kong
 
 [![persimmons](/images/flash/22.jpg)](https://frogsfrogs.github.io/images/flash/22.jpg)  
 Persimmons (collaged from paintings by zhang da qian)  
-= #22: approx 5-6 inches tall. available.  
-= #23: approx 4-5 inches tall. available.  
+= #22: **taken**  
+= #23: **taken**  
 <br>
 <br>
 
