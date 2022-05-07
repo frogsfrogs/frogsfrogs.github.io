@@ -76,7 +76,7 @@ Please read info below before submitting a booking form, thank you!**
 - Cash tips not expected.  
 - Cash only  
 - I will let you know a price quote when I reply to your booking form.  
-- Pricing approx 150-250/hr (kind of depends on overall length of session), but lmk ur budget and I'll let you know what I can do.  
+- Pricing works out to approx 200-250/hr (kind of depends on overall length of session), but lmk ur budget and I'll let you know what I can do!  
 - Appointment minimum 250 (if it's a really small one I'm happy to do more than one).   
 <br>
 
