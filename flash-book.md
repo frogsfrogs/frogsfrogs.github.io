@@ -77,7 +77,7 @@ Larger sizing preferred.
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
 = #9: 9 inches tall or larger. available.   
 = #10: 7 inches tall or larger. available.  
-= #11: 9 inches tall or larger. available.  
+= #11: 10 inches tall or larger. available.  
 = #12: 4.5 inches tall or larger. available.  
 <br>
 <br>
