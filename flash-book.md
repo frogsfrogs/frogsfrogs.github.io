@@ -36,13 +36,13 @@ Shoals
 
 [![bigshoal](/images/flash/8.jpg)](https://frogsfrogs.github.io/images/flash/8.jpg)  
 Shoal  
-= #8: minimum size 11 inches tall, larger sizing preferred. available.  
+= #8: **taken**  
 <br>
 <br>
 
 [![turtles](/images/flash/13.jpg)](https://frogsfrogs.github.io/images/flash/13.jpg)  
 Memento Mori  
-= #13: 5.5-6 inches or taller (including smoke height). available.  
+= #13: **taken**  
 = #14: 6 inches or taller. available.  
 = #15: 6 inches or taller (including smoke height). available.  
 <br>
@@ -81,8 +81,8 @@ Will tattoo these designs once in lines, once in color.
 = Please specify in the booking form if you want linework only, or color.  
 Larger sizing preferred.  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
-= #9: 9 inches tall or larger. available.   
-= #10: 7 inches tall or larger. **linework version taken**, color available.  
+= #9: 9 inches tall or larger. linework version available, color version available.   
+= #10: 7 inches tall or larger. **linework taken**, color version available.  
 = #11: 10 inches tall or larger. linework version available, **color taken**.  
 = #12: 4.5 inches tall or larger. linework version available, **color taken**.  
 <br>
