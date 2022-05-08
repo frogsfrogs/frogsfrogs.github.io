@@ -24,10 +24,10 @@ Books are currently: **OPEN**
 [![shoals](/images/flash/1.jpg)](https://frogsfrogs.github.io/images/flash/1.jpg)  
 Shoals  
 = prefer to tattoo these large-ish. smallest can do is 3-4 inches.  
-= #1: available  
+= #1: **taken**  
 = #2: **taken**  
 = #3: available  
-= #4: available  
+= #4: **taken**  
 = #5: available  
 = #6: available  
 = #7: **taken**  
@@ -57,8 +57,8 @@ Memento Mori
 
 [![pendrawings](/images/flash/17.jpg)](https://frogsfrogs.github.io/images/flash/17.jpg)  
 = #17: 5.5-6 inches tall or larger. available.  
-= #18: 4 inches tall or larger. available.  
-= #19: 4 in. wide x 4.75 in. tall or larger. available.  
+= #18: **taken**  
+= #19: **taken**  
 = #20: 3.25 inches tall or larger. available.  
 <br>
 <br>
@@ -78,13 +78,13 @@ Abstract Lucky Knots
 [![knots](/images/flash/9.jpg)](https://frogsfrogs.github.io/images/flash/9.jpg)  
 Lucky Knots  
 Will tattoo these designs once in lines, once in color.  
-Please specify in the booking form if you want linework only, or color.  
+= Please specify in the booking form if you want linework only, or color.  
 Larger sizing preferred.  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
 = #9: 9 inches tall or larger. available.   
-= #10: 7 inches tall or larger. available.  
-= #11: 10 inches tall or larger. available.  
-= #12: 4.5 inches tall or larger. available.  
+= #10: 7 inches tall or larger. **linework version taken**, color available.  
+= #11: 10 inches tall or larger. linework version available, **color taken**.  
+= #12: 4.5 inches tall or larger. linework version available, **color taken**.  
 <br>
 <br>
 
@@ -96,7 +96,7 @@ Bunny universe
 <br>
 
 [![misc](/images/flash/26.jpg)](https://frogsfrogs.github.io/images/flash/26.jpg)  
-= #26: approx 2.5-3 inches wide.  
+= #26: **taken**  
 = #27: 3.5 inches wide or larger. available.  
 = #28: 1.75 inches tall or larger. available.  
 = #29: 1.75 inches tall or larger. available.  
@@ -125,7 +125,7 @@ Persimmons (collaged from paintings by zhang da qian)
 <br>
 
 [![flower](/images/flash/36.png)](https://frogsfrogs.github.io/images/flash/36.png)  
-= #camellia2: approx 3-3.5" tall. available.  
+= **taken**  
 <br>
 <br>
 
