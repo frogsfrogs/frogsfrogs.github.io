@@ -71,7 +71,7 @@ Abstract Lucky Knots
 = #38: **taken**  
 = #39: **taken**  
 = #40: **taken**  
-= #41: available.  
+= #41: **taken**  
 <br>
 <br>
 
@@ -81,8 +81,8 @@ Will tattoo these designs once in lines, once in color.
 = Please specify in the booking form if you want linework only, or color.  
 Larger sizing preferred.  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
-= #9: 9 inches tall or larger. linework version available, color version available.   
-= #10: 7 inches tall or larger. **linework taken**, color version available.  
+= #9: 9 inches tall or larger. linework version available, **color taken**   
+= #10: 7 inches tall or larger. **linework taken**, **color taken**.  
 = #11: 10 inches tall or larger. linework version available, **color taken**.  
 = #12: 4.5 inches tall or larger. linework version available, **color taken**.  
 <br>
