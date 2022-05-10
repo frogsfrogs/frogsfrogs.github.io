@@ -5,16 +5,18 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: **OPEN**  
-*- Booking form is currently open for May/June 2022! -*  
+Books are currently: **CLOSED**  
+*- Thank you if you submitted a booking request for May-June 2022! I will try to finish replying to emails by May 12 -*  
 
-<!-- Please join mailing list to receive the booking form link when books next open.  
-<br> -->
----  
+Please join mailing list to receive the booking form link when books next open.  
+<br> 
+
+<!-- ---  
 **Booking Form links at bottom of page.  
 Please read info below before submitting a booking form, thank you!**  
 
----
+---  -->
+
 <br>
 <br>
 <br>
@@ -114,8 +116,8 @@ Please read info below before submitting a booking form, thank you!**
 - Please **EAT before** your appointment! Also please bring your own water bottle.   
 
 ---
-# [BOOKING FORM LINK](https://form.jotform.com/212941513054246)  
-
+<!-- # [BOOKING FORM LINK](https://form.jotform.com/212941513054246)  
+ -->
 <!-- 
 ># [FLASH DESIGN Booking Form Link](https://form.jotform.com/212941513054246)  
 ># [CUSTOM DESIGN Booking Form Link](https://form.jotform.com/213116766264254)  

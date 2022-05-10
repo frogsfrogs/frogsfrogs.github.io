@@ -5,9 +5,8 @@ permalink: /flash-book/
 ---
 <a href="/">back< </a>
 <br>
-Books are currently: **OPEN**  
-*- Booking form is currently open for May/June 2022! -*  
-*- see <a href="/booking-info">booking info page</a> for booking form link -*  
+Books are currently: **CLOSED**   
+*- Thank you if you submitted a booking request for May-June 2022! I will try to finish replying to emails by May 12 -*  
 
 <br><br>
 **FLASHBOOK**  
@@ -56,7 +55,7 @@ Memento Mori
 <br>
 
 [![pendrawings](/images/flash/17.jpg)](https://frogsfrogs.github.io/images/flash/17.jpg)  
-= #17: 5.5-6 inches tall or larger. available.  
+= #17: **taken**  
 = #18: **taken**  
 = #19: **taken**  
 = #20: 3.25 inches tall or larger. available.  
@@ -67,7 +66,7 @@ Memento Mori
 Abstract Lucky Knots  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
 5-6 to 10 inches tall.  
-= #37: available.  
+= #37: **taken**  
 = #38: **taken**  
 = #39: **taken**  
 = #40: **taken**  
@@ -82,15 +81,15 @@ Will tattoo these designs once in lines, once in color.
 Larger sizing preferred.  
 -> Please read <a href="/red-seal">this note</a> before requesting <-  
 = #9: 9 inches tall or larger. linework version available, **color taken**   
-= #10: 7 inches tall or larger. **linework taken**, **color taken**.  
+= #10: 7 inches tall or larger. **taken**.  
 = #11: 10 inches tall or larger. linework version available, **color taken**.  
-= #12: 4.5 inches tall or larger. linework version available, **color taken**.  
+= #12: 4.5 inches tall or larger. **taken**.  
 <br>
 <br>
 
 [![bunnyknot](/images/flash/24.jpg)](https://frogsfrogs.github.io/images/flash/24.jpg)  
 Bunny universe  
-= #24: 4-5 inches tall or larger. available.  
+= #24: **taken**  
 = #25: **taken**  
 <br>
 <br>
