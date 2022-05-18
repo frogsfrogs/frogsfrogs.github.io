@@ -6,7 +6,7 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently: **CLOSED**  
-*- Thank you if you submitted a booking request for May-June 2022! I will try to finish replying to emails by May 12 -*  
+*- Thank you if you submitted a booking request for May-June 2022! I will try to finish replying to emails by May 19 (I wrote May 12 previously, I got very behind this week) -*  
 
 Please join mailing list to receive the booking form link when books next open.  
 <br> 
