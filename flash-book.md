@@ -6,7 +6,7 @@ permalink: /flash-book/
 <a href="/">back< </a>
 <br>
 Books are currently: **OPEN**   
-*- Booking form is currently open for Oct/Nov 2022! -*  
+*- 	Booking form is currently open for Oct/Nov 2022! -*  
 *- see <a href="/booking-info">booking info page</a> for booking form link -*  
 <br><br>
 **FLASHBOOK**  
@@ -20,7 +20,7 @@ Books are currently: **OPEN**
 (if not please click on image to view full size file)  
 <br><br>
 
-> [![3fish](/images/flash/Oct2022/3.jpg)](https://frogsfrogs.github.io/images/Oct2022/3.jpg)  
+> [![3fish](/images/flash/Oct2022/3.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/3.jpg)  
 #3  
 = available  
 = 4.5 to 6.5 inches tall. Black ink.  
@@ -28,7 +28,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![goldfish](/images/flash/Oct2022/1.jpg)](https://frogsfrogs.github.io/images/Oct2022/1.jpg)  
+> [![goldfish](/images/flash/Oct2022/1.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/1.jpg)  
 #1  
 = available  
 = 3.5 to 5 inches wide. Black ink.  
@@ -36,19 +36,19 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![2fish](/images/flash/Oct2022/2.jpg)](https://frogsfrogs.github.io/images/Oct2022/2.jpg)  
+> [![2fish](/images/flash/Oct2022/2.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/2.jpg)  
 = **taken**  
 
 <br>
 <br>
 
-> [![delancey_myosotis](/images/flash/Oct2022/23.jpg)](https://frogsfrogs.github.io/images/Oct2022/23.jpg)  
+> [![delancey_myosotis](/images/flash/Oct2022/23.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/23.jpg)  
 = **taken**  
 
 <br>
 <br>
 
-> [![delancey_mesembryanthemum](/images/flash/Oct2022/25.jpg)](https://frogsfrogs.github.io/images/Oct2022/25.jpg)  
+> [![delancey_mesembryanthemum](/images/flash/Oct2022/25.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/25.jpg)  
 #25  
 = available  
 = Mesembryanthemum aureum by Mary Delaney (1700-1788)  
@@ -59,7 +59,7 @@ Books are currently: **OPEN**
 <br>
 
 
-> [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/Oct2022/24.jpg)  
+> [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/24.jpg)  
 #24  
 = available  
 = Ixia crocata by Mary Delaney (1700-1788)  
@@ -69,7 +69,23 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![flowerknotcolor](/images/flash/Oct2022/7.jpg)](https://frogsfrogs.github.io/images/Oct2022/7.jpg)  
+> [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
+= #7A: 9 - 10in tall, min size 8in tall. full color or grayscale. available.  
+= #11A: 11in tall, min size 9in tall. full color. available.  
+
+<br>
+<br>
+
+> [![flowerknotslines](/images/flash/Oct2022/10a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/10a.jpg)  
+= #7B or 7C: 9.5 - 10.5in tall, min size 9in tall. available.  
+= #11B or 11C: 11in tall, min size 9in tall. available.  
+= each design will only be tattooed in linework style once (so for example, only 7B or 7C will be tattooed but not both)  
+
+<br>
+<br>
+
+
+> [![flowerknotcolor](/images/flash/Oct2022/7.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/7.jpg)  
 #7a  
 = available  
 = ideally 9 - 10 in. tall, minimum size: 7.5 in. tall or larger.  
@@ -78,7 +94,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![flowerknotlines](/images/flash/Oct2022/9a.jpg)](https://frogsfrogs.github.io/images/Oct2022/9a.jpg)  
+> [![flowerknotlines](/images/flash/Oct2022/9a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/9a.jpg)  
 #7b  
 = available  
 = ideally 9.5 - 10.5 in. tall, minimum size: 9 - 9.5 in. tall or larger.  
@@ -87,7 +103,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![osmanthuscolor](/images/flash/Oct2022/11.jpg)](https://frogsfrogs.github.io/images/Oct2022/11.jpg)  
+> [![osmanthuscolor](/images/flash/Oct2022/11.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/11.jpg)  
 #11a  
 = available  
 = ideally 11 in. tall, minimum size - 9 in. tall or larger.  
@@ -96,7 +112,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![osmanthuslines](/images/flash/Oct2022/12a.jpg)](https://frogsfrogs.github.io/images/Oct2022/12a.jpg)  
+> [![osmanthuslines](/images/flash/Oct2022/12a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/12a.jpg)  
 #11b  
 = available  
 = ideally 11 in. tall, minimum size - 9 in. tall or larger.  
@@ -105,7 +121,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![persTSG](/images/flash/Oct2022/22.jpg)](https://frogsfrogs.github.io/images/Oct2022/22.jpg)  
+> [![persTSG](/images/flash/Oct2022/22.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/22.jpg)  
 #22  
 = available  
 = 事事如意 painting by 田世光（1916-1999)  
@@ -117,7 +133,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![persZSA](/images/flash/Oct2022/18.jpg)](https://frogsfrogs.github.io/images/Oct2022/18.jpg)  
+> [![persZSA](/images/flash/Oct2022/18.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/18.jpg)  
 #18  
 = available  
 = 红柿草虫 painting by 赵少昂(1905-1998)  
@@ -128,7 +144,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![persYFA](/images/flash/Oct2022/17a.jpg)](https://frogsfrogs.github.io/images/Oct2022/17a.jpg)  
+> [![persYFA](/images/flash/Oct2022/17a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/17a.jpg)  
 #17  
 = available  
 = 事事如意 painting by 于非暗(1888-1959)  
@@ -141,7 +157,7 @@ Books are currently: **OPEN**
 <br>
 
 
-> [![hands](/images/flash/Oct2022/5.jpg)](https://frogsfrogs.github.io/images/Oct2022/5.jpg)  
+> [![hands](/images/flash/Oct2022/5.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/5.jpg)  
 #5  
 = available  
 = 3 - 3.5 in. tall  
@@ -151,7 +167,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/Oct2022/4.jpg)  
+> [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/4.jpg)  
 #4  
 = available  
 = 2.5 - 3 in. tall  
@@ -160,7 +176,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![berries](/images/flash/Oct2022/27.jpg)](https://frogsfrogs.github.io/images/Oct2022/27.jpg)  
+> [![berries](/images/flash/Oct2022/27.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/27.jpg)  
 #27  
 = available  
 = 4.5 - 6 in. tall  
@@ -169,7 +185,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![flowersCS](/images/flash/Oct2022/20.jpg)](https://frogsfrogs.github.io/images/Oct2022/20.jpg)  
+> [![flowersCS](/images/flash/Oct2022/20.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/20.jpg)  
 #20  
 = available  
 = collaged from a painting by Chen Shu (1660-1735)  
@@ -180,7 +196,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![persCS](/images/flash/Oct2022/21.jpg)](https://frogsfrogs.github.io/images/Oct2022/21.jpg)  
+> [![persCS](/images/flash/Oct2022/21.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/21.jpg)  
 #21  
 = available  
 = excerpt from a painting by Chen Shu (1660-1735)  
@@ -191,7 +207,7 @@ Books are currently: **OPEN**
 <br>
 <br>
 
-> [![chrysCS](/images/flash/Oct2022/19.jpg)](https://frogsfrogs.github.io/images/Oct2022/19.jpg)  
+> [![chrysCS](/images/flash/Oct2022/19.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/19.jpg)  
 #19  
 = available  
 = collaged from a painting by Chen Shu (1660-1735)  
