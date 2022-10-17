@@ -13,14 +13,13 @@ Available for freelance or part-time work.
 CV available upon request.  
 <br>
 **Contact:**   
-general - jessowang@protonmail.com  
-tattoo-related - jessowang.tattoo@gmail.com  
+onion.ttt@gmail.com  
 <br>
 **Non-Tattoo Art Portfolio:**  
 [jessowang.com](https://www.jessowang.com)  
 <br>
 **Social Media:**  
-[Instagram](https://instagram.com/sleep.on.frogs)  
+[Instagram](https://instagram.com/molymoli_)  
 <br>
 <br>
 <br>
