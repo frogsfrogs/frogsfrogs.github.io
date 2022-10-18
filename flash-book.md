@@ -70,6 +70,7 @@ Books are currently: **OPEN**
 <br>
 
 > [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
+= Please read <a href="/red-seal">this note</a> before requesting.  
 = #7A: 9 - 10in tall, min size 8in tall. full color or grayscale. available.  
 = #11A: 11in tall, min size 9in tall. full color. available.  
 
@@ -78,6 +79,7 @@ Books are currently: **OPEN**
 
 > [![flowerknotslines](/images/flash/Oct2022/10a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/10a.jpg)  
 click image to see full size  
+= Please read <a href="/red-seal">this note</a> before requesting.  
 = #7B or 7C: 9.5 - 10.5in tall, min size 9in tall. available.  
 = #11B or 11C: 11in tall, min size 9in tall. available.  
 = each design will only be tattooed in linework style once (so for example, only 7B or 7C will be tattooed but not both)  
