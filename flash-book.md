@@ -11,6 +11,7 @@ Books are currently: **OPEN**
 <br><br>
 **FLASHBOOK**  
   
+= List sizes are preferred, but feel free to ask in the form if you want a different size.  
 = All flash placements: arm/leg/back. other placements, maybe.  
 = I **cannot tattoo ribs or side (anything between hip bone and armpit), or likely sternum** due to my back issues, I am unable to sustain the posture needed to tattoo this area.  
 = I will include a price quote in my email response to your booking form, based on size/placement/style.  
@@ -87,6 +88,40 @@ click image to see full size
 <br>
 <br>
 
+> [![smallknots](/images/flash/Oct2022/50.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/50.jpg)    
+= #50: 7.5 in or taller. available  
+= #50A: 7.5 in or taller. available   
+= #51: 6.5 in or taller. available  
+= #51A: 6.5 in or taller. available  
+= #52: 5.5 in or taller. available  
+= #52A: 5.5 in or taller. available  
+
+<br>
+<br>
+
+[![scribbleknots](/images/flash/Oct2022/40a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/40a.jpg)    
+= #40: 7.5 in or taller. available  
+= #41: 9 in or taller. available  
+= #42: 9 in or taller. available  
+= #43: 9.5 in or taller. available  
+= #44: 7 in or taller. available  
+<br>
+<br>
+
+[![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
+= #45: 6 in or taller. available  
+= #46: 8 in or taller. available  
+= #47: 8 in or taller. available  
+<br>
+<br>
+
+[![shoal](/images/flash/Oct2022/15a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/15a.jpg)  
+#15 shoal  
+= available  
+= I would love to do custom shoal pieces, please follow instructions on the booking info page for custom bookings if you'd like one.  
+
+<br>
+<br>
 
 <!-- > [![flowerknotcolor](/images/flash/Oct2022/7.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/7.jpg)  
 #7a  
@@ -231,8 +266,18 @@ click image to see full size
 <br>
 <br>
 
-
-
+[![bunnies](/images/flash/Oct2022/30.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/30.jpg)    
+= #31 available  
+= #32 available  
+= #33 available  
+= #34 available  
+= #35 available  
+= #36 available  
+= #37 available  
+= #38 available  
+= #39 available  
+<br>
+<br>
 
 
 
