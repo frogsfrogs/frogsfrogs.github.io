@@ -197,6 +197,17 @@ click image to see full size
 <br>
 <br>
 
+> [![persJDS](/images/flash/Oct2022/28.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/28.jpg)  
+#28  
+= available  
+= painting by 姜丹书(1885-1962) jiang dan shu  
+= the long branch on the right - at least 11 in long  
+= full color  
+= no sternum placement  
+
+<br>
+<br>
+
 
 > [![hands](/images/flash/Oct2022/5.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/5.jpg)  
 #5  
@@ -222,6 +233,13 @@ click image to see full size
 = available  
 = 4.5 - 6 in. tall  
 = red or black ink  
+
+<br>
+<br>
+
+> [![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
+= #26A: 5 - 6.5 in tall. available  
+= #26B: 4.5 - 6 in tall. available  
 
 <br>
 <br>
