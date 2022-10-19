@@ -111,6 +111,7 @@ click image to see full size
 <br>
 
 [![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
+= Please read <a href="/red-seal">this note</a> before requesting.  
 = #45: 6 in or taller. available  
 = #46: 8 in or taller. available  
 = #47: 8 in or taller. available  
