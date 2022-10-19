@@ -6,7 +6,7 @@ permalink: /flash-book/
 <a href="/">back< </a>
 <br>
 Books are currently: **OPEN**   
-*- 	Booking form is currently open for Oct/Nov 2022! -*  
+*- 	Booking form is currently open for Oct/Nov/Dec 2022! -*  
 *- see <a href="/booking-info">booking info page</a> for booking form link -*  
 <br><br>
 **FLASHBOOK**  
