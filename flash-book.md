@@ -118,7 +118,7 @@ click image to see full size
 [![shoal](/images/flash/Oct2022/15a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/15a.jpg)  
 #15 shoal  
 = available  
-= I would love to do custom shoal pieces, please follow instructions on the booking info page for custom bookings if you'd like one.  
+= I would love to do custom shoal pieces, please follow instructions on the booking info page for custom bookings if you'd like one. <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
 
 <br>
 <br>
