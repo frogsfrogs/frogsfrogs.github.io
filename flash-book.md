@@ -280,6 +280,13 @@ click image to see full size
 <br>
 <br>
 
+> [![smallflower](/images/flash/Oct2022/6.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/6.jpg)  
+#6  
+= available  
+
+<br>
+<br>
+
 > [![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
 = #26A: 5 - 6.5 in tall. available  
 = #26B: 4.5 - 6 in tall. available  
