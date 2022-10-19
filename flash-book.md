@@ -208,42 +208,6 @@ click image to see full size
 <br>
 <br>
 
-
-> [![hands](/images/flash/Oct2022/5.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/5.jpg)  
-#5  
-= available  
-= 3 - 3.5 in. tall  
-= single color  
-= i may tattoo this one twice  
-
-<br>
-<br>
-
-> [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/4.jpg)  
-#4  
-= available  
-= 2.5 - 3 in. tall  
-= single color  
-
-<br>
-<br>
-
-> [![berries](/images/flash/Oct2022/27.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/27.jpg)  
-#27  
-= available  
-= 4.5 - 6 in. tall  
-= red or black ink  
-
-<br>
-<br>
-
-> [![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
-= #26A: 5 - 6.5 in tall. available  
-= #26B: 4.5 - 6 in tall. available  
-
-<br>
-<br>
-
 > [![flowersCS](/images/flash/Oct2022/20.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/20.jpg)  
 #20  
 = available  
@@ -284,6 +248,42 @@ click image to see full size
 = available.  
 = this is the sketch - can do it in linework or BW shading.  
 = Please read <a href="/red-seal">this note</a> before requesting.  
+<br>
+<br>
+
+
+> [![hands](/images/flash/Oct2022/5.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/5.jpg)  
+#5  
+= available  
+= 3 - 3.5 in. tall  
+= single color  
+= i may tattoo this one twice  
+
+<br>
+<br>
+
+> [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/4.jpg)  
+#4  
+= available  
+= 2.5 - 3 in. tall  
+= single color  
+
+<br>
+<br>
+
+> [![berries](/images/flash/Oct2022/27.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/27.jpg)  
+#27  
+= available  
+= 4.5 - 6 in. tall  
+= red or black ink  
+
+<br>
+<br>
+
+> [![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
+= #26A: 5 - 6.5 in tall. available  
+= #26B: 4.5 - 6 in tall. available  
+
 <br>
 <br>
 
