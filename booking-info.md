@@ -6,10 +6,12 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently: **OPEN**  
-*- Booking form is currently open for Oct/Nov 2022! -*  
+*- Now booking for Oct/Nov/Dec 2022! -*  
 
 <!-- Please join mailing list to receive the booking form link when books next open.  
 <br>  -->
+<br>
+<br>
 
 ---  
 **Booking Form link is at bottom of page.  
@@ -21,10 +23,10 @@ Please read info below before submitting a booking form, thank you!**
 <br>
 <br>
 
-**How to Book**  
+### How to Book  
 <br>
 - Once every few months, I will email out to my mailing list when my books open. At that time a link to a tattoo booking form will appear on this website. Some time later I will put the link in my instagram bio link as well.  
-- New flash posted here when books open. I will keep both this page updated with availability. If I have last minute openings or cancellations come up, I will post on my instagram story.  
+- New flash posted here when books open. I will keep this page updated with availability. If I have last minute openings or cancellations come up, I will post on my instagram story.  
 - [You can join my mailing list at this link](http://eepurl.com/hD-omr)  
 - My tattoo work can be viewed [here](https://instagram.com/molymoli_) on instagram.  
 <br>
@@ -34,8 +36,7 @@ Please read info below before submitting a booking form, thank you!**
 - [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-book)  
 <!-- - Flash Designs will be posted here when books open. -->
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
-<br>
-<br>
+- To book flash, complete the booking form at the bottom of this page.  
 <br>
 
 ### Custom Designs  
@@ -99,16 +100,17 @@ Thanks for your interest in working with me! : )
 - You can get as many tattoos as you'd like, that fit in that session length.  --> 
 <!-- - For a rough idea, my appointment minimum is 150, so simplest designs are around 150, small-medium blackwork only designs 200-300, small-med color/bw shading 250-400, medium-larger full bw shading/color 400-800. My prices have gone up because I've developed a ton of joint issues by tattooing too much and too intensely the last few years so I have increased my rates so that I can work a manageable amount instead of quitting all together. I'm really sorry that this will likely price out some people I might've been able to work with otherwise, I hope to return to sliding scale in the future when I am settled down in one place again.   -->
 - I will send you the price quote in my email response to your booking request. Usually it is flat rate, sometimes hourly or session rate.  
-If it is out of budget, let me know I will send you a sliding scale pricing.  
-- Tip is completely optional  
+If it is out of budget, let me know and I will see if we can make it work.  
+- Tip is v optional  
 - Cash only  
 - Pricing works out to around 250/hr  
-- Appointment minimum 250 (if it's a really small one I'm happy to do more than one).  
+- Appointment minimum 250 (if it's a really simple one I'm happy to do more than one for the minimum).  
 <br>
 
 **Touchups**  
-- One free touchup within the first 6 months. After that touchup fee depends on the scope/scale. Email me at jessowang.tattoo@gmail.com if you would like to book a touchup.  
-- Please let your tattoo heal at least 1 month before getting it touched up.  
+- After your tattoo heals, if anything heals out or there are any other fixes you'd like, I offer one free touchup within the first 6 months. After that, touchup fee depends on the scope/scale. I am happy to do touch-ups, but please only book a touchup if there is something specific you would like me to touchup.  
+- Please let your tattoo heal at least 1 month before getting a touchup. 
+- Email me at onion.ttt@gmail.com if you would like to book a touchup. Please include a well-lit, clear photo of the healed tattoo in your email, and a short description of what you'd like me to touchup.  
 <br>
 
 **Healing after Vaccine**  
@@ -117,22 +119,23 @@ If it is out of budget, let me know I will send you a sliding scale pricing.
 
 **Deposits, Cancellations, Rescheduling**  
 - There is a nonrefundable deposit to book the appointment, it goes towards the cost of the tattoo. Deposit amount is $50 or $100 depending on cost of tattoo.  
-- Please try to let me know as soon as possible if you need to cancel - if I have time to fill the spot and I succeed I will refund the deposit always (usually if you can give me 3-4 days notice).  
+- Please let me know as soon as possible if you need to reschedule/cancel - if I have time to fill the spot and I succeed I will either apply the deposit towards your future appointment if you reschedule, or refund the deposit if you cancel (usually if you can give me 3-4 days notice). This is not guaranteed though, because I can't always fill it, so please consider the deposit generally nonrefundable.  
 <!-- - **As I am currently traveling, it is difficult to accommodate reschedules at this time (though I will try).** -->
-- If for any reason you need to back out last minute, please please just shoot me an email and let me know, I won't be mad! Much better to know than to come to the studio waiting around.  
+- If you need to back out last minute, please please just shoot me an email and let me know, I won't be mean about it or anything! Much better to know than to come to the studio waiting around.  
 <br>
 
 **Location + Miscellaneous**  
-- I work at a private studio near Broadway Junction in Brooklyn NYC, on Munsee Lenape land.  
-- I currently work various weekdays Mon-Fri depending on the week.  
+- I am based in Brooklyn NYC, on Munsee Lenape land.  
+- I work at a private studio near Broadway Junction in Brooklyn NYC, on Munsee Lenape land. In November I may be taking some appointments at a private studio near Myrtle-Wyckoff.  
+- I currently work various weekdays depending on the week, and occasionally on Sunday. I do not take appointments on Saturdays.  
 - I have a small friendly dog who will be present during the tattoo.  
-- Studio is street level there is 1 step into the doorway.  
+- Broadway Junction studio is street level there is 1 step into the doorway, Myrtle Wyckoff studio is on the 2nd floor, up 3 half flights of stairs.  
 <br>
 <br>
 
 ---
-## COVID-19 PRECAUTIONS POLICIES - REQUIRED FOR APPOINTMENT  
-- <h4 style="color: #B80000;">Please come wearing a KN-95 or surgical mask covering nose & mouth and keep it on for the duration of the appointment.</h4> If there is difficulty in obtaining one, I will have extra on hand.  
+## COVID STUFF  
+- <h4 style="color: #B80000;">Please come wearing a KN-95 or surgical mask covering nose & mouth and keep it on for the duration of the appointment.</h4>  
 
 <!-- 
 - <h4 style="color: #B80000;">Please take a rapid test night before or morning-of our appointment</h4>  
@@ -149,7 +152,7 @@ If it is out of budget, let me know I will send you a sliding scale pricing.
 <!-- # [BOOKING FORM LINK](https://form.jotform.com/212941513054246)  
  -->
 
-># [FLASH DESIGN Booking Form Link](https://form.jotform.com/212941513054246)  
+># [BOOKING FORM LINK](https://form.jotform.com/212941513054246)  
 <!-- ># [CUSTOM DESIGN Booking Form Link](https://form.jotform.com/213116766264254)   -->
 
 ---
