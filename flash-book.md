@@ -26,6 +26,7 @@ Books are currently: **OPEN**
 = available  
 = 4.5 to 6.5 inches tall. Black ink.  
 
+
 <br>
 <br>
 
@@ -81,8 +82,8 @@ Books are currently: **OPEN**
 > [![flowerknotslines](/images/flash/Oct2022/10a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/10a.jpg)  
 click image to see full size  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #7B or 7C: 9.5 - 10.5in tall, min size 9in tall. available.  
-= #11B or 11C: 11in tall, min size 9in tall. available.  
+= #7B or 7C: at least 10in tall. available.  
+= #11B or 11C: 11+in tall ideally, min size 10in tall. available.  
 = each design will only be tattooed in linework style once (so for example, only 7B or 7C will be tattooed but not both)  
 
 <br>
