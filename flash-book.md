@@ -242,7 +242,7 @@ click image to see full size
 <br>
 <br>
 
-[![sunwukong](/images/flash/16.jpg)](https://frogsfrogs.github.io/images/flash/16.jpg)  
+[![sunwukong](/images/flash/Oct2022/16.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/16.jpg)  
 #16 sun wu kong  
 = available  
 = 7 in. wide x 9.5 in. tall or larger, or really large.  
