@@ -23,7 +23,7 @@ Books are currently: **OPEN**
 
 > [![3fish](/images/flash/Oct2022/3.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/3.jpg)  
 #3  
-= available  
+= **taken**  
 = 4.5 to 6.5 inches tall. Black ink.  
 
 
@@ -32,7 +32,7 @@ Books are currently: **OPEN**
 
 > [![goldfish](/images/flash/Oct2022/1.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/1.jpg)  
 #1  
-= available  
+= **taken**  
 = 3.5 to 5 inches wide. Black ink.  
 
 <br>
@@ -91,7 +91,7 @@ click image to see full size
 
 > [![smallknots](/images/flash/Oct2022/50.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/50.jpg)    
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #50: 7.5 in or taller. available  
+= #50: 7.5 in or taller. **taken**  
 = #50A: 7.5 in or taller. available   
 = #51: 6.5 in or taller. available  
 = #51A: 6.5 in or taller. available  
@@ -115,7 +115,7 @@ click image to see full size
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #45: 6 in or taller. available  
 = #46: 8 in or taller. available  
-= #47: 8 in or taller. available  
+= #47: 8 in or taller. **taken**  
 <br>
 <br>
 
@@ -165,7 +165,7 @@ click image to see full size
 
 > [![persTSG](/images/flash/Oct2022/22.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/22.jpg)  
 #22  
-= available  
+= **taken**  
 = 事事如意 painting by 田世光（1916-1999)  
 = 'may things be as you wish' (a pun on persimmon) by tian shi guang  
 = ideally 7 - 9 inches tall  
@@ -177,7 +177,7 @@ click image to see full size
 
 > [![persZSA](/images/flash/Oct2022/18.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/18.jpg)  
 #18  
-= available  
+= **taken**  
 = 红柿草虫 painting by 赵少昂(1905-1998)  
 = 'red persimmon and grass bug' by zhao shao ang  
 = 8.5 in. tall or larger - I think this one could also be very interesting as a super big tattoo  
@@ -200,7 +200,7 @@ click image to see full size
 
 > [![persJDS](/images/flash/Oct2022/28.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/28.jpg)  
 #28  
-= available  
+= **taken**  
 = painting by 姜丹书(1885-1962) jiang dan shu  
 = the long branch on the right - at least 11 in long  
 = full color  
@@ -244,9 +244,8 @@ click image to see full size
 
 [![sunwukong](/images/flash/Oct2022/16.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/16.jpg)  
 #16 sun wu kong  
-= available  
+= **taken**  
 = 7 in. wide x 9.5 in. tall or larger, or really large.  
-= available.  
 = this is the sketch - can do it in linework or BW shading.  
 = Please read <a href="/red-seal">this note</a> before requesting.  
 <br>
@@ -302,9 +301,9 @@ click image to see full size
 = #34 available  
 = #35 available  
 = #36 available  
-= #37 available  
-= #38 available  
-= #39 available  
+= #37 **taken**  
+= #38 **taken**  
+= #39 **taken**  
 <br>
 <br>
 
