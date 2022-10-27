@@ -92,11 +92,11 @@ click image to see full size
 > [![smallknots](/images/flash/Oct2022/50.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/50.jpg)    
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #50: 7.5 in or taller. **taken**  
-= #50A: 7.5 in or taller. available   
-= #51: 6.5 in or taller. available  
+= #50A: 7.5 in or taller. **taken**   
+= #51: 6.5 in or taller. **taken**  
 = #51A: 6.5 in or taller. available  
-= #52: 5.5 in or taller. available  
-= #52A: 5.5 in or taller. available  
+= #52: 5.5 in or taller. **pending**  
+= #52A: 5.5 in or taller. **taken**  
 
 <br>
 <br>
@@ -107,7 +107,7 @@ click image to see full size
 = #41: 9 in or taller. available  
 = #42: 9 in or taller. available  
 = #43: 9.5 in or taller. available  
-= #44: 7 in or taller. available  
+= #44: 7 in or taller. **pending**  
 <br>
 <br>
 
@@ -115,7 +115,7 @@ click image to see full size
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #45: 6 in or taller. available  
 = #46: 8 in or taller. available  
-= #47: 8 in or taller. **taken**  
+= #47: 8 in or taller. **pending**  
 <br>
 <br>
 
