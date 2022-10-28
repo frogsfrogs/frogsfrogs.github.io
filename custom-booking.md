@@ -8,7 +8,9 @@ permalink: /custom-booking/
 
 ## Custom Designs  
   
-I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
+*-  Books closed for Oct/Nov/Dec 2022! Thank you if you submitted a request, will be finishing answering all of them over the next week or two -*  
+
+<!-- I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
 <br>
 Please put “Custom Tattoo Request” in the email subject line.  
 <br>
@@ -28,5 +30,5 @@ Custom designs are available to view at the time of the appointment - happy to m
 
 I am intentionally going to be going through and responding to custom requests slower so as to not burn out on administrative work as I have in the past, so if you must know by a specific date please put that in the email. It may generally take me up to a few weeks to get back to you. (to be totally honest, sometimes a month or two)
 
-Thanks for your interest in working with me! : )
+Thanks for your interest in working with me! : ) -->
 

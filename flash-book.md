@@ -21,34 +21,6 @@ Books are currently: **CLOSED**
 (if not please click on image to view full size file)  
 <br><br>
 
-> [![3fish](/images/flash/Oct2022/3.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/3.jpg)  
-#3  
-= **taken**  
-= 4.5 to 6.5 inches tall. Black ink.  
-
-
-<br>
-<br>
-
-> [![goldfish](/images/flash/Oct2022/1.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/1.jpg)  
-#1  
-= **taken**  
-= 3.5 to 5 inches wide. Black ink.  
-
-<br>
-<br>
-
-> [![2fish](/images/flash/Oct2022/2.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/2.jpg)  
-= **taken**  
-
-<br>
-<br>
-
-> [![delancey_myosotis](/images/flash/Oct2022/23.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/23.jpg)  
-= **taken**  
-
-<br>
-<br>
 
 > [![delancey_mesembryanthemum](/images/flash/Oct2022/25.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/25.jpg)  
 #25  
@@ -107,15 +79,15 @@ click image to see full size
 = #41: 9 in or taller. available  
 = #42: 9 in or taller. available  
 = #43: 9.5 in or taller. available  
-= #44: 7 in or taller. **pending**  
+= #44: 7 in or taller. available  
 <br>
 <br>
 
 [![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #45: 6 in or taller. available  
+= #45: 6 in or taller. **taken**  
 = #46: 8 in or taller. available  
-= #47: 8 in or taller. **pending**  
+= #47: 8 in or taller. **taken**  
 <br>
 <br>
 
@@ -222,7 +194,7 @@ click image to see full size
 
 > [![persCS](/images/flash/Oct2022/21.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/21.jpg)  
 #21  
-= available  
+= **taken**  
 = excerpt from a painting by Chen Shu (1660-1735)  
 = 5.5 - 7 inches tall  
 = full color  
@@ -252,15 +224,6 @@ click image to see full size
 <br>
 
 
-> [![hands](/images/flash/Oct2022/5.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/5.jpg)  
-#5  
-= available  
-= 3 - 3.5 in. tall  
-= single color  
-= i may tattoo this one twice  
-
-<br>
-<br>
 
 > [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/4.jpg)  
 #4  
@@ -295,7 +258,7 @@ click image to see full size
 <br>
 
 [![bunnies](/images/flash/Oct2022/30.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/30.jpg)    
-= #31 available  
+= #31 **taken**  
 = #32 available  
 = #33 available  
 = #34 available  
@@ -304,6 +267,44 @@ click image to see full size
 = #37 **taken**  
 = #38 **taken**  
 = #39 **taken**  
+<br>
+<br>
+
+> [![hands](/images/flash/Oct2022/5.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/5.jpg)  
+#5  
+= **taken**  
+= 3 - 3.5 in. tall  
+= single color    
+
+<br>
+<br>
+
+> [![3fish](/images/flash/Oct2022/3.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/3.jpg)  
+#3  
+= **taken**  
+= 4.5 to 6.5 inches tall. Black ink.  
+
+
+<br>
+<br>
+
+> [![goldfish](/images/flash/Oct2022/1.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/1.jpg)  
+#1  
+= **taken**  
+= 3.5 to 5 inches wide. Black ink.  
+
+<br>
+<br>
+
+> [![2fish](/images/flash/Oct2022/2.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/2.jpg)  
+= **taken**  
+
+<br>
+<br>
+
+> [![delancey_myosotis](/images/flash/Oct2022/23.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/23.jpg)  
+= **taken**  
+
 <br>
 <br>
 
