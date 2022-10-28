@@ -41,7 +41,8 @@ Please read info below before submitting a booking form, thank you!**
 
 ### Custom Designs  
   
-I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
+- [Click here for Custom Booking instructions.](https://frogsfrogs.github.io/custom-booking)  
+<!-- I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
 <br>
 Please put “Custom Tattoo Request” in the email subject line.  
 <br>
@@ -61,7 +62,7 @@ Custom designs are available to view at the time of the appointment - happy to m
 
 I am intentionally going to be going through and responding to custom requests slower so as to not burn out on administrative work as I have in the past, so if you must know by a specific date please put that in the email. It may generally take me up to a few weeks to get back to you. (to be totally honest, sometimes a month or two)
 
-Thanks for your interest in working with me! : )
+Thanks for your interest in working with me! : ) -->
 
 <!-- - Custom designs will be available to view **at the time of the appointment**. Happy to make any desired adjustment day-of.  
 - Designs that flow around the body like shoals of fish, incense smoke, or rivers may work better as freehand. We can discuss this when you submit a booking form.   -->  
