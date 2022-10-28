@@ -45,8 +45,8 @@ Books are currently: **CLOSED**
 
 > [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #7A: 9 - 10in tall, min size 8in tall. full color or grayscale. available.  
-= #11A: 11in tall, min size 9in tall. full color. available.  
+= #7A: *available*. 9 - 10in tall, min size 8in tall. full color or grayscale.available.  
+= #11A: *available*. 11in tall, min size 9in tall. full color.  
 
 <br>
 <br>
@@ -54,8 +54,8 @@ Books are currently: **CLOSED**
 > [![flowerknotslines](/images/flash/Oct2022/10a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/10a.jpg)  
 click image to see full size  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #7B or 7C: at least 10in tall. available.  
-= #11B or 11C: 11+in tall ideally, min size 10in tall. available.  
+= #7B or 7C: *available*. at least 10in tall.  
+= #11B or 11C: *available*. 11+in tall ideally, min size 10in tall.  
 = each design will only be tattooed in linework style once (so for example, only 7B or 7C will be tattooed but not both)  
 
 <br>
@@ -66,7 +66,7 @@ click image to see full size
 = #50: 7.5 in or taller. **taken**  
 = #50A: 7.5 in or taller. **taken**   
 = #51: 6.5 in or taller. **taken**  
-= #51A: 6.5 in or taller. available  
+= #51A: 6.5 in or taller. *available*  
 = #52: 5.5 in or taller. **pending**  
 = #52A: 5.5 in or taller. **taken**  
 
@@ -75,18 +75,18 @@ click image to see full size
 
 [![scribbleknots](/images/flash/Oct2022/40a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/40a.jpg)    
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #40: 7.5 in or taller. available  
-= #41: 9 in or taller. available  
-= #42: 9 in or taller. available  
-= #43: 9.5 in or taller. available  
-= #44: 7 in or taller. available  
+= #40: 7.5 in or taller. *available*  
+= #41: 9 in or taller. *available*  
+= #42: 9 in or taller. *available*  
+= #43: 9.5 in or taller. *available*  
+= #44: 7 in or taller. *available*  
 <br>
 <br>
 
 [![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #45: 6 in or taller. **taken**  
-= #46: 8 in or taller. available  
+= #46: 8 in or taller. *available*  
 = #47: 8 in or taller. **taken**  
 <br>
 <br>
@@ -101,7 +101,7 @@ click image to see full size
 
 > [![chrysCS](/images/flash/Oct2022/19.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/19.jpg)  
 #19  
-= available  
+= *available*  
 = collaged from a painting by Chen Shu (1660-1735)  
 = 7 - 9.5 inches tall  
 = full color  
@@ -112,7 +112,7 @@ click image to see full size
 
 > [![flowersCS](/images/flash/Oct2022/20.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/20.jpg)  
 #20  
-= available  
+= *available*  
 = collaged from a painting by Chen Shu (1660-1735)  
 = 8.5 - 12 inches tall (or wide if horizontal). Or even larger!  
 = full color  
@@ -123,7 +123,7 @@ click image to see full size
 
 > [![berries](/images/flash/Oct2022/27.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/27.jpg)  
 #27  
-= available  
+= *available*  
 = 4.5 - 6 in. tall  
 = red or black ink  
 
@@ -132,14 +132,14 @@ click image to see full size
 
 > [![smallflower](/images/flash/Oct2022/6.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/6.jpg)  
 #6  
-= available  
+= *available*  
 
 <br>
 <br>
 
 > [![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
-= #26A: 5 - 6.5 in tall. available  
-= #26B: 4.5 - 6 in tall. available  
+= #26A: 5 - 6.5 in tall. *available*  
+= #26B: 4.5 - 6 in tall. *available*  
 
 <br>
 <br>
