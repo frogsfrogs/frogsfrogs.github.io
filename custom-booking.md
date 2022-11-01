@@ -8,7 +8,7 @@ permalink: /custom-booking/
 
 ## Custom Designs  
   
-*-  Books closed for Oct/Nov/Dec 2022! Thank you if you submitted a request, will be finishing answering all of them over the next week or two -*  
+*-  Books closed for Oct/Nov/Dec 2022! Thank you if you submitted a request - everything has been replied to now, so please check your spam if you didn't get a response to your booking request -*  
 
 <!-- I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
 <br>
