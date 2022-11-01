@@ -8,7 +8,7 @@ permalink: /booking-info/
 Books are currently: **CLOSED**  
 *-  Books closed for Oct/Nov/Dec 2022! Thank you if you submitted a request - everything has been replied to now, so please check your spam if you didn't get a response to your booking request -*  
 
-Please join mailing list to receive the booking form link when books next open.  
+**Please join mailing list to receive the booking form link when books next open.**  
 <br> 
 <br>
 <br>
