@@ -42,6 +42,7 @@ Please read info below before submitting a booking form, thank you!**
 ### Custom Designs  
   
 - [Click here for Custom Booking instructions.](https://frogsfrogs.github.io/custom-booking)  
+
 <!-- I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
 <br>
 Please put “Custom Tattoo Request” in the email subject line.  
