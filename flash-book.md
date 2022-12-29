@@ -22,21 +22,34 @@ Books are currently: **CLOSED**
 <br><br>
 
 
-> [![persJC](/images/flash/Jan2023/1.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1.jpg)  
-#1  
+
+
+> [![fishTSG](/images/flash/Jan2023/3.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/3.jpg)  
+#3  
 = available  
-= 事事如意 painting by 金城(1878-1926)  
-= 'may things be as you wish' (a pun on persimmon) by jin cheng  
-= full color 
+= 小鱼 by 田世光（1916-1999)  
+= 'little fish' by tian shiguang  
+= full color  
 
 <br>
 <br>
+
 
 > [![persCS](/images/flash/Jan2023/2.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/2.jpg)  
 #2  
 = available  
 = 吉祥花 painting by 陈书(1660-1735)  
 = 'Auspicious Flowers' by chen shu  
+= full color 
+
+<br>
+<br>
+
+> [![persJC](/images/flash/Jan2023/1.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1.jpg)  
+#1  
+= available  
+= 事事如意 painting by 金城(1878-1926)  
+= 'may things be as you wish' (a pun on persimmon) by jin cheng  
 = full color 
 
 <br>
@@ -53,15 +66,6 @@ Books are currently: **CLOSED**
 <br>
 <br>
 
-> [![fishTSG](/images/flash/Jan2023/3.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/3.jpg)  
-#3  
-= available  
-= 小鱼 by 田世光（1916-1999)  
-= 'little fish' by tian shiguang  
-= full color  
-
-<br>
-<br>
 
 > [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/24.jpg)  
 #24  

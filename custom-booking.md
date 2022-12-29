@@ -12,6 +12,9 @@ permalink: /custom-booking/
 
 <!-- I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
 <br>
+**Some things I would extra love to work on:** flowers! plants! mythology! birds! human figures!  
+Some things I probably won't do: tigers, snakes with lots of individual scales  
+<br>
 Please put “Custom Tattoo Request” in the email subject line.  
 <br>
 In your email, let me know:  
@@ -22,7 +25,9 @@ In your email, let me know:
 - Size in inches (please check with a physical ruler rather than eyeballing it)  
 - Placement  
 - Any reference images.  
+- Are you local to NYC or coming from out of town? (this does not affect your booking, it is useful information to me when dealing with rescheduling and such)
 <br>
+
 
 I will let you know if I’m down to do the project with you, along with price quote and scheduling link. 
 

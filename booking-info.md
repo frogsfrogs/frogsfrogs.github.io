@@ -103,9 +103,9 @@ Thanks for your interest in working with me! : ) -->
 <!-- - For a rough idea, my appointment minimum is 150, so simplest designs are around 150, small-medium blackwork only designs 200-300, small-med color/bw shading 250-400, medium-larger full bw shading/color 400-800. My prices have gone up because I've developed a ton of joint issues by tattooing too much and too intensely the last few years so I have increased my rates so that I can work a manageable amount instead of quitting all together. I'm really sorry that this will likely price out some people I might've been able to work with otherwise, I hope to return to sliding scale in the future when I am settled down in one place again.   -->
 - I will send you the price quote in my email response to your booking request. Usually it is flat rate, sometimes hourly or session rate.  
 If it is out of budget, let me know and I will see if we can make it work.  
-- Tip is v optional  
+- Tip is not required, v optional  
 - Cash only  
-- Pricing works out to around 250/hr  
+- Pricing works out to around 250/hr.  
 - Appointment minimum 250 (if it's a really simple one I'm happy to do more than one for the minimum).  
 <br>
 
@@ -116,7 +116,7 @@ If it is out of budget, let me know and I will see if we can make it work.
 <br>
 
 **Healing after Vaccine**  
-- IF YOU ARE GETTING/HAVE GOTTEN THE COVID-19 VACCINE OR BOOSTERS: please wait at least 1.5 weeks after your final shot before getting your tattoo with me. There is a distinct possibility of poor tattoo healing or pseudo-allergic reactions with tattoos done directly after receiving a vaccine shot, due to increased immune system reactivity.  
+- IF YOU ARE GETTING/HAVE GOTTEN THE COVID-19 VACCINE OR BOOSTERS: please wait at least 1.5 weeks after your last shot before getting your tattoo with me. There is a distinct possibility of poor tattoo healing or pseudo-allergic reactions with tattoos done directly after receiving a vaccine shot, due to increased immune system reactivity.  
 <br>
 
 **Deposits, Cancellations, Rescheduling**  
@@ -128,10 +128,10 @@ If it is out of budget, let me know and I will see if we can make it work.
 
 **Location + Miscellaneous**  
 - I am based in Brooklyn NYC, on Munsee Lenape land.  
-- I work at a private studio near Broadway Junction in Brooklyn NYC, on Munsee Lenape land. In November I may be taking some appointments at a private studio near Myrtle-Wyckoff.  
-- I currently work various weekdays depending on the week, and occasionally on Sunday. I do not take appointments on Saturdays.  
-- I have a small friendly dog who will be present during the tattoo.  
-- Broadway Junction studio is street level there is 1 step into the doorway, Myrtle Wyckoff studio is on the 2nd floor, up 3 half flights of stairs.  
+- I work at a private studio near Broadway Junction in Brooklyn NYC, on Munsee Lenape land. I may also take some appointments at a private studio near Myrtle-Wyckoff.  
+- I tattoo 2 days/week, usually tue/wed + fri, very occasionally on Sunday. I do not take appointments on Saturdays.  
+- I have a small friendly dog who will be present during the tattoo. I am very sorry if this prevents you from booking with me due to allergies or other dog issues, unfortunately I usually cannot leave him at home while I work unless it is a very short tattoo.  
+- Broadway Junction studio is street level there is 1 step into the doorway and we have a big piece of wood that can be used as a ramp, Myrtle Wyckoff studio is on the 2nd floor, up 3 half flights of stairs.  
 <br>
 <br>
 
