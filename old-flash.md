@@ -20,6 +20,163 @@ Books are currently: **CLOSED**
 (if not please click on image to view full size file)  
 <br><br>
 
+> [![delancey_mesembryanthemum](/images/flash/Oct2022/25.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/25.jpg)  
+#25  
+= available  
+= Mesembryanthemum aureum by Mary Delaney (1700-1788)  
+= 5 - 6 in. tall  
+= full color  
+
+<br>
+<br>
+
+> [![flowersCS](/images/flash/Oct2022/20.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/20.jpg)  
+#20  
+= *available*  
+= collaged from a painting by Chen Shu (1660-1735)  
+= 8.5 - 12 inches tall (or wide if horizontal). Or even larger!  
+= full color  
+= likely 2-3 longer sessions  
+
+<br>
+<br>
+
+> [![smallflower](/images/flash/Oct2022/6.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/6.jpg)  
+#6  
+= *available*  
+
+<br>
+<br>
+
+[![bunnies](/images/flash/Oct2022/30.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/30.jpg)    
+= #31 available  
+= #32 available  
+= #33 available  
+= #34 available  
+= #35 available  
+= #36 available  
+= #37 **taken**  
+= #38 **taken**  
+= #39 **taken**  
+<br>
+<br>
+
+<br>
+<br>
+> [![goldfish](/images/flash/Oct2022/1.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/1.jpg)  
+#1  
+= **taken**  
+= 3.5 to 5 inches wide. Black ink.  
+
+<br>
+<br>
+
+> [![2fish](/images/flash/Oct2022/2.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/2.jpg)  
+#2  
+= **taken**  
+
+<br>
+<br>
+
+> [![3fish](/images/flash/Oct2022/3.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/3.jpg)  
+#3  
+= **taken**  
+= 4.5 to 6.5 inches tall. Black ink.  
+
+
+<br>
+<br>
+> [![hands](/images/flash/Oct2022/5.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/5.jpg)  
+#5  
+= **taken**  
+= 3 - 3.5 in. tall  
+= single color    
+
+<br>
+<br>
+
+> [![delancey_myosotis](/images/flash/Oct2022/23.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/23.jpg)  
+= **taken**  
+
+<br>
+<br>
+
+[![sunwukong](/images/flash/Oct2022/16.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/16.jpg)  
+#16 sun wu kong  
+= **taken**  
+= 7 in. wide x 9.5 in. tall or larger, or really large.  
+= this is the sketch - can do it in linework or BW shading.  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+<br>
+<br>
+
+> [![persYFA](/images/flash/Oct2022/17a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/17a.jpg)  
+#17  
+= **pending**  
+= 事事如意 painting by 于非暗(1888-1959)  
+= 'may things be as you wish' (a pun on persimmon) by yu fei an  
+= ideally 6 x 6 in. to 8 x 8 in. in size  
+= full color  
+= no sternum placement  
+
+
+<br>
+<br>
+
+> [![persCS](/images/flash/Oct2022/21.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/21.jpg)  
+#21  
+= **taken**  
+= excerpt from a painting by Chen Shu (1660-1735)  
+= 5.5 - 7 inches tall  
+= full color  
+= no sternum placement  
+
+<br>
+<br>
+
+> [![persTSG](/images/flash/Oct2022/22.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/22.jpg)  
+#22  
+= **taken**  
+= 事事如意 painting by 田世光（1916-1999)  
+= 'may things be as you wish' (a pun on persimmon) by tian shi guang  
+= ideally 7 - 9 inches tall  
+= full color  
+= no sternum placement  
+
+<br>
+<br>
+
+> [![persJDS](/images/flash/Oct2022/28.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/28.jpg)  
+#28  
+= **taken**  
+= painting by 姜丹书(1885-1962) jiang dan shu  
+= the long branch on the right - at least 11 in long  
+= full color  
+= no sternum placement  
+
+<br>
+<br>
+
+> [![berries](/images/flash/Oct2022/27.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/27.jpg)  
+#27  
+= *available*  
+= 4.5 - 6 in. tall  
+= red or black ink  
+
+<br>
+<br>
+
+
+> [![flowerknotslines](/images/flash/Oct2022/10a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/10a.jpg)  
+click image to see full size  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #7B or 7C: *available*. at least 10in tall.  
+= #11B or 11C: **taken**. 11+in tall ideally, min size 10in tall.  
+= each design will only be tattooed in linework style once (so for example, only 7B or 7C will be tattooed but not both)  
+
+<br>
+<br>
+
 [![shoals](/images/flash/1.jpg)](https://frogsfrogs.github.io/images/flash/1.jpg)  
 Shoals  
 = prefer to tattoo these large-ish. smallest can do is 3-4 inches.  
