@@ -98,7 +98,7 @@ Books are currently: **CLOSED**
 <br>
 
 
-> [![khalilgibran](/images/flash/Jan2023/4.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4.jpg)  
+[![khalilgibran](/images/flash/Jan2023/4.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4.jpg)  
 #71  
 = available  
 = 7 inches or wider  
