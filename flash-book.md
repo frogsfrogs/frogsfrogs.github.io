@@ -22,7 +22,37 @@ Books are currently: **CLOSED**
 <br><br>
 
 
+> [![birdsZSA](/images/flash/Jan2023/8_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/8_zsa.jpg)  
+[![birdsZSA_mockup](/images/flash/Jan2023/8_zsa_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/8_zsa_mockup.jpg)  
+#74  
+= available  
+= painting by 赵少昂(1905-1998) (zhao shao ang)  
+= full arm or leg, or back  
+= full color  
 
+<br>
+<br>
+
+
+> [![birdZSA](/images/flash/Jan2023/7_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/7_zsa.jpg)  
+#72  
+= available  
+= painting by 赵少昂(1905-1998) (zhao shao ang)  
+= 4-5 inches tall or larger  
+= full color  
+
+<br>
+<br>
+
+> [![2birdsZSA](/images/flash/Jan2023/9_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/9_zsa.jpg)  
+#73  
+= available  
+= painting by 赵少昂(1905-1998) (zhao shao ang)  
+= 7.5 inches wide or larger  
+= full color  
+
+<br>
+<br>
 
 > [![fishTSG](/images/flash/Jan2023/3.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/3.jpg)  
 #3  
@@ -33,6 +63,7 @@ Books are currently: **CLOSED**
 
 <br>
 <br>
+
 
 
 > [![persCS](/images/flash/Jan2023/2.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/2.jpg)  
@@ -67,15 +98,37 @@ Books are currently: **CLOSED**
 <br>
 
 
-> [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/24.jpg)  
-#24  
+> [![khalilgibran](/images/flash/Jan2023/4.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4.jpg)  
+#71  
 = available  
-= Ixia crocata by Mary Delaney (1700-1788)  
-= 6 - 8.5 in. tall  
-= full color  
+= 7 inches or wider  
 
 <br>
 <br>
+
+
+[![blackwork](/images/flash/Jan2023/6.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
+<br>
+= #61: 6 inches tall or larger. *available*  
+= #62: 4 inches wide or larger. *available*  
+= #63: 2.5 inches wider or larger. *available*  
+= #64: 1.75 inches wide or larger. *available*  
+= #65: 5 inches tall or larger. *available*  
+<br>
+<br>
+
+
+[![bunnies](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
+<br>
+all 2.5-3 inches or larger  
+= #66: *available*  
+= #67: *available*  
+= #68: *available*  
+= #69: *available*  
+= #70: *available*  
+<br>
+<br>
+
 
 > [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
@@ -101,14 +154,14 @@ Books are currently: **CLOSED**
 = #41: 9 in or taller. *available*  
 = #42: 9 in or taller. *available*  
 = #43: 9.5 in or taller. *available*  
-= #44: 7 in or taller. **taken**  
+= #44: 7 in or taller. *available*  
 <br>
 <br>
 
 [![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #45: 6 in or taller. *available*  
-= #46: 8 in or taller. *available*  
+= #46: 8 in or taller. **taken**  
 = #47: 8 in or taller. *available*  
 <br>
 <br>
@@ -132,6 +185,16 @@ Books are currently: **CLOSED**
 <br>
 <br>
 
+
+> [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/24.jpg)  
+#24  
+= available  
+= Ixia crocata by Mary Delaney (1700-1788)  
+= 6 - 8.5 in. tall  
+= full color  
+
+<br>
+<br>
 
 
 > [![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
