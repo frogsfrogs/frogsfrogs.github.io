@@ -5,18 +5,16 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: **CLOSED**  
-*-  Books closed for Oct/Nov/Dec 2022! Thank you if you submitted a request - everything has been replied to now, so please check your spam if you didn't get a response to your booking request -*  
+Books are currently: **OPEN**  
 
-**Please join mailing list to receive the booking form link when books next open.**  
-<br> 
+<!-- **Please join mailing list to receive the booking form link when books next open.**   -->
 <br>
 <br>
 
 ---  
-<!-- **Booking Form link is at bottom of page.  
+**Booking Form link is at bottom of page.  
 Please read info below before submitting a booking form, thank you!**  
- -->
+
 --- 
 
 <br>
@@ -40,8 +38,26 @@ Please read info below before submitting a booking form, thank you!**
 <br>
 
 ### Custom Designs  
-  
-- [Click here for Custom Booking instructions.](https://frogsfrogs.github.io/custom-booking)  
+<!-- I am booking custom designs only by these categories:  
+
+**Shoals**  
+* <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
+
+**Lucky Knots**  
+* <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
+
+**BW Realism**  
+* <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
+
+**Mythology**  
+* <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
+
+- To book custom, complete the booking form at the bottom of this page  
+- Custom designs are available to view at the time of the appointment - happy to make any desired adjustments at that time.  
+ -->
+
+- I am not booking any new custom appointments this month.  
+<!-- - [Click here for Custom Booking instructions.](https://frogsfrogs.github.io/custom-booking)  --> 
 
 <!-- I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
 <br>
@@ -83,6 +99,7 @@ Thanks for your interest in working with me! : ) -->
 <br> -->
 <br>
 <br>
+
 **Cover-ups**  
 <!-- - I usually do not do cover-ups, but occasionally I will take on this kind of project. Usually the design has to be a lot bigger than the old one to be effective. -->  
 - Will consider blast overs but not currently doing cover-ups.  
@@ -105,7 +122,7 @@ Thanks for your interest in working with me! : ) -->
 If it is out of budget, let me know and I will see if we can make it work.  
 - Tip is not required, v optional  
 - Cash only  
-- Pricing works out to around 250/hr.  
+- Pricing works out to around 250/hr. I work pretty fast.  
 - Appointment minimum 250 (if it's a really simple one I'm happy to do more than one for the minimum).  
 <br>
 
@@ -121,7 +138,8 @@ If it is out of budget, let me know and I will see if we can make it work.
 
 **Deposits, Cancellations, Rescheduling**  
 - There is a nonrefundable deposit to book the appointment, it goes towards the cost of the tattoo. Deposit amount is $50 or $100 depending on cost of tattoo.  
-- Please let me know as soon as possible if you need to reschedule/cancel - if I have time to fill the spot and I succeed I will either apply the deposit towards your future appointment if you reschedule, or refund the deposit if you cancel (usually if you can give me 3-4 days notice). This is not guaranteed though, because I can't always fill it, so please consider the deposit generally nonrefundable.  
+- Please let me know as soon as possible if you need to reschedule/cancel.  
+<!-- - if I have time to fill the spot and I succeed I will either apply the deposit towards your future appointment if you reschedule, or refund the deposit if you cancel (usually if you can give me 3-4 days notice). This is not guaranteed though, because I can't always fill it, so please consider the deposit generally nonrefundable.   -->
 <!-- - **As I am currently traveling, it is difficult to accommodate reschedules at this time (though I will try).** -->
 - If you need to back out last minute, please please just shoot me an email and let me know, I won't be mean about it or anything! Much better to know than to come to the studio waiting around.  
 <br>
@@ -129,7 +147,7 @@ If it is out of budget, let me know and I will see if we can make it work.
 **Location + Miscellaneous**  
 - I am based in Brooklyn NYC, on Munsee Lenape land.  
 - I work at a private studio near Broadway Junction in Brooklyn NYC, on Munsee Lenape land. I may also take some appointments at a private studio near Myrtle-Wyckoff.  
-- I tattoo 2 days/week, usually tue/wed + fri, very occasionally on Sunday. I do not take appointments on Saturdays.  
+- I tattoo 2 days/week, usually mon/tue/wed + fri, very occasionally on Sunday. I do not take appointments on Saturdays.  
 - I have a small friendly dog who will be present during the tattoo. I am very sorry if this prevents you from booking with me due to allergies or other dog issues, unfortunately I usually cannot leave him at home while I work unless it is a very short tattoo.  
 - Broadway Junction studio is street level there is 1 step into the doorway and we have a big piece of wood that can be used as a ramp, Myrtle Wyckoff studio is on the 2nd floor, up 3 half flights of stairs.  
 <br>
@@ -153,8 +171,8 @@ If it is out of budget, let me know and I will see if we can make it work.
 ---
 <!-- # [BOOKING FORM LINK](https://form.jotform.com/212941513054246)  
  -->
-<!-- 
-># [BOOKING FORM LINK](https://form.jotform.com/222916946271159)   -->
+
+># [FLASH DESIGN Booking Form Link](https://form.jotform.com/222916946271159)  
 <!-- ># [CUSTOM DESIGN Booking Form Link](https://form.jotform.com/213116766264254)   -->
 
 ---

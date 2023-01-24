@@ -20,6 +20,11 @@ Books are currently: **CLOSED**
 (if not please click on image to view full size file)  
 <br><br>
 
+> [![smallknots](/images/flash/Oct2022/50.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/50.jpg)    
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #52: 5.5 in or taller. *available*   
+= everything else taken
+
 > [![delancey_mesembryanthemum](/images/flash/Oct2022/25.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/25.jpg)  
 #25  
 = available  

@@ -4,6 +4,7 @@ title: shoals tattoo series
 permalink: /shoals/
 ---
 <a href="/flash-book">back to flash< </a>
+<a href="/">back to main menu< </a>
 <br>
   
 

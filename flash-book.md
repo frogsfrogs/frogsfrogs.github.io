@@ -5,9 +5,9 @@ permalink: /flash-book/
 ---
 <a href="/">back< </a>
 <br>
-Books are currently: **CLOSED**   
-*-  Books closed for Oct/Nov/Dec 2022! Thank you if you submitted a request - everything has been replied to now, so please check your spam if you didn't get a response to your booking request -*  
-<!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
+Books are currently: **OPEN**  
+*-  Now booking flash appointments for Feb 2023!  -*  
+*- see <a href="/booking-info">booking info page</a> for booking form link -*  
 <br><br>
 **FLASHBOOK**  
   
@@ -34,24 +34,29 @@ Books are currently: **CLOSED**
 <br>
 
 > [![persZSA](/images/flash/Oct2022/18.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/18.jpg)  
+[![persZSA_mockup](/images/flash/Jan2023/18_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/18_mockup.jpg)  
 #18  
 = available  
 = 红柿草虫 painting by 赵少昂(1905-1998)  
 = 'red persimmon and grass bug' by zhao shao ang  
+= placement above is just a suggestion. (body template drawing by adria mercuri)  
 = 8.5 in. tall or larger - I think this one could also be very interesting as a super big tattoo  
 = full color  
 
 <br>
 <br>
 
-> [![persJC](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
+> [![persTSG](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
+[![persTSG_mockup](/images/flash/Jan2023/5_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5_mockup.jpg)  
 #5  
 = available  
 = collaged from 事事如意 painting by 田世光（1916-1999)  
 = 'may things be as you wish' (a pun on persimmon) by tian shi guang  
+= placement above is just a suggestion  
 = full color  
 
 > [![persJC](/images/flash/Jan2023/1.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1.jpg)  
+[![persJC](/images/flash/Jan2023/1_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1_mockup.jpg)  
 #1  
 = available  
 = 事事如意 painting by 金城(1878-1926)  
@@ -73,9 +78,11 @@ Books are currently: **CLOSED**
 <br>
 
 > [![2birdsZSA](/images/flash/Jan2023/9_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/9_zsa.jpg)  
+[![2birdsZSA](/images/flash/Jan2023/9_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/9_mockup.jpg)  
 #73  
 = available  
 = painting by 赵少昂(1905-1998) (zhao shao ang)  
+= placement above is just a suggestion. (body template drawing by adria mercuri)  
 = 7.5 inches wide or larger  
 = full color  
 
@@ -137,6 +144,22 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 <br>
 <br>
 
+
+[![jackrabbit](/images/flash/Jan2023/81.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/81.jpg)  
+#81  
+= *available*  
+= 4.5 inches tall or larger  
+
+<br>
+<br>
+
+[![herons](/images/flash/Jan2023/82.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/82.jpg)  
+= #82: ideally 6 inches wide or larger. *available*  
+= #83: 5 inches tall or larger. *available*  
+
+<br>
+<br>
+
 [![bunnies](/images/flash/Jan2023/5a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5a.jpg)  
 <br>
 all 2.5-3 inches or larger  
@@ -148,21 +171,30 @@ all 2.5-3 inches or larger
 <br>
 <br>
 
+[![doilyknot](/images/flash/Jan2023/52.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/52.jpg)  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #52: 5.5-6 in. tall or larger. *available*  
+<br>
+<br>
+
+[![bigknot](/images/flash/Jan2023/51.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/51.jpg)  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #51: 8.5 in. tall or larger. *available*  
+<br>
+<br>
+
+[![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #45: 6 in or taller. *available*  
+= #46: 8 in or taller. **taken**  
+= #47: 8 in or taller. *available*  
+<br>
+<br>
 
 > [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #7A: *available*. 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
 = #11A: *available*. 11in tall, min size 9in tall. full color.  
-
-<br>
-<br>
-
-
-
-> [![smallknots](/images/flash/Oct2022/50.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/50.jpg)    
-= Please read <a href="/red-seal">this note</a> before requesting.  
-= #52: 5.5 in or taller. *available*   
-= everything else taken
 
 <br>
 <br>
@@ -177,13 +209,7 @@ all 2.5-3 inches or larger
 <br>
 <br>
 
-[![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
-= Please read <a href="/red-seal">this note</a> before requesting.  
-= #45: 6 in or taller. *available*  
-= #46: 8 in or taller. **taken**  
-= #47: 8 in or taller. *available*  
-<br>
-<br>
+
 
 [![shoal](/images/flash/Oct2022/15a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/15a.jpg)  
 #15 shoal  
@@ -207,7 +233,7 @@ all 2.5-3 inches or larger
 
 > [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/24.jpg)  
 #24  
-= available  
+= *available*  
 = Ixia crocata by Mary Delaney (1700-1788)  
 = 6 - 8.5 in. tall  
 = full color  
@@ -226,7 +252,7 @@ all 2.5-3 inches or larger
 
 > [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/4.jpg)  
 #4  
-= available  
+= *available*  
 = 2.5 - 3 in. tall  
 = single color  
 
