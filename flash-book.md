@@ -33,6 +33,34 @@ Books are currently: **CLOSED**
 <br>
 <br>
 
+> [![persZSA](/images/flash/Oct2022/18.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/18.jpg)  
+#18  
+= available  
+= 红柿草虫 painting by 赵少昂(1905-1998)  
+= 'red persimmon and grass bug' by zhao shao ang  
+= 8.5 in. tall or larger - I think this one could also be very interesting as a super big tattoo  
+= full color  
+
+<br>
+<br>
+
+> [![persJC](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
+#5  
+= available  
+= collaged from 事事如意 painting by 田世光（1916-1999)  
+= 'may things be as you wish' (a pun on persimmon) by tian shi guang  
+= full color  
+
+> [![persJC](/images/flash/Jan2023/1.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1.jpg)  
+#1  
+= available  
+= 事事如意 painting by 金城(1878-1926)  
+= 'may things be as you wish' (a pun on persimmon) by jin cheng  
+= ideally arm or leg placement  
+= full color 
+
+<br>
+<br>
 
 > [![birdZSA](/images/flash/Jan2023/7_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/7_zsa.jpg)  
 #72  
@@ -50,6 +78,14 @@ Books are currently: **CLOSED**
 = painting by 赵少昂(1905-1998) (zhao shao ang)  
 = 7.5 inches wide or larger  
 = full color  
+
+<br>
+<br>
+
+> [![4birdsZSA](/images/flash/Jan2023/ZSAbirds.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/ZSAbirds.jpg)  
+from paintings by 赵少昂(1905-1998) (zhao shao ang)  
+= #6: 3 inches tall or larger. *available*  
+= #7: 3.5 inches wide or larger. *available*  
 
 <br>
 <br>
@@ -76,29 +112,9 @@ Books are currently: **CLOSED**
 <br>
 <br>
 
-> [![persJC](/images/flash/Jan2023/1.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1.jpg)  
-#1  
-= available  
-= 事事如意 painting by 金城(1878-1926)  
-= 'may things be as you wish' (a pun on persimmon) by jin cheng  
-= full color 
-
-<br>
-<br>
-
-> [![persZSA](/images/flash/Oct2022/18.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/18.jpg)  
-#18  
-= available  
-= 红柿草虫 painting by 赵少昂(1905-1998)  
-= 'red persimmon and grass bug' by zhao shao ang  
-= 8.5 in. tall or larger - I think this one could also be very interesting as a super big tattoo  
-= full color  
-
-<br>
-<br>
 
 
-[![khalilgibran](/images/flash/Jan2023/4.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4.jpg)  
+[![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
 #71  
 = available  
 = 7 inches or wider  
@@ -107,18 +123,21 @@ Books are currently: **CLOSED**
 <br>
 
 
-[![blackwork](/images/flash/Jan2023/6.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
+[![blackwork](/images/flash/Jan2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
 <br>
 = #61: 6 inches tall or larger. *available*  
 = #62: 4 inches wide or larger. *available*  
-= #63: 2.5 inches wider or larger. *available*  
-= #64: 1.75 inches wide or larger. *available*  
 = #65: 5 inches tall or larger. *available*  
 <br>
 <br>
 
+[![catheads](/images/flash/Jan2023/64.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/64.jpg)  
+<br>
+= #64: *available*  
+<br>
+<br>
 
-[![bunnies](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
+[![bunnies](/images/flash/Jan2023/5a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5a.jpg)  
 <br>
 all 2.5-3 inches or larger  
 = #66: *available*  

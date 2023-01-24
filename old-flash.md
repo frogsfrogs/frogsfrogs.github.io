@@ -63,6 +63,7 @@ Books are currently: **CLOSED**
 
 <br>
 <br>
+
 > [![goldfish](/images/flash/Oct2022/1.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/1.jpg)  
 #1  
 = **taken**  
@@ -86,6 +87,7 @@ Books are currently: **CLOSED**
 
 <br>
 <br>
+
 > [![hands](/images/flash/Oct2022/5.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/5.jpg)  
 #5  
 = **taken**  
