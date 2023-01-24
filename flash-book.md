@@ -6,7 +6,7 @@ permalink: /flash-book/
 <a href="/">back< </a>
 <br>
 Books are currently: **OPEN**  
-*-  Now booking flash appointments for Feb 2023!  -*  
+*-  Now booking flash appointments for Feb/Mar 2023!  -* 
 *- see <a href="/booking-info">booking info page</a> for booking form link -*  
 <br><br>
 **FLASHBOOK**  
