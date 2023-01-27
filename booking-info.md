@@ -5,16 +5,16 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: **OPEN**  
-*-  Now booking flash appointments for Feb/Mar 2023!  -*  
+Books are currently: **CLOSED**  
+*Thank you if you submitted a booking request for Jan 2022 in LA! I have responded to all inquiries.*  
 <!-- **Please join mailing list to receive the booking form link when books next open.**   -->
 <br>
 <br>
 
 ---  
-**Booking Form link is at bottom of page.  
+<!-- **Booking Form link is at bottom of page.  
 Please read info below before submitting a booking form, thank you!**  
-
+ -->
 --- 
 
 <br>
@@ -172,7 +172,7 @@ If it is out of budget, let me know and I will see if we can make it work.
 <!-- # [BOOKING FORM LINK](https://form.jotform.com/212941513054246)  
  -->
 
-># [FLASH DESIGN Booking Form Link](https://form.jotform.com/222916946271159)  
+<!-- ># [FLASH DESIGN Booking Form Link](https://form.jotform.com/222916946271159)   -->
 <!-- ># [CUSTOM DESIGN Booking Form Link](https://form.jotform.com/213116766264254)   -->
 
 ---

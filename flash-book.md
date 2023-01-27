@@ -5,9 +5,9 @@ permalink: /flash-book/
 ---
 <a href="/">back< </a>
 <br>
-Books are currently: **OPEN**  
-*-  Now booking flash appointments for Feb/Mar 2023!  -* 
-*- see <a href="/booking-info">booking info page</a> for booking form link -*  
+Books are currently: **CLOSED**  
+*-  Thank you everyone who submitted a booking request for Feb/Mar 2023! I will be replying to these over the next week or two  -* 
+<!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
 <br><br>
 **FLASHBOOK**  
   
@@ -73,7 +73,6 @@ Books are currently: **OPEN**
 = painting by 赵少昂(1905-1998) (zhao shao ang)  
 = 4-5 inches tall or larger  
 = full color  
-
 <br>
 <br>
 
@@ -85,7 +84,6 @@ Books are currently: **OPEN**
 = placement above is just a suggestion. (body template drawing by adria mercuri)  
 = 7.5 inches wide or larger  
 = full color  
-
 <br>
 <br>
 
