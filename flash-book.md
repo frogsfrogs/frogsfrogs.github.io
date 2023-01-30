@@ -163,7 +163,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 all 2.5-3 inches or larger  
 = #66: *available*  
 = #67: *available*  
-= #68: *available*  
+= #68: **pending**  
 = #69: *available*  
 = #70: *available*  
 <br>
