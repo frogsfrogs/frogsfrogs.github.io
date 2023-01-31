@@ -69,7 +69,7 @@ Books are currently: **CLOSED**
 
 > [![birdZSA](/images/flash/Jan2023/7_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/7_zsa.jpg)  
 #72  
-= available  
+= **taken**  
 = painting by 赵少昂(1905-1998) (zhao shao ang)  
 = 4-5 inches tall or larger  
 = full color  
@@ -89,7 +89,7 @@ Books are currently: **CLOSED**
 
 > [![4birdsZSA](/images/flash/Jan2023/ZSAbirds.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/ZSAbirds.jpg)  
 from paintings by 赵少昂(1905-1998) (zhao shao ang)  
-= #6: 3 inches tall or larger. *available*  
+= #6: 3 inches tall or larger. **taken**  
 = #7: 3.5 inches wide or larger. *available*  
 
 <br>
@@ -130,7 +130,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 
 [![blackwork](/images/flash/Jan2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
 <br>
-= #61: 6 inches tall or larger. *available*  
+= #61: 6 inches tall or larger. **taken**  
 = #62: 4 inches wide or larger. *available*  
 = #65: 5 inches tall or larger. *available*  
 <br>
@@ -163,7 +163,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 all 2.5-3 inches or larger  
 = #66: *available*  
 = #67: *available*  
-= #68: **pending**  
+= #68: **taken**  
 = #69: *available*  
 = #70: *available*  
 <br>
@@ -231,7 +231,7 @@ all 2.5-3 inches or larger
 
 > [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/24.jpg)  
 #24  
-= *available*  
+= **taken** 
 = Ixia crocata by Mary Delaney (1700-1788)  
 = 6 - 8.5 in. tall  
 = full color  
@@ -241,7 +241,7 @@ all 2.5-3 inches or larger
 
 
 > [![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
-= #26A: 5 - 6.5 in tall. *available*  
+= #26A: 5 - 6.5 in tall. **taken**  
 = #26B: 4.5 - 6 in tall. *available*  
 
 <br>
