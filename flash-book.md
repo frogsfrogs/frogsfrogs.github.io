@@ -6,7 +6,7 @@ permalink: /flash-book/
 <a href="/">back< </a>
 <br>
 Books are currently: **CLOSED**  
-*-  Thank you everyone who submitted a booking request for Feb/Mar 2023! I will be replying to these over the next week or two  -* 
+*-  Thank you everyone who submitted a booking request for Feb/Mar 2023! I will be replying to these over the next week or two. edit 2/1/23: still working on finishing emails, thanks for your patience with my reply.  -* 
 <!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
 <br><br>
 **FLASHBOOK**  
@@ -152,7 +152,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 <br>
 
 [![herons](/images/flash/Jan2023/82.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/82.jpg)  
-= #82: ideally 6 inches wide or larger. *available*  
+= #82: ideally 6 inches wide or larger. **taken**  
 = #83: 5 inches tall or larger. *available*  
 
 <br>
@@ -163,7 +163,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 all 2.5-3 inches or larger  
 = #66: *available*  
 = #67: *available*  
-= #68: **taken**  
+= #68: *available*  
 = #69: *available*  
 = #70: *available*  
 <br>
@@ -171,7 +171,7 @@ all 2.5-3 inches or larger
 
 [![doilyknot](/images/flash/Jan2023/52.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/52.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #52: 5.5-6 in. tall or larger. *available*  
+= #52: 5.5-6 in. tall or larger. **taken**  
 <br>
 <br>
 
@@ -202,7 +202,7 @@ all 2.5-3 inches or larger
 = #40: 7.5 in or taller. *available*  
 = #41: 9 in or taller. *available*  
 = #42: 9 in or taller. *available*  
-= #43: 9.5 in or taller. *available*  
+= #43: 9.5 in or taller. **taken**  
 = #44: 7 in or taller. *available*  
 <br>
 <br>

@@ -6,7 +6,7 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently: **CLOSED**  
-*Thank you if you submitted a booking request for Jan 2022 in LA! I have responded to all inquiries.*  
+*-  Thank you everyone who submitted a booking request for Feb/Mar 2023! I will be replying to these over the next week or two. edit 2/1/23: still working on finishing emails, thanks for your patience with my reply.  -*  
 <!-- **Please join mailing list to receive the booking form link when books next open.**   -->
 <br>
 <br>
