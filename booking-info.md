@@ -6,7 +6,7 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently: **CLOSED**  
-*-  Thank you everyone who submitted a booking request for Feb/Mar 2023! I will be replying to these over the next week or two. edit 2/1/23: still working on finishing emails, thanks for your patience with my reply.  -*  
+*-  Thank you everyone who submitted a booking request for Feb/Mar 2023! I will be replying to these over the next week or two. edit 3/18/23 - Hi, had several personal life emergencies last month, and so I was not able to finish replying to booking replies. I am slowly working on it now that things are good again, thank you so much for your patience -*  
 <!-- **Please join mailing list to receive the booking form link when books next open.**   -->
 <br>
 <br>
