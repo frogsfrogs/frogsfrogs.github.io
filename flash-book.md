@@ -49,7 +49,7 @@ Books are currently: **CLOSED**
 > [![persTSG](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
 [![persTSG_mockup](/images/flash/Jan2023/5_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5_mockup.jpg)  
 #5  
-= available  
+= **design claimed** 
 = collaged from 事事如意 painting by 田世光（1916-1999)  
 = 'may things be as you wish' (a pun on persimmon) by tian shi guang  
 = placement above is just a suggestion  
