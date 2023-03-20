@@ -49,7 +49,7 @@ Books are currently: **CLOSED**
 > [![persTSG](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
 [![persTSG_mockup](/images/flash/Jan2023/5_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5_mockup.jpg)  
 #5  
-= **design claimed** 
+= **booked** 
 = collaged from 事事如意 painting by 田世光（1916-1999)  
 = 'may things be as you wish' (a pun on persimmon) by tian shi guang  
 = placement above is just a suggestion  
@@ -58,7 +58,7 @@ Books are currently: **CLOSED**
 > [![persJC](/images/flash/Jan2023/1.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1.jpg)  
 [![persJC](/images/flash/Jan2023/1_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1_mockup.jpg)  
 #1  
-= available  
+= **booked**  
 = 事事如意 painting by 金城(1878-1926)  
 = 'may things be as you wish' (a pun on persimmon) by jin cheng  
 = ideally arm or leg placement  
@@ -69,7 +69,7 @@ Books are currently: **CLOSED**
 
 > [![birdZSA](/images/flash/Jan2023/7_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/7_zsa.jpg)  
 #72  
-= **taken**  
+= **booked**  
 = painting by 赵少昂(1905-1998) (zhao shao ang)  
 = 4-5 inches tall or larger  
 = full color  
@@ -89,7 +89,7 @@ Books are currently: **CLOSED**
 
 > [![4birdsZSA](/images/flash/Jan2023/ZSAbirds.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/ZSAbirds.jpg)  
 from paintings by 赵少昂(1905-1998) (zhao shao ang)  
-= #6: 3 inches tall or larger. **taken**  
+= #6: 3 inches tall or larger. **booked**  
 = #7: 3.5 inches wide or larger. *available*  
 
 <br>
@@ -130,7 +130,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 
 [![blackwork](/images/flash/Jan2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
 <br>
-= #61: 6 inches tall or larger. **taken**  
+= #61: 6 inches tall or larger. **booked**  
 = #62: 4 inches wide or larger. *available*  
 = #65: 5 inches tall or larger. *available*  
 <br>
@@ -152,7 +152,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 <br>
 
 [![herons](/images/flash/Jan2023/82.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/82.jpg)  
-= #82: ideally 6 inches wide or larger. **taken**  
+= #82: ideally 6 inches wide or larger. **booked**  
 = #83: 5 inches tall or larger. *available*  
 
 <br>
@@ -171,7 +171,7 @@ all 2.5-3 inches or larger
 
 [![doilyknot](/images/flash/Jan2023/52.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/52.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #52: 5.5-6 in. tall or larger. **taken**  
+= #52: 5.5-6 in. tall or larger. **booked**  
 <br>
 <br>
 
@@ -183,8 +183,8 @@ all 2.5-3 inches or larger
 
 [![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #45: 6 in or taller. *available*  
-= #46: 8 in or taller. **taken**  
+= #45: 6 in or taller. **booked**  
+= #46: 8 in or taller. **booked**  
 = #47: 8 in or taller. *available*  
 <br>
 <br>
@@ -201,8 +201,8 @@ all 2.5-3 inches or larger
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #40: 7.5 in or taller. *available*  
 = #41: 9 in or taller. *available*  
-= #42: 9 in or taller. *available*  
-= #43: 9.5 in or taller. **taken**  
+= #42: 9 in or taller. **booked**  
+= #43: 9.5 in or taller. **booked**  
 = #44: 7 in or taller. *available*  
 <br>
 <br>
@@ -231,7 +231,7 @@ all 2.5-3 inches or larger
 
 > [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/24.jpg)  
 #24  
-= **taken** 
+= **booked** 
 = Ixia crocata by Mary Delaney (1700-1788)  
 = 6 - 8.5 in. tall  
 = full color  
@@ -241,7 +241,7 @@ all 2.5-3 inches or larger
 
 
 > [![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
-= #26A: 5 - 6.5 in tall. **taken**  
+= #26A: 5 - 6.5 in tall. **booked**  
 = #26B: 4.5 - 6 in tall. *available*  
 
 <br>
