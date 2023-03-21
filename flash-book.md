@@ -36,7 +36,7 @@ Books are currently: **CLOSED**
 > [![persZSA](/images/flash/Oct2022/18.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/18.jpg)  
 [![persZSA_mockup](/images/flash/Jan2023/18_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/18_mockup.jpg)  
 #18  
-= available  
+= *available*  
 = 红柿草虫 painting by 赵少昂(1905-1998)  
 = 'red persimmon and grass bug' by zhao shao ang  
 = placement above is just a suggestion. (body template drawing by adria mercuri)  
@@ -46,40 +46,31 @@ Books are currently: **CLOSED**
 <br>
 <br>
 
-> [![persTSG](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
-[![persTSG_mockup](/images/flash/Jan2023/5_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5_mockup.jpg)  
-#5  
-= **claimed**  
-= collaged from 事事如意 painting by 田世光（1916-1999)  
-= 'may things be as you wish' (a pun on persimmon) by tian shi guang  
-= placement above is just a suggestion  
+> [![rose](/images/flash/April2023/rose.jpg)](https://frogsfrogs.github.io/images/flash/April2023/rose.jpg)  
+#85  
+= *available*  
+= Rosa gallica by Mary Delaney (1700-1788)  
+= 6.5 - 8.5 in. tall  
 = full color  
 
-> [![persJC](/images/flash/Jan2023/1.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1.jpg)  
-[![persJC](/images/flash/Jan2023/1_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1_mockup.jpg)  
-#1  
-= **claimed**  
-= 事事如意 painting by 金城(1878-1926)  
-= 'may things be as you wish' (a pun on persimmon) by jin cheng  
-= ideally arm or leg placement  
-= full color 
-
 <br>
 <br>
 
-> [![birdZSA](/images/flash/Jan2023/7_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/7_zsa.jpg)  
-#72  
-= **claimed**  
-= painting by 赵少昂(1905-1998) (zhao shao ang)  
-= 4-5 inches tall or larger  
+> [![rhododendron](/images/flash/April2023/rhododendron.jpg)](https://frogsfrogs.github.io/images/flash/April2023/rhododendron.jpg)  
+#86  
+= *available*  
+= Rhododendron by Mary Delaney (1700-1788)  
+= 6.5 - 8.5 in. tall  
 = full color  
+
 <br>
 <br>
+
 
 > [![2birdsZSA](/images/flash/Jan2023/9_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/9_zsa.jpg)  
 [![2birdsZSA](/images/flash/Jan2023/9_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/9_mockup.jpg)  
 #73  
-= available  
+= *available*  
 = painting by 赵少昂(1905-1998) (zhao shao ang)  
 = placement above is just a suggestion. (body template drawing by adria mercuri)  
 = 7.5 inches wide or larger  
@@ -95,6 +86,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 <br>
 <br>
 
+
 > [![fishTSG](/images/flash/Jan2023/3.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/3.jpg)  
 #3  
 = available  
@@ -104,8 +96,6 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 
 <br>
 <br>
-
-
 
 > [![persCS](/images/flash/Jan2023/2.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/2.jpg)  
 #2  
@@ -117,7 +107,16 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 <br>
 <br>
 
+> [![chrysCS](/images/flash/Oct2022/19.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/19.jpg)  
+#19  
+= *available*  
+= collaged from a painting by Chen Shu (1660-1735)  
+= 7 - 9.5 inches tall  
+= full color  
+= no sternum placement  
 
+<br>
+<br>
 
 [![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
 #71  
@@ -126,7 +125,6 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 
 <br>
 <br>
-
 
 [![blackwork](/images/flash/Jan2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
 <br>
@@ -169,12 +167,6 @@ all 2.5-3 inches or larger
 <br>
 <br>
 
-[![doilyknot](/images/flash/Jan2023/52.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/52.jpg)  
-= Please read <a href="/red-seal">this note</a> before requesting.  
-= #52: 5.5-6 in. tall or larger. **claimed**  
-<br>
-<br>
-
 [![bigknot](/images/flash/Jan2023/51.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/51.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #51: 8.5 in. tall or larger. *available*  
@@ -208,33 +200,10 @@ all 2.5-3 inches or larger
 <br>
 
 
-
 [![shoal](/images/flash/Oct2022/15a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/15a.jpg)  
 #15 shoal  
 = available  
 = I would love to do custom shoal pieces, please follow instructions on the booking info page for custom bookings if you'd like one. <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
-
-<br>
-<br>
-
-> [![chrysCS](/images/flash/Oct2022/19.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/19.jpg)  
-#19  
-= *available*  
-= collaged from a painting by Chen Shu (1660-1735)  
-= 7 - 9.5 inches tall  
-= full color  
-= no sternum placement  
-
-<br>
-<br>
-
-
-> [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/24.jpg)  
-#24  
-= **claimed**  
-= Ixia crocata by Mary Delaney (1700-1788)  
-= 6 - 8.5 in. tall  
-= full color  
 
 <br>
 <br>
@@ -254,12 +223,76 @@ all 2.5-3 inches or larger
 = 2.5 - 3 in. tall  
 = single color  
 
+<br>
+<br>
 
-> [![bunnienauts](/images/flash/Jan2023/bunnienauts.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/bunnienauts.jpg)  
+> [![bunnienauts](/images/flash/April2023/bunnienauts.jpg)](https://frogsfrogs.github.io/images/flash/April2023/bunnienauts.jpg)  
 #84  
 = *available*  
 = minimum size 5.5" tall 
 = single color  
+
+<br>
+<br>
+
+> [![monkey](/images/flash/April2023/monkey-2.jpg)](https://frogsfrogs.github.io/images/flash/April2023/monkey-2.jpg)  
+#84  
+= *available*  
+= minimum size 5.5" tall 
+= single color  
+
+
+> [![persTSG](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
+[![persTSG_mockup](/images/flash/Jan2023/5_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5_mockup.jpg)  
+#5  
+= **claimed**  
+= collaged from 事事如意 painting by 田世光（1916-1999)  
+= 'may things be as you wish' (a pun on persimmon) by tian shi guang  
+= placement above is just a suggestion  
+= full color  
+
+> [![persJC](/images/flash/Jan2023/1.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1.jpg)  
+[![persJC](/images/flash/Jan2023/1_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/1_mockup.jpg)  
+#1  
+= **claimed**  
+= 事事如意 painting by 金城(1878-1926)  
+= 'may things be as you wish' (a pun on persimmon) by jin cheng  
+= ideally arm or leg placement  
+= full color 
+
+<br>
+<br>
+
+> [![birdZSA](/images/flash/Jan2023/7_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/7_zsa.jpg)  
+#72  
+= **claimed**  
+= painting by 赵少昂(1905-1998) (zhao shao ang)  
+= 4-5 inches tall or larger  
+= full color  
+<br>
+<br>
+
+
+
+[![doilyknot](/images/flash/Jan2023/52.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/52.jpg)  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #52: 5.5-6 in. tall or larger. **claimed**  
+<br>
+<br>
+
+
+
+> [![delancey_ixia](/images/flash/Oct2022/24.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/24.jpg)  
+#24  
+= **claimed**  
+= Ixia crocata by Mary Delaney (1700-1788)  
+= 6 - 8.5 in. tall  
+= full color  
+
+<br>
+<br>
+
+
 
 
 
