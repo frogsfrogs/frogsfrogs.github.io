@@ -25,7 +25,7 @@ Books are currently: **CLOSED**
 > [![birdsZSA](/images/flash/Jan2023/8_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/8_zsa.jpg)  
 [![birdsZSA_mockup](/images/flash/Jan2023/8_zsa_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/8_zsa_mockup.jpg)  
 #74  
-= available  
+= *available*  
 = painting by 赵少昂(1905-1998) (zhao shao ang)  
 = full arm or leg, or back  
 = full color  
@@ -89,7 +89,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 
 > [![fishTSG](/images/flash/Jan2023/3.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/3.jpg)  
 #3  
-= available  
+= *available*  
 = 小鱼 by 田世光（1916-1999)  
 = 'little fish' by tian shiguang  
 = full color  
@@ -99,7 +99,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 
 > [![persCS](/images/flash/Jan2023/2.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/2.jpg)  
 #2  
-= available  
+= *available*  
 = 吉祥花 painting by 陈书(1660-1735)  
 = 'Auspicious Flowers' by chen shu  
 = full color 
@@ -120,7 +120,7 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 
 [![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
 #71  
-= available  
+= *available*  
 = 7 inches or wider  
 
 <br>
@@ -202,7 +202,7 @@ all 2.5-3 inches or larger
 
 [![shoal](/images/flash/Oct2022/15a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/15a.jpg)  
 #15 shoal  
-= available  
+= *available*  
 = I would love to do custom shoal pieces, please follow instructions on the booking info page for custom bookings if you'd like one. <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
 
 <br>
