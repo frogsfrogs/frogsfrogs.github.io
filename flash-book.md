@@ -242,6 +242,12 @@ all 2.5-3 inches or larger
 = single color  
 
 
+---
+<p style="text-align: center;">CLAIMED DESIGNS:</p>
+
+---  
+
+
 > [![persTSG](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
 [![persTSG_mockup](/images/flash/Jan2023/5_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5_mockup.jpg)  
 #5  
