@@ -107,16 +107,6 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 <br>
 <br>
 
-> [![chrysCS](/images/flash/Oct2022/19.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/19.jpg)  
-#19  
-= *available*  
-= collaged from a painting by Chen Shu (1660-1735)  
-= 7 - 9.5 inches tall  
-= full color  
-= no sternum placement  
-
-<br>
-<br>
 
 [![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
 #71  
@@ -247,6 +237,17 @@ all 2.5-3 inches or larger
 
 ---  
 
+
+> [![chrysCS](/images/flash/Oct2022/19.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/19.jpg)  
+#19  
+= **claimed**
+= collaged from a painting by Chen Shu (1660-1735)  
+= 7 - 9.5 inches tall  
+= full color  
+= no sternum placement  
+
+<br>
+<br>
 
 > [![persTSG](/images/flash/Jan2023/5.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5.jpg)  
 [![persTSG_mockup](/images/flash/Jan2023/5_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5_mockup.jpg)  
