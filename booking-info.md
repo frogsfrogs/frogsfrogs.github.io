@@ -6,7 +6,6 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently: **CLOSED**  
-*-  Thank you everyone who submitted a booking request for Feb/Mar 2023! I will be replying to these over the next week or two. edit 3/18/23 - Hi, had several personal life emergencies last month, and so I was not able to finish replying to booking replies. I am slowly working on it now that things are good again, thank you so much for your patience -*  
 <!-- **Please join mailing list to receive the booking form link when books next open.**   -->
 <br>
 <br>
@@ -118,11 +117,10 @@ Thanks for your interest in working with me! : ) -->
 - (the 2 or 4 hrs is tattooing time, not including stenciling/drawing/setting up etc)  
 - You can get as many tattoos as you'd like, that fit in that session length.  --> 
 <!-- - For a rough idea, my appointment minimum is 150, so simplest designs are around 150, small-medium blackwork only designs 200-300, small-med color/bw shading 250-400, medium-larger full bw shading/color 400-800. My prices have gone up because I've developed a ton of joint issues by tattooing too much and too intensely the last few years so I have increased my rates so that I can work a manageable amount instead of quitting all together. I'm really sorry that this will likely price out some people I might've been able to work with otherwise, I hope to return to sliding scale in the future when I am settled down in one place again.   -->
-- I will send you the price quote in my email response to your booking request. Usually it is flat rate, sometimes hourly or session rate.  
+- I will send you the price quote in my email response to your booking request. Usually it is flat rate.  
 If it is out of budget, let me know and I will see if we can make it work.  
 - Tip is not required, v optional  
 - Cash only  
-- Pricing works out to around 250/hr. I work pretty fast.  
 - Appointment minimum 250 (if it's a really simple one I'm happy to do more than one for the minimum).  
 <br>
 

@@ -6,7 +6,7 @@ permalink: /flash-book/
 <a href="/">back< </a>
 <br>
 Books are currently: **CLOSED**  
-*-  Thank you everyone who submitted a booking request for Feb/Mar 2023! I will be replying to these over the next week or two. edit 3/18/23 - Hi, had personal life difficulties/events last month, and so I was not able to finish replying to booking replies. I am slowly working on it now that things are good again, thank you so much for your patience. -* 
+<!-- *-  Thank you everyone who submitted a booking request for Feb/Mar 2023! I will be replying to these over the next week or two. edit 3/18/23 - Hi, had personal life difficulties/events last month, and so I was not able to finish replying to booking replies. I am slowly working on it now that things are good again, thank you so much for your patience. -*  -->
 <!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
 <br><br>
 **FLASHBOOK**  
