@@ -159,7 +159,7 @@ all 2.5-3 inches or larger
 
 [![bigknot](/images/flash/Jan2023/51.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/51.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #51: 8.5 in. tall or larger. *available*  
+= #51: 8.5 in. tall or larger. **claimed**  
 <br>
 <br>
 
