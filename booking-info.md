@@ -121,7 +121,7 @@ Thanks for your interest in working with me! : ) -->
 If it is out of budget, let me know and I will see if we can make it work.  
 - Tip is not required, v optional  
 - Cash only  
-- Appointment minimum 250 (if it's a really simple one I'm happy to do more than one for the minimum).  
+- Appointment minimum 150 (if it's a really simple one I'm happy to do 2 for the minimum).  
 <br>
 
 **Touchups**  
