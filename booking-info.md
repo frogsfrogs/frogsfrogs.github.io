@@ -144,10 +144,10 @@ If it is out of budget, let me know and I will see if we can make it work.
 
 **Location + Miscellaneous**  
 - I am based in Brooklyn NYC, on Munsee Lenape land.  
-- I work at a private studio near Broadway Junction in Brooklyn NYC, on Munsee Lenape land. I may also take some appointments at a private studio near Myrtle-Wyckoff.  
-- I tattoo 2 days/week, usually mon/tue/wed + fri, very occasionally on Sunday. I do not take appointments on Saturdays.  
+- I work at a private studio near Broadway Junction. Address will be shared after appointment is confirmed.  
+- I do not take appointments on Saturdays.  
 - I have a small friendly dog who will be present during the tattoo. I am very sorry if this prevents you from booking with me due to allergies or other dog issues, unfortunately I usually cannot leave him at home while I work unless it is a very short tattoo.  
-- Broadway Junction studio is street level there is 1 step into the doorway and we have a big piece of wood that can be used as a ramp, Myrtle Wyckoff studio is on the 2nd floor, up 3 half flights of stairs.  
+- Broadway Junction studio is street level there is 1 step into the doorway and we have a big piece of wood that can be used as a ramp.  
 <br>
 <br>
 
