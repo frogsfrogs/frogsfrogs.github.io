@@ -133,7 +133,7 @@ If it is out of budget, let me know and I will see if we can make it work.
 **Location + Miscellaneous**  
 - I am currently in Philadelphia, working out of a home studio.  
 - I do not take appointments on Saturdays.  
-- I have a small friendly dog who will likely be present during the tattoo. I am very sorry if this prevents you from booking with me due to allergies or other dog issues, unfortunately I usually cannot leave him at home while I work unless it is a very short tattoo.  
+- I have a small friendly dog who will likely be present during the tattoo. I am very sorry if this prevents you from booking with me due to allergies or other dog issues, unfortunately I usually cannot leave him at home while I work unless it is a very short tattoo. I can put him in a baby fence though.  
 - The place I tattoo is up 3.5 flights of narrow stairs & there are no elevators. I do not have an alternate accessible space to work out of right now unfortunately.  
 <br>
 <br>
