@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Shoals tattoo series
-permalink: /shoals/
+title: BW Realism tattoo series
+permalink: /bw-realism/
 ---
-<a href="/booking-info">back to flash-book< </a>  
 <a href="/custom-booking">back to custom booking info< </a>  
 <a href="/">main menu< </a>
 <br>

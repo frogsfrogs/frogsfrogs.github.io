@@ -3,12 +3,29 @@ layout: page
 title: Custom-Booking
 permalink: /custom-booking/
 ---
-<a href="/">back< </a>  
+<a href="/booking-info">back to booking info< </a>  
+<a href="/">main menu< </a>
 <br>
 
 ## Custom Designs  
   
-*-  Books closed for Oct/Nov/Dec 2022! Thank you if you submitted a request - everything has been replied to now, so please check your spam if you didn't get a response to your booking request -*  
+I am booking custom designs only by these categories:  
+
+**Lucky Knots**  
+* <a href="/lucky-knots">-here-</a> are some pieces from this series I have done in the past.  
+<br>
+
+**Shoals**  
+* <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
+<br>
+
+**Mythology**  
+* <a href="/mythology">-here-</a> are some pieces from this series I have done in the past.  
+<br>
+
+**BW Realism**  
+* <a href="/bw-realism">-here-</a> are some pieces from this series I have done in the past.  
+
 
 <!-- I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
 <br>

@@ -37,25 +37,13 @@ Please read info below before submitting a booking form, thank you!**
 <br>
 
 ### Custom Designs  
-<!-- I am booking custom designs only by these categories:  
 
-**Shoals**  
-* <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
-
-**Lucky Knots**  
-* <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
-
-**BW Realism**  
-* <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
-
-**Mythology**  
-* <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
-
+- [Click here for Custom Booking instructions.](https://frogsfrogs.github.io/custom-booking)  
 - To book custom, complete the booking form at the bottom of this page  
 - Custom designs are available to view at the time of the appointment - happy to make any desired adjustments at that time.  
- -->
 
-- I am not booking any new custom appointments this month.  
+
+<!-- - I am not booking any new custom appointments this month.   -->
 <!-- - [Click here for Custom Booking instructions.](https://frogsfrogs.github.io/custom-booking)  --> 
 
 <!-- I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
@@ -119,49 +107,48 @@ Thanks for your interest in working with me! : ) -->
 <!-- - For a rough idea, my appointment minimum is 150, so simplest designs are around 150, small-medium blackwork only designs 200-300, small-med color/bw shading 250-400, medium-larger full bw shading/color 400-800. My prices have gone up because I've developed a ton of joint issues by tattooing too much and too intensely the last few years so I have increased my rates so that I can work a manageable amount instead of quitting all together. I'm really sorry that this will likely price out some people I might've been able to work with otherwise, I hope to return to sliding scale in the future when I am settled down in one place again.   -->
 - I will send you the price quote in my email response to your booking request. Usually it is flat rate.  
 If it is out of budget, let me know and I will see if we can make it work.  
-- Tip is not required, v optional  
+- Tip is not at all required or expected, though appreciated  
 - Cash only  
 - Appointment minimum 150 (if it's a really simple one I'm happy to do 2 for the minimum).  
 <br>
 
-**Touchups**  
+<!-- **Touchups**  
 - After your tattoo heals, if anything heals out or there are any other fixes you'd like, I offer one free touchup within the first 6 months. After that, touchup fee depends on the scope/scale. I am happy to do touch-ups, but please only book a touchup if there is something specific you would like me to touchup.  
 - Please let your tattoo heal at least 1 month before getting a touchup. 
 - Email me at onion.ttt@gmail.com if you would like to book a touchup. Please include a well-lit, clear photo of the healed tattoo in your email, and a short description of what you'd like me to touchup.  
-<br>
+<br> -->
 
 **Healing after Vaccine**  
 - IF YOU ARE GETTING/HAVE GOTTEN THE COVID-19 VACCINE OR BOOSTERS: please wait at least 1.5 weeks after your last shot before getting your tattoo with me. There is a distinct possibility of poor tattoo healing or pseudo-allergic reactions with tattoos done directly after receiving a vaccine shot, due to increased immune system reactivity.  
 <br>
 
 **Deposits, Cancellations, Rescheduling**  
-- There is a nonrefundable deposit to book the appointment, it goes towards the cost of the tattoo. Deposit amount is $50 or $100 depending on cost of tattoo.  
+- There is a nonrefundable $50 deposit to book the appointment, it goes towards the cost of the tattoo.  
 - Please let me know as soon as possible if you need to reschedule/cancel.  
 <!-- - if I have time to fill the spot and I succeed I will either apply the deposit towards your future appointment if you reschedule, or refund the deposit if you cancel (usually if you can give me 3-4 days notice). This is not guaranteed though, because I can't always fill it, so please consider the deposit generally nonrefundable.   -->
 <!-- - **As I am currently traveling, it is difficult to accommodate reschedules at this time (though I will try).** -->
-- If you need to back out last minute, please please just shoot me an email and let me know, I won't be mean about it or anything! Much better to know than to come to the studio waiting around.  
+- If you need to back out last minute, please please just shoot me an email and let me know, I won't be mean about it or anything! Much better to know than to be waiting around.  
 <br>
 
 **Location + Miscellaneous**  
-- I am based in Brooklyn NYC, on Munsee Lenape land.  
-- I work at a private studio near Broadway Junction. Address will be shared after appointment is confirmed.  
+- I am currently in Philadelphia, working out of a home studio.  
 - I do not take appointments on Saturdays.  
-- I have a small friendly dog who will be present during the tattoo. I am very sorry if this prevents you from booking with me due to allergies or other dog issues, unfortunately I usually cannot leave him at home while I work unless it is a very short tattoo.  
-- Broadway Junction studio is street level there is 1 step into the doorway and we have a big piece of wood that can be used as a ramp.  
+- I have a small friendly dog who will likely be present during the tattoo. I am very sorry if this prevents you from booking with me due to allergies or other dog issues, unfortunately I usually cannot leave him at home while I work unless it is a very short tattoo.  
+- The place I tattoo is up 3.5 flights of narrow stairs & there are no elevators. I do not have an alternate accessible space to work out of right now unfortunately.  
 <br>
 <br>
 
 ---
 ## COVID STUFF  
-- <h4 style="color: #B80000;">Please come wearing a KN-95 or surgical mask covering nose & mouth and keep it on for the duration of the appointment.</h4>  
+- <h4 style="color: #B80000;">Please come wearing a mask covering nose & mouth and keep it on for the duration of the appointment.</h4>  
 
 <!-- 
 - <h4 style="color: #B80000;">Please take a rapid test night before or morning-of our appointment</h4>  
 - If it comes back positive, let me know and I will do my best to reschedule you later on free of additional charge, or if that is not possible I will refund your deposit. No hard feelings or anything if so.  
 <br>
 **I ask that you please honor this as I have increased risk of complications from COVID.**   -->
-- Please **RESCHEDULE** if you are feeling ill.  
-- Please **no companions**, though they are welcome to accompany you up to the point of the building door. Sometimes if no one else is working in the studio that day maybe your friend can join us later.  
+- Please **RESCHEDULE** if you are feeling sick.  
+- Please **no companions**.  
 - Please **EAT before** your appointment! Also please bring your own water bottle.   
 <br>
 <br>
