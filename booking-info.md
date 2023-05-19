@@ -130,7 +130,7 @@ If it is out of budget, let me know and I will see if we can make it work.
 - If you need to back out last minute, please please just shoot me an email and let me know, I won't be mean about it or anything! Much better to know than to be waiting around.  
 <br>
 
-**Location + Miscellaneous**  
+**Location + Dog + Miscellaneous**  
 - I am currently in Philadelphia, working out of a home studio.  
 - I do not take appointments on Saturdays.  
 - I have a small friendly dog who will likely be present during the tattoo. I am very sorry if this prevents you from booking with me due to allergies or other dog issues, unfortunately I usually cannot leave him at home while I work unless it is a very short tattoo. I can put him in a baby fence though.  
