@@ -8,24 +8,14 @@ permalink: /bw-realism/
 <br>
   
 
-[![1](/images/tattoos/shoals/1.png)](https://frogsfrogs.github.io/images/tattoos/shoals/1.png)  
+[![1](/images/tattoos/realism/1.jpg)](https://frogsfrogs.github.io/images/tattoos/realism/1.jpg)  
 <br>
 <br>
-[![2](/images/tattoos/shoals/2.png)](https://frogsfrogs.github.io/images/tattoos/shoals/2.png)  
+[![2](/images/tattoos/realism/2.jpg)](https://frogsfrogs.github.io/images/tattoos/realism/2.jpg)  
 <br>
 <br>
-[![3](/images/tattoos/shoals/3.png)](https://frogsfrogs.github.io/images/tattoos/shoals/3.png)  
+[![3a](/images/tattoos/realism/3a.jpg)](https://frogsfrogs.github.io/images/tattoos/realism/3a.jpg)  
 <br>
 <br>
-[![4](/images/tattoos/shoals/4.png)](https://frogsfrogs.github.io/images/tattoos/shoals/4.png)  
-<br>
-<br>
-[![5](/images/tattoos/shoals/5.png)](https://frogsfrogs.github.io/images/tattoos/shoals/5.png)  
-<br>
-<br>
-[![6](/images/tattoos/shoals/6.png)](https://frogsfrogs.github.io/images/tattoos/shoals/6.png)  
-<br>
-<br>
-[![7](/images/tattoos/shoals/7.png)](https://frogsfrogs.github.io/images/tattoos/shoals/7.png)  
-<br>
+[![3b](/images/tattoos/realism/3b.jpg)](https://frogsfrogs.github.io/images/tattoos/realism/3b.jpg)  
 <br>

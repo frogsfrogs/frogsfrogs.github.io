@@ -9,6 +9,8 @@ permalink: /custom-booking/
 
 ## Custom Designs  
   
+Custom Tattoo Booking Request form is at the bottom of the Booking Info page.  
+<br>
 I am booking custom designs only by these categories:  
 
 **Lucky Knots**  
