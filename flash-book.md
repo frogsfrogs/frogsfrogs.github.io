@@ -29,13 +29,40 @@ Books are currently: **CLOSED**
 <br>
 <br> -->
 
-[![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)  
+<!-- [![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)  
 #6  
 = *available*  
 = 7 inches or wider  
 
 <br>
+<br> -->
+
+
+[![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
+whitecurrants  
+
 <br>
+<br>
+
+<!-- [![6b](/images/flash/May2023/6b.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6b.jpg)  
+#6  
+
+<br>
+<br> -->
+
+[![bugs1](/images/flash/May2023/bugs1.jpg)](https://frogsfrogs.github.io/images/flash/May2023/bugs1.jpg)  
+#6  
+
+<br>
+<br>
+
+[![bugs2](/images/flash/May2023/bugs2.jpg)](https://frogsfrogs.github.io/images/flash/May2023/bugs2.jpg)  
+#6  
+
+<br>
+<br>
+
+
 
 [![1a](/images/flash/May2023/1a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/1a.jpg)  
 #1  
@@ -52,6 +79,10 @@ Books are currently: **CLOSED**
 
 <br>
 <br>
+
+
+[![1b](/images/flash/May2023/1b.jpg)](https://frogsfrogs.github.io/images/flash/May2023/1b.jpg)  
+1b  
 
 <!-- 
 [![2](/images/flash/May2023/2.jpg)](https://frogsfrogs.github.io/images/flash/May2023/2.jpg)  
