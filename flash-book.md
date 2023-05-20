@@ -21,6 +21,89 @@ Books are currently: **CLOSED**
 (if not please click on image to view full size file)  
 <br><br>
 
+<!-- [![1](/images/flash/May2023/1.jpg)](https://frogsfrogs.github.io/images/flash/May2023/1.jpg)  
+#1  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br> -->
+
+[![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)  
+#6  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
+[![1a](/images/flash/May2023/1a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/1a.jpg)  
+#1  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
+[![2a](/images/flash/May2023/2a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/2a.jpg)  
+#1  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
+<!-- 
+[![2](/images/flash/May2023/2.jpg)](https://frogsfrogs.github.io/images/flash/May2023/2.jpg)  
+#2  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
+[![3](/images/flash/May2023/3.jpg)](https://frogsfrogs.github.io/images/flash/May2023/3.jpg)  
+#3  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
+[![4](/images/flash/May2023/4.jpg)](https://frogsfrogs.github.io/images/flash/May2023/4.jpg)  
+#4  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
+
+[![5](/images/flash/May2023/5.jpg)](https://frogsfrogs.github.io/images/flash/May2023/5.jpg)  
+#5  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+ -->
+
+    
+<!-- [![6a](/images/flash/May2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6a.jpg)  
+#6a  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
+[![7](/images/flash/May2023/7.jpg)](https://frogsfrogs.github.io/images/flash/May2023/7.jpg)  
+#7  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br> -->
 
 
 [![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
@@ -30,6 +113,31 @@ Books are currently: **CLOSED**
 
 <br>
 <br>
+
+[![8](/images/flash/May2023/8.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8.jpg)  
+#8a  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
+[![11](/images/flash/May2023/11.jpg)](https://frogsfrogs.github.io/images/flash/May2023/11.jpg)  
+#11  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
+[![loquats](/images/flash/May2023/loquats.jpg)](https://frogsfrogs.github.io/images/flash/May2023/loquats.jpg)  
+#11  
+= *available*  
+= 7 inches or wider  
+
+<br>
+<br>
+
 
 [![blackwork](/images/flash/Jan2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
 <br>
@@ -117,14 +225,14 @@ all 2.5-3 inches or larger
 <br>
 
 
-> [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/4.jpg)  
+<!-- > [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/4.jpg)  
 #4  
 = *available*  
 = 2.5 - 3 in. tall  
 = single color  
 
 <br>
-<br>
+<br> -->
 
 > [![bunnienauts](/images/flash/April2023/bunnienauts.jpg)](https://frogsfrogs.github.io/images/flash/April2023/bunnienauts.jpg)  
 #84  
