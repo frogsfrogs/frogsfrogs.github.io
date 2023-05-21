@@ -21,22 +21,6 @@ Books are currently: **CLOSED**
 (if not please click on image to view full size file)  
 <br><br>
 
-<!-- [![1](/images/flash/May2023/1.jpg)](https://frogsfrogs.github.io/images/flash/May2023/1.jpg)  
-#1  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br> -->
-
-<!-- [![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)  
-#6  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br> -->
-
 
 [![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
 whitecurrants  
@@ -44,11 +28,6 @@ whitecurrants
 <br>
 <br>
 
-<!-- [![6b](/images/flash/May2023/6b.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6b.jpg)  
-#6  
-
-<br>
-<br> -->
 
 [![bugs1](/images/flash/May2023/bugs1.jpg)](https://frogsfrogs.github.io/images/flash/May2023/bugs1.jpg)  
 #6  
@@ -64,79 +43,6 @@ whitecurrants
 
 
 
-[![1a](/images/flash/May2023/1a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/1a.jpg)  
-#1  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br>
-
-[![2a](/images/flash/May2023/2a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/2a.jpg)  
-#1  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br>
-
-
-[![1b](/images/flash/May2023/1b.jpg)](https://frogsfrogs.github.io/images/flash/May2023/1b.jpg)  
-1b  
-
-<!-- 
-[![2](/images/flash/May2023/2.jpg)](https://frogsfrogs.github.io/images/flash/May2023/2.jpg)  
-#2  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br>
-
-[![3](/images/flash/May2023/3.jpg)](https://frogsfrogs.github.io/images/flash/May2023/3.jpg)  
-#3  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br>
-
-[![4](/images/flash/May2023/4.jpg)](https://frogsfrogs.github.io/images/flash/May2023/4.jpg)  
-#4  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br>
-
-
-[![5](/images/flash/May2023/5.jpg)](https://frogsfrogs.github.io/images/flash/May2023/5.jpg)  
-#5  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br>
- -->
-
-    
-<!-- [![6a](/images/flash/May2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6a.jpg)  
-#6a  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br>
-
-[![7](/images/flash/May2023/7.jpg)](https://frogsfrogs.github.io/images/flash/May2023/7.jpg)  
-#7  
-= *available*  
-= 7 inches or wider  
-
-<br>
-<br> -->
-
-
 [![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
 #71  
 = *available*  
@@ -146,7 +52,7 @@ whitecurrants
 <br>
 
 [![8](/images/flash/May2023/8.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8.jpg)  
-#8a  
+#8  
 = *available*  
 = 7 inches or wider  
 

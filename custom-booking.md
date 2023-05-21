@@ -9,9 +9,11 @@ permalink: /custom-booking/
 
 ## Custom Designs  
   
-Custom Tattoo Booking Request form is at the bottom of the Booking Info page.  
+Please read through the Booking Info page linked above before filling out the form - thanks!  
+Booking form link is at the bottom of this page  
 <br>
-I am booking custom designs only by these categories:  
+<br>
+## Here are some custom design categories you can choose from:  
 
 **Lucky Knots**  
 * <a href="/lucky-knots">-here-</a> are some pieces from this series I have done in the past.  
@@ -27,6 +29,15 @@ I am booking custom designs only by these categories:
 
 **BW Realism**  
 * <a href="/bw-realism">-here-</a> are some pieces from this series I have done in the past.  
+
+<br>
+I will prioritize custom requests of the the above categories, and also flash appointments, but I also take open-ended custom requests!  
+In the custom booking form, you can also select **"other"** for the category to submit an open-ended request about any tattoo design you are interested in.  
+
+<!-- ---
+## [CUSTOM DESIGN Booking Form Link](https://form.jotform.com/213116766264254)  
+--- -->
+
 
 
 <!-- I will be accepting some custom requests whenever I have the capacity to.  Please email me at onion.ttt@gmail.com if you are interested in a custom design : )  
