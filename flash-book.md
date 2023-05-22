@@ -22,14 +22,32 @@ Books are currently: **CLOSED**
 <br><br>
 
 
+[![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)
 [![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
 whitecurrants  
 
 <br>
 <br>
 
+[![2](/images/flash/May2023/2.jpg)](https://frogsfrogs.github.io/images/flash/May2023/2.jpg)  
+#6  
 
-[![bugs1](/images/flash/May2023/bugs1.jpg)](https://frogsfrogs.github.io/images/flash/May2023/bugs1.jpg)  
+<br>
+<br>
+
+[![4](/images/flash/May2023/4.jpg)](https://frogsfrogs.github.io/images/flash/May2023/4.jpg)  
+#6  
+
+<br>
+<br>
+
+[![8a](/images/flash/May2023/8a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8a.jpg)  
+#6  
+
+<br>
+<br>
+
+<!-- [![bugs1](/images/flash/May2023/bugs1.jpg)](https://frogsfrogs.github.io/images/flash/May2023/bugs1.jpg)  
 #6  
 
 <br>
@@ -39,7 +57,7 @@ whitecurrants
 #6  
 
 <br>
-<br>
+<br> -->
 
 
 
@@ -51,13 +69,13 @@ whitecurrants
 <br>
 <br>
 
-[![8](/images/flash/May2023/8.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8.jpg)  
+<!-- [![8](/images/flash/May2023/8.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8.jpg)  
 #8  
 = *available*  
 = 7 inches or wider  
 
 <br>
-<br>
+<br> -->
 
 [![11](/images/flash/May2023/11.jpg)](https://frogsfrogs.github.io/images/flash/May2023/11.jpg)  
 #11  
@@ -75,6 +93,13 @@ whitecurrants
 <br>
 <br>
 
+[![16](/images/flash/May2023/16.jpg)](https://frogsfrogs.github.io/images/flash/May2023/16.jpg)  
+<br>
+= #16: *available*  
+= #17: *available*  
+= #18: *available*  
+<br>
+<br>
 
 [![blackwork](/images/flash/Jan2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
 <br>
@@ -118,18 +143,18 @@ all 2.5-3 inches or larger
 <br>
 
 
-[![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
+[![19](/images/flash/May2023/19.jpg)](https://frogsfrogs.github.io/images/flash/May2023/19.jpg)  
+<br>
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #45: 6 in or taller. **claimed**  
-= #46: 8 in or taller. **claimed**  
-= #47: 8 in or taller. *available*  
+= #19: *available*  
+= #20: *available*  
 <br>
 <br>
 
-> [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
+[![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #7A: *available*. 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
-= #11A: *available*. 11in tall, min size 9in tall. full color.  
+= #7A: 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework. *available*  
+= #11A: 11in tall, min size 9in tall. full color. *available*  
 
 <br>
 <br>
@@ -154,7 +179,7 @@ all 2.5-3 inches or larger
 <br>
 
 
-> [![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
+[![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
 = #26A: 5 - 6.5 in tall. **claimed**  
 = #26B: 4.5 - 6 in tall. *available*  
 
@@ -171,7 +196,7 @@ all 2.5-3 inches or larger
 <br>
 <br> -->
 
-> [![bunnienauts](/images/flash/April2023/bunnienauts.jpg)](https://frogsfrogs.github.io/images/flash/April2023/bunnienauts.jpg)  
+[![bunnienauts](/images/flash/April2023/bunnienauts.jpg)](https://frogsfrogs.github.io/images/flash/April2023/bunnienauts.jpg)  
 #84  
 = *available*  
 = minimum size 5.5" tall 
@@ -180,7 +205,7 @@ all 2.5-3 inches or larger
 <br>
 <br>
 
-> [![monkey](/images/flash/April2023/monkey-2.jpg)](https://frogsfrogs.github.io/images/flash/April2023/monkey-2.jpg)  
+[![monkey](/images/flash/April2023/monkey-2.jpg)](https://frogsfrogs.github.io/images/flash/April2023/monkey-2.jpg)  
 #84  
 = *available*  
 = minimum size 5.5" tall 

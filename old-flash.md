@@ -44,6 +44,14 @@ Books are currently: **CLOSED**
 <br>
 <br>
 
+[![moreknots](/images/flash/Oct2022/45a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/45a.jpg)    
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #45: 6 in or taller. **claimed**  
+= #46: 8 in or taller. **claimed**  
+= #47: 8 in or taller. *available*  
+<br>
+<br>
+
 > [![rose](/images/flash/April2023/rose.jpg)](https://frogsfrogs.github.io/images/flash/April2023/rose.jpg)  
 #85  
 = *available*  
