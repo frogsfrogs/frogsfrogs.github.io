@@ -212,6 +212,9 @@ all 2.5-3 inches or larger
 = minimum size 5.5" tall 
 = single color  
 
+[![monkeyboobs](/images/flash/May2023/86.jpg)](https://frogsfrogs.github.io/images/flash/May2023/86.jpg)  
+= #86: *available*  
+
 <!-- 
 ---
 <p style="text-align: center;">CLAIMED DESIGNS:</p>
