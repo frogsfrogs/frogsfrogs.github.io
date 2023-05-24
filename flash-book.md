@@ -209,8 +209,7 @@ all 2.5-3 inches or larger
 [![monkey](/images/flash/April2023/monkey-2.jpg)](https://frogsfrogs.github.io/images/flash/April2023/monkey-2.jpg)  
 #85  
 = *available*  
-= minimum size 5.5" tall 
-= single color  
+= minimum size 5.5" tall  
 
 [![monkeyboobs](/images/flash/May2023/86.jpg)](https://frogsfrogs.github.io/images/flash/May2023/86.jpg)  
 = #86: *available*  
