@@ -80,7 +80,7 @@ Books are currently: **OPEN**
 <br> -->
 
 [![11](/images/flash/May2023/11.jpg)](https://frogsfrogs.github.io/images/flash/May2023/11.jpg)  
-#87  
+#11  
 = *available*  
 = 7 inches or wider  
 
@@ -88,7 +88,7 @@ Books are currently: **OPEN**
 <br>
 
 [![loquats](/images/flash/May2023/loquats.jpg)](https://frogsfrogs.github.io/images/flash/May2023/loquats.jpg)  
-#11  
+#87  
 = *available*    
 
 <br>
