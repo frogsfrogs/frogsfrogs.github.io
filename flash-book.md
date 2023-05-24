@@ -25,26 +25,27 @@ Books are currently: **OPEN**
 
 [![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)
 [![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
-whitecurrants  
-
+#6: 7 inches tall or larger. *available*  
+#7: 7 inches tall or larger. *available*  
 <br>
 <br>
 
 [![2](/images/flash/May2023/2.jpg)](https://frogsfrogs.github.io/images/flash/May2023/2.jpg)  
-#6  
-
+#2: 4.5 inches wide or larger. *available*  
+#3: 3.5 inches wide or larger. *available*  
 <br>
 <br>
 
 [![4](/images/flash/May2023/4.jpg)](https://frogsfrogs.github.io/images/flash/May2023/4.jpg)  
-#6  
-
+#4: 4.5 inches tall or larger. *available*  
+#5: 4.5 inches tall or larger. *available*
 <br>
 <br>
 
 [![8a](/images/flash/May2023/8a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8a.jpg)  
-#6  
-
+#8: 3.5 inches wide or larger. *available*  
+#9: 3.5 inches wide or larger. *available*  
+#10: 4 inches wide or larger. *available*  
 <br>
 <br>
 
@@ -88,17 +89,16 @@ whitecurrants
 
 [![loquats](/images/flash/May2023/loquats.jpg)](https://frogsfrogs.github.io/images/flash/May2023/loquats.jpg)  
 #11  
-= *available*  
-= 7 inches or wider  
+= *available*    
 
 <br>
 <br>
 
 [![16](/images/flash/May2023/16.jpg)](https://frogsfrogs.github.io/images/flash/May2023/16.jpg)  
 <br>
-= #16: *available*  
-= #17: *available*  
-= #18: *available*  
+= #16: 4 inches wide or larger. *available*  
+= #17: 5.5 inches tall or larger.*available*  
+= #18: 5 inches tall or larger.*available*  
 <br>
 <br>
 
@@ -147,8 +147,8 @@ all 2.5-3 inches or larger
 [![19](/images/flash/May2023/19.jpg)](https://frogsfrogs.github.io/images/flash/May2023/19.jpg)  
 <br>
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #19: *available*  
-= #20: *available*  
+= #19: 9 inches tall or larger *available*  
+= #20: 6.5 inches tall or larger *available*  
 <br>
 <br>
 
