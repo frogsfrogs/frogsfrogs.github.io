@@ -15,7 +15,8 @@ Books are currently: **OPEN**
 = All flash placements: arm/leg/back. other placements, maybe.  
 = I **cannot tattoo ribs or side (anything between hip bone and armpit), or likely sternum** due to my back issues, I am unable to sustain the posture needed to tattoo this area.  
 = I will include a price quote in my email response to your booking form, based on size/placement/style.  
-= flash is repeatable  
+<br>
+= *flash is repeatable*  
 <br>
 <br>
 (on mobile you should be able to just zoom in on this page)  
