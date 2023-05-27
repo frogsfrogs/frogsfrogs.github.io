@@ -8,7 +8,7 @@ permalink: /flash-book/
 <br>
 Books are currently:  
 **CLOSED** for Philly May/June 2023  
-**OPEN** for Chicago June 8 & 9  
+**OPEN** for Chicago June 8 & 9 - click main menu button above for booking form link  
 
 *-  Thank you everyone who submitted a booking request for Philly May/June 2023! working on emailing everyone who filled out a form. 05/27/23 -* 
 <!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
