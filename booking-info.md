@@ -38,6 +38,7 @@ Please read info below before submitting a booking form, thank you!**   -->
 ### Flash Designs  
 <!-- - [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-designs)    -->
 - [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-book)  
+- flash is repeatable, but I will probably retire designs if I have tattooed them multiple times  
 <!-- - Flash Designs will be posted here when books open. -->
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
 - To book flash, complete the booking form at the bottom of this page.  
