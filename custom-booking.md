@@ -11,8 +11,6 @@ permalink: /custom-booking/
   
 Please read through the Booking Info page linked above before filling out the form - thanks!  
 <br>
-Booking form link is at the bottom of this page  
-<br>
 <br>
 ## Here are some custom design categories you can choose from:  
 
@@ -36,7 +34,7 @@ I will prioritize custom requests of the the above categories, and also flash ap
 In the custom booking form, you can also select **"other"** for the category to submit an open-ended request about any tattoo design you are interested in.  
 
 ---
-## <center> <a href="https://form.jotform.com/213116766264254">CUSTOM DESIGN Booking Form Link</a> </center>  
+<!-- ## <center> <a href="https://form.jotform.com/213116766264254">CUSTOM DESIGN Booking Form Link</a> </center>   -->
 ---
 
 
