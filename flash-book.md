@@ -3,12 +3,17 @@ layout: page
 title: Flash-book
 permalink: /flash-book/
 ---
-<a href="/">back< </a>
+<a href="/booking-info">back to booking info< </a>  
+<a href="/">main menu< </a>  
 <br>
-Books are currently: **CLOSED**  
-*-  Thank you everyone who submitted a booking request for May/June 2023! working on emailing everyone who filled out a form. 05/27/23 -* 
+Books are currently:  
+**CLOSED** for Philly May/June 2023  
+**OPEN** for Chicago June 8 & 9  
+
+*-  Thank you everyone who submitted a booking request for Philly May/June 2023! working on emailing everyone who filled out a form. 05/27/23 -* 
 <!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
 <br><br>
+- - - 
 **FLASHBOOK**  
   
 = List sizes are preferred, but feel free to ask in the form if you want a different size.  
@@ -16,7 +21,7 @@ Books are currently: **CLOSED**
 = I **cannot tattoo ribs or side (anything between hip bone and armpit), or likely sternum** due to my back issues, I am unable to sustain the posture needed to tattoo this area.  
 = I will include a price quote in my email response to your booking form, based on size/placement/style.  
 <br>
-= *flash is repeatable*  
+= *flash is repeatable*, but I will probably retire designs if I have tattooed them multiple times  
 <br>
 <br>
 (on mobile you should be able to just zoom in on this page)  

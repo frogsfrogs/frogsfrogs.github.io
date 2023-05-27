@@ -5,8 +5,14 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently: **CLOSED**  
-*-  Thank you everyone who submitted a booking request for May/June 2023! working on emailing everyone who filled out a form. 05/27/23 -* 
+Books are currently:  
+**CLOSED** for Philly May/June 2023  
+**OPEN** for Chicago June 8 & 9  
+
+*-  Thank you everyone who submitted a booking request for Philly May/June 2023! working on emailing everyone who filled out a form. 05/27/23 -* 
+<!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
+<br><br>
+- - - 
 **Please join mailing list to receive the booking form link when books next open.**  
 <br>
 <br>
