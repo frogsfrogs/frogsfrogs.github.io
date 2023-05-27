@@ -7,7 +7,7 @@ permalink: /booking-info/
 <br>
 Books are currently:  
 **CLOSED** for Philly May/June 2023  
-**OPEN** for Chicago June 8 & 9  
+**OPEN** for Chicago June 8 & 9 - click back button above for booking form link  
 
 *-  Thank you everyone who submitted a booking request for Philly May/June 2023! working on emailing everyone who filled out a form. 05/27/23 -* 
 <!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
@@ -41,7 +41,7 @@ Please read info below before submitting a booking form, thank you!**   -->
 - flash is repeatable, but I will probably retire designs if I have tattooed them multiple times  
 <!-- - Flash Designs will be posted here when books open. -->
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
-- To book flash, complete the booking form at the bottom of this page.  
+<!-- - To book flash, complete the booking form at the bottom of this page.   -->
 <br>
 
 ### Custom Designs  
