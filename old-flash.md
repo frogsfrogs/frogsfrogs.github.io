@@ -156,6 +156,10 @@ from paintings by 赵少昂(1905-1998) (zhao shao ang)
 
 
 
+[![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
+  
+
+  
 [![doilyknot](/images/flash/Jan2023/52.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/52.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #52: 5.5-6 in. tall or larger. **claimed**  

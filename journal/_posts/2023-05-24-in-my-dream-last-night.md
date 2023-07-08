@@ -16,6 +16,6 @@ it was a tall man in a suit, with gray hair, a long face, droopy skin, and an un
 <br>
 after many hours awake, it feels more like something from a dream, but still a little different - like something that did really happen on a different plane, even though that makes no sense  
 <br>
-when i woke up i convinced myself it wasn't real, because my roommate would have never stopped being stressed out about it if it had actually happened, and they're clearly fine, so it never happened  
+the last time i woke up, i convinced myself it wasn't real - because my roommate would have never stopped being stressed out about it if it had actually happened, and they're clearly fine, so it never happened  
 <br>
 what a strange dream

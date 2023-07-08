@@ -6,10 +6,9 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently:  
-**CLOSED** for Philly May/June 2023  
-**OPEN** for Chicago June 8 & 9 - click back button above for booking form link  
+**CLOSED**  
 
-*-  Thank you everyone who submitted a booking request for Philly May/June 2023! working on emailing everyone who filled out a form. 05/27/23 -* 
+*-  Books will next open in early August for mid-August thru September 2023 in Philly-* 
 <!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
 <br><br>
 - - - 

@@ -7,10 +7,9 @@ permalink: /flash-book/
 <a href="/">main menu< </a>  
 <br>
 Books are currently:  
-**CLOSED** for Philly May/June 2023  
-**OPEN** for Chicago June 8 & 9 - click main menu button above for booking form link  
+**CLOSED**
 
-*-  Thank you everyone who submitted a booking request for Philly May/June 2023! working on emailing everyone who filled out a form. 05/27/23 -* 
+*-  Books will next open in early August for mid-August thru September 2023 in Philly-* 
 <!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
 <br><br>
 - - - 
@@ -21,7 +20,7 @@ Books are currently:
 = I **cannot tattoo ribs or side (anything between hip bone and armpit), or likely sternum** due to my back issues, I am unable to sustain the posture needed to tattoo this area.  
 = I will include a price quote in my email response to your booking form, based on size/placement/style.  
 <br>
-= *flash is repeatable*, but I will probably retire designs if I have tattooed them multiple times  
+= ***flash is repeatable, but I will probably retire designs if I have tattooed them multiple times***  
 <br>
 <br>
 (on mobile you should be able to just zoom in on this page)  
@@ -31,27 +30,27 @@ Books are currently:
 
 [![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)
 [![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
-#6: 7 inches tall or larger. *available*  
-#7: 7 inches tall or larger. *available*  
+#6: 7 inches tall or larger.  
+#7: 7 inches tall or larger.  
 <br>
 <br>
 
 [![2](/images/flash/May2023/2.jpg)](https://frogsfrogs.github.io/images/flash/May2023/2.jpg)  
-#2: 4.5 inches wide or larger. *available*  
-#3: 3.5 inches wide or larger. *available*  
+#2: 4.5 inches wide or larger.  
+#3: 3.5 inches wide or larger.  
 <br>
 <br>
 
 [![4](/images/flash/May2023/4.jpg)](https://frogsfrogs.github.io/images/flash/May2023/4.jpg)  
-#4: 4.5 inches tall or larger. *available*  
-#5: 4.5 inches tall or larger. *available*
+#4: 4.5 inches tall or larger.  
+#5: 4.5 inches tall or larger.
 <br>
 <br>
 
 [![8a](/images/flash/May2023/8a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8a.jpg)  
-#8: 3.5 inches wide or larger. *available*  
-#9: 3.5 inches wide or larger. *available*  
-#10: 4 inches wide or larger. *available*  
+#8: 3.5 inches wide or larger.  
+#9: 3.5 inches wide or larger.  
+#10: 4 inches wide or larger.  
 <br>
 <br>
 
@@ -70,8 +69,7 @@ Books are currently:
 
 
 [![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
-#71  
-= *available*  
+#71    
 = 7 inches or wider  
 
 <br>
@@ -86,33 +84,31 @@ Books are currently:
 <br> -->
 
 [![11](/images/flash/May2023/11.jpg)](https://frogsfrogs.github.io/images/flash/May2023/11.jpg)  
-#11  
-= *available*  
+#11    
 = 7 inches or wider  
 
 <br>
 <br>
 
 [![loquats](/images/flash/May2023/loquats.jpg)](https://frogsfrogs.github.io/images/flash/May2023/loquats.jpg)  
-#87  
-= *available*    
+#87      
 
 <br>
 <br>
 
 [![16](/images/flash/May2023/16.jpg)](https://frogsfrogs.github.io/images/flash/May2023/16.jpg)  
 <br>
-= #16: 4 inches wide or larger. *available*  
-= #17: 5.5 inches tall or larger.*available*  
-= #18: 5 inches tall or larger.*available*  
+= #16: 4 inches wide or larger.  
+= #17: 5.5 inches tall or larger.  
+= #18: 5 inches tall or larger.  
 <br>
 <br>
 
 [![blackwork](/images/flash/Jan2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
 <br>
-= #61: 6 inches tall or larger. **unavailable**  
-= #62: 4 inches wide or larger. **unavailable**  
-= #65: 5 inches tall or larger. *available*  
+<!-- = #61: 6 inches tall or larger. **unavailable**  
+= #62: 4 inches wide or larger. **unavailable**   -->
+= #65: 5 inches tall or larger.  
 <br>
 <br>
 
@@ -124,16 +120,14 @@ Books are currently:
 
 
 [![jackrabbit](/images/flash/Jan2023/81.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/81.jpg)  
-#81  
-= *available*  
+#81    
 = 4.5 inches tall or larger  
 
 <br>
 <br>
 
-[![herons](/images/flash/Jan2023/82.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/82.jpg)  
-= #82: ideally 6 inches wide or larger. **unavailable**  
-= #83: 5 inches tall or larger. *available*  
+[![herons](/images/flash/Jan2023/82.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/82.jpg)    
+= #83: 5 inches tall or larger.  
 
 <br>
 <br>
@@ -141,11 +135,11 @@ Books are currently:
 [![bunnies](/images/flash/Jan2023/5a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5a.jpg)  
 <br>
 all 2.5-3 inches or larger  
-= #66: *available*  
-= #67: *available*  
-= #68: *available*  
-= #69: *available*  
-= #70: *available*  
+= #66  
+= #67  
+= #68  
+= #69  
+= #70  
 <br>
 <br>
 
@@ -153,45 +147,35 @@ all 2.5-3 inches or larger
 [![19](/images/flash/May2023/19.jpg)](https://frogsfrogs.github.io/images/flash/May2023/19.jpg)  
 <br>
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #19: 9 inches tall or larger *available*  
-= #20: 6.5 inches tall or larger *available*  
+= #19: 9 inches tall or larger  
+= #20: 6.5 inches tall or larger  
 <br>
 <br>
 
 [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #7A: 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework. *available*  
-= #11A: 11in tall, min size 9in tall. full color. *available*  
+= #7A: 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
+= #11A: 11in tall, min size 9in tall. full color.  
 
 <br>
 <br>
 
 [![scribbleknots](/images/flash/Oct2022/40a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/40a.jpg)    
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #40: 7.5 in or taller. *available*  
-= #41: 9 in or taller. *available*  
-= #42: 9 in or taller. **unavailable**  
-= #43: 9.5 in or taller. **unavailable**  
-= #44: 7 in or taller. *available*  
+= #40: 7.5 in or taller.  
+= #41: 9 in or taller. 
+= #44: 7 in or taller.  
 <br>
 <br>
 
 
 [![shoal](/images/flash/Oct2022/15a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/15a.jpg)  
-#15 shoal  
-= *available*  
+#15 shoal    
 = I would love to do custom shoal pieces, please follow instructions on the booking info page for custom bookings if you'd like one. <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
 
 <br>
 <br>
 
-
-[![dragonflies](/images/flash/Oct2022/26.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/26.jpg)  
-= #26A: 5 - 6.5 in tall. **unavailable**  
-= #26B: 4.5 - 6 in tall. *available*  
-
-<br>
-<br>
 
 
 <!-- > [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/4.jpg)  
@@ -204,8 +188,7 @@ all 2.5-3 inches or larger
 <br> -->
 
 [![bunnienauts](/images/flash/April2023/bunnienauts.jpg)](https://frogsfrogs.github.io/images/flash/April2023/bunnienauts.jpg)  
-#84  
-= *available*  
+#84    
 = minimum size 5.5" tall 
 = single color  
 
@@ -213,12 +196,11 @@ all 2.5-3 inches or larger
 <br>
 
 [![monkey](/images/flash/April2023/monkey-2.jpg)](https://frogsfrogs.github.io/images/flash/April2023/monkey-2.jpg)  
-#85  
-= *available*  
+#85    
 = minimum size 5.5" tall  
 
 [![monkeyboobs](/images/flash/May2023/86.jpg)](https://frogsfrogs.github.io/images/flash/May2023/86.jpg)  
-= #86: *available*  
+= #86  
 
 <!-- 
 ---
