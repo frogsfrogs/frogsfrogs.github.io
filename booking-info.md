@@ -140,28 +140,28 @@ If it is out of budget, let me know and I will see if we can make it work.
 **Location + Dog + Miscellaneous**  
 - I am currently in Philadelphia.
 - working out of home studio in west philly  
-- I do not take appointments on Saturdays.  
-- I have a small friendly dog who is often present during the tattoo. Let me know in the notebox on the booking form if you have allergies or other dog issues. I can put him in a baby pen during the tattoo, or leave him at home if possible.  
-- The place I tattoo is up 3.5 flights of narrow stairs & there are no elevators. I do not have an alternate accessible space to work out of right now unfortunately.  
+<!-- - I do not take appointments on Saturdays.  
+- I have a small friendly dog who is often present during the tattoo. Let me know in the notebox on the booking form if you have allergies or other dog issues. I can put him in a baby pen during the tattoo, or leave him at home if possible. -->  
+- The place I tattoo is up 1 flight of stairs & there are no elevators. I do not have an alternate accessible space to work out of right now unfortunately.  
 <br>
 <br>
-
+<!-- 
 ---
 ## COVID STUFF  
 - <h4 style="color: #B80000;">Please come wearing a mask covering nose & mouth and keep it on for the duration of the appointment.</h4>  
 
-<!-- 
+
 - <h4 style="color: #B80000;">Please take a rapid test night before or morning-of our appointment</h4>  
 - If it comes back positive, let me know and I will do my best to reschedule you later on free of additional charge, or if that is not possible I will refund your deposit. No hard feelings or anything if so.  
 <br>
-**I ask that you please honor this as I have increased risk of complications from COVID.**   -->
+**I ask that you please honor this as I have increased risk of complications from COVID.**  
 - Please **RESCHEDULE** if you are feeling sick.  
 - Please **no companions**.  
 - Please **EAT before** your appointment! Also please bring your own water bottle.   
 <br>
 <br>
 
----
+--- -->
 <!-- # [BOOKING FORM LINK](https://form.jotform.com/212941513054246)  
  -->
 
