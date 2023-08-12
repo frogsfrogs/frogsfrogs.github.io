@@ -96,10 +96,10 @@ Books are currently:
 <br>
 <br>
 
-[![16](/images/flash/May2023/16.jpg)](https://frogsfrogs.github.io/images/flash/May2023/16.jpg)  
+[![16a](/images/flash/May2023/16a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/16a.jpg)  
 <br>
 = #16: 4 inches wide or larger.  
-= #17: 5.5 inches tall or larger.  
+= #17: **unavailable**  
 = #18: 5 inches tall or larger.  
 <br>
 <br>
