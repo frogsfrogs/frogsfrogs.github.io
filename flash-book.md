@@ -73,7 +73,7 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 
 
 <br>
-## *** The below flash are repeatable, but I will probably retire designs if I have tattooed them multiple times***  
+#### *** The below flash are repeatable, but I will probably retire designs if I have tattooed them multiple times***  
 <br>
 
 > [![yellowmarkerflash](/images/flash/Aug2023/yellowflash.jpg)](https://frogsfrogs.github.io/images/flash/Aug2023/yellowflash.jpg)  
