@@ -36,6 +36,21 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 <br>
 
 
+> [![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)
+[![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
+#6: 7 inches tall or larger.  
+#7: 7 inches tall or larger.  
+<br>
+<br>
+
+> [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #7A: 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
+= #11A: 11in tall, min size 9in tall. full color only.  
+<br>
+<br>
+
+
 > [![rose](/images/flash/April2023/rose.jpg)](https://frogsfrogs.github.io/images/flash/April2023/rose.jpg)  
 #85  
 = *available*  
@@ -56,21 +71,6 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 <br>
 <br>
 
-> [![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)
-[![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
-#6: 7 inches tall or larger.  
-#7: 7 inches tall or larger.  
-<br>
-<br>
-
-> [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
-= Please read <a href="/red-seal">this note</a> before requesting.  
-= #7A: 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
-= #11A: 11in tall, min size 9in tall. full color only.  
-<br>
-<br>
-
-
 
 <br>
 ## *** The below flash are repeatable, but I will probably retire designs if I have tattooed them multiple times***  
@@ -83,6 +83,14 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 #15: 2.75 inches wide or larger.  
 #19: 3.5 inches wide or larger.  
 #20: 3.5 inches tall or larger.  
+<br>
+<br>
+
+> [![25](/images/flash/Aug2023/25.jpg)](https://frogsfrogs.github.io/images/flash/Aug2023/25.jpg)  
+#25: 3 inches tall or larger.  
+#26: 1.5 inches wide or larger.  
+#27: 2.5 inches tall or larger.  
+#28: 3.5 inches tall or larger.  
 <br>
 <br>
 
