@@ -2,6 +2,8 @@ entries:
   - title: Tattoos
     entries:
       - title: <a href="/booking-info/">Booking Info</a>  
+      - title: Booking form
+        url: https://form.jotform.com/232296904603154
       - title: <a href="/flash-book/">Flash Designs</a>
       # - title: Booking form - FLASH
       #   url: https://form.jotform.com/222916946271159  

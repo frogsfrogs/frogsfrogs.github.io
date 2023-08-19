@@ -6,25 +6,21 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently:  
-**CLOSED**  
+**OPEN**  
 
-*-  Books will next open in early August for mid-August thru September 2023 in Philly-* 
-<!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
-<br><br>
+<!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
+<!-- <br><br>
 - - - 
 **Please join mailing list to receive the booking form link when books next open.**  
 <br>
-<br>
+<br> -->
 
 ---  
-<!-- **Booking Form link is at bottom of page.  
-Please read info below before submitting a booking form, thank you!**   -->
+<center> **Booking Form link is at bottom of page.  
+Please read info below before submitting a booking form, thank you!** </center>  
 
 --- 
-    
-<br>
-<br>
-<br>
+
 
 ### How to Book  
 <br>
@@ -37,7 +33,7 @@ Please read info below before submitting a booking form, thank you!**   -->
 ### Flash Designs  
 <!-- - [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-designs)    -->
 - [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-book)  
-- flash is repeatable, but I will probably retire designs if I have tattooed them multiple times  
+- Some flash are repeatable (the section is labeled), but I will probably retire designs if I have tattooed them multiple times  
 <!-- - Flash Designs will be posted here when books open. -->
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
 <!-- - To book flash, complete the booking form at the bottom of this page.   -->
@@ -138,8 +134,8 @@ If it is out of budget, let me know and I will see if we can make it work.
 <br>
 
 **Location + Dog + Miscellaneous**  
-- I am currently in Philadelphia.
-- working out of home studio in west philly  
+- I am currently in Philadelphia.  
+- Working out of home studio in west philly.  
 - I have a small friendly dog who is often present during the tattoo. Let me know in the notebox on the booking form if you have allergies or other dog issues. I can put him in another room during the tattoo, but the house in general will have dog allergens in it.  
 - The place I tattoo is up 2 half flights of narrow stairs and then down 2 steps & there are no elevators. I do not have an alternate accessible space to work out of right now unfortunately.  
 <br>

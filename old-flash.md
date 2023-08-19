@@ -20,6 +20,14 @@ Books are currently: **CLOSED**
 (if not please click on image to view full size file)  
 <br><br>
 
+[![19](/images/flash/May2023/19.jpg)](https://frogsfrogs.github.io/images/flash/May2023/19.jpg)  
+<br>
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #19: 9 inches tall or larger  
+= #20: 6.5 inches tall or larger  
+<br>
+<br>
+
 > [![birdsZSA](/images/flash/Jan2023/8_zsa.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/8_zsa.jpg)  
 [![birdsZSA_mockup](/images/flash/Jan2023/8_zsa_mockup.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/8_zsa_mockup.jpg)  
 #74  
@@ -52,22 +60,19 @@ Books are currently: **CLOSED**
 <br>
 <br>
 
-> [![rose](/images/flash/April2023/rose.jpg)](https://frogsfrogs.github.io/images/flash/April2023/rose.jpg)  
-#85  
-= *available*  
-= Rosa gallica by Mary Delaney (1700-1788)  
-= 6.5 - 8.5 in. tall  
-= full color  
+
+[![shoal](/images/flash/Oct2022/15a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/15a.jpg)  
+#15 shoal    
+= I would love to do custom shoal pieces, please follow instructions on the booking info page for custom bookings if you'd like one. <a href="/shoals">-here-</a> are some pieces from this series I have done in the past.  
 
 <br>
 <br>
 
-> [![rhododendron](/images/flash/April2023/rhododendron.jpg)](https://frogsfrogs.github.io/images/flash/April2023/rhododendron.jpg)  
-#86  
+> [![hand](/images/flash/Oct2022/4.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/4.jpg)  
+#4  
 = *available*  
-= Rhododendron by Mary Delaney (1700-1788)  
-= 6.5 - 8.5 in. tall  
-= full color  
+= 2.5 - 3 in. tall  
+= single color  
 
 <br>
 <br>

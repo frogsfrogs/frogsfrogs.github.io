@@ -35,6 +35,7 @@ In the custom booking form, you can also select **"other"** for the category to 
 
 ---
 <!-- ## <center> <a href="https://form.jotform.com/213116766264254">CUSTOM DESIGN Booking Form Link</a> </center>   -->
+## <center> <a href="https://form.jotform.com/232296904603154"> BOOKING FORM Link</a> </center>  
 ---
 
 
