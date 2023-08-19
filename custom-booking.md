@@ -7,6 +7,9 @@ permalink: /custom-booking/
 <a href="/">main menu< </a>
 <br>
 
+Books are currently:  
+**OPEN** for August - October 2023 in Philadelphia  
+
 ## Custom Designs  
   
 Please read through the Booking Info page linked above before filling out the form - thanks!  
