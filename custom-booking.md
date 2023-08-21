@@ -37,6 +37,9 @@ I will prioritize custom requests of the the above categories, and also flash ap
 In the custom booking form, you can also select **"other"** for the category to submit an open-ended request about any tattoo design you are interested in.  
 A note on requests that draw from cultural imagery - <a href="/red-seal">Link</a>  
 
+I **cannot tattoo ribs or side (anything between hip bone and armpit), or likely sternum** due to my back issues, I am unable to sustain the posture needed to tattoo this area.  
+I will include a price quote in my email response to your booking form, based on size/placement/style.  
+
 ---
 <!-- ## <center> <a href="https://form.jotform.com/213116766264254">CUSTOM DESIGN Booking Form Link</a> </center>   -->
 ## <center> <a href="https://form.jotform.com/232296904603154"> BOOKING FORM Link</a> </center>  
