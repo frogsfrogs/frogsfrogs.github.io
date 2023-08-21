@@ -35,6 +35,7 @@ Please read through the Booking Info page linked above before filling out the fo
 <br>
 I will prioritize custom requests of the the above categories, and also flash appointments, but I also take open-ended custom requests!  
 In the custom booking form, you can also select **"other"** for the category to submit an open-ended request about any tattoo design you are interested in.  
+A note on requests that draw from cultural imagery - <a href="/red-seal">Link</a>  
 
 ---
 <!-- ## <center> <a href="https://form.jotform.com/213116766264254">CUSTOM DESIGN Booking Form Link</a> </center>   -->
