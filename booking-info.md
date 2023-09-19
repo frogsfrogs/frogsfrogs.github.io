@@ -121,10 +121,10 @@ If it is out of budget, let me know and I will see if we can make it work.
 - Email me at onion.ttt@gmail.com if you would like to book a touchup. Please include a well-lit, clear photo of the healed tattoo in your email, and a short description of what you'd like me to touchup.  
 <br> -->
 
-**Healing after Vaccine**  
+<!-- **Healing after Vaccine**  
 - IF YOU ARE GETTING/HAVE GOTTEN THE COVID-19 VACCINE OR BOOSTERS: please wait at least 1.5 weeks after your last shot before getting your tattoo with me. There is a distinct possibility of poor tattoo healing or pseudo-allergic reactions with tattoos done directly after receiving a vaccine shot, due to increased immune system reactivity.  
 <br>
-
+ -->
 **Deposits, Cancellations, Rescheduling**  
 - There is a nonrefundable $50 deposit to book the appointment, it goes towards the cost of the tattoo.  
 - Please let me know as soon as possible if you need to reschedule/cancel.  
@@ -135,9 +135,9 @@ If it is out of budget, let me know and I will see if we can make it work.
 
 **Location + Dog + Miscellaneous**  
 - I am currently in Philadelphia.  
-- Working out of home studio in west philly.  
-- I have a small friendly dog who is often present during the tattoo. Let me know in the notebox on the booking form if you have allergies or other dog issues. I can put him in another room during the tattoo, but the house in general will have dog allergens in it.  
-- The place I tattoo is up 2 half flights of narrow stairs and then down 2 steps & there are no elevators. I do not have an alternate accessible space to work out of right now unfortunately.  
+- Working out of private studio about half mile north of the 11th st trolley stop, near chinatown  
+- My dog or my studiomate's dog may be hanging out in the studio during the tattoo. Let me know in the notebox on the booking form if you have allergies or otherwise cannot be around dogs and we can leave them at home. The space in general will probably have dog allergens in it though.  
+- There is an elevator that goes to the studio (not wise enough to be ada accessible), and it is up half a flight of stairs - there is a fold out ramp we can put on those stairs (however the angle of it is a bit steep not ada accessible either). I do not have an alternate fully accessible space to work out of right now unfortunately.  
 <br>
 <br>
 
@@ -146,7 +146,6 @@ If it is out of budget, let me know and I will see if we can make it work.
 - <h4 style="color: #B80000;">Please come wearing a mask covering nose & mouth and keep it on for the duration of the appointment.</h4>  
 <br>
 - Please **RESCHEDULE** if you are feeling sick.  
-- Please **no companions**.  
 <br>
 <br>
 
