@@ -30,7 +30,7 @@ Woodblock Prints by Keinen Imao (1845 - 1924)
 can tattoo these with the rectangle border or without (will draw in the leaves/flowers on the edges)  
 = #21: at least 7 inches tall  
 = #22: at least 7 inches tall  
-= #23: at least 8 inches tall  
+= #23: unavailable  
 = #24: at least 7 inches tall  
 <br>
 <br>
@@ -38,14 +38,14 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 
 > [![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)
 [![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
-#6: 7 inches tall or larger.  
+#6: unavailable  
 #7: 7 inches tall or larger.  
 <br>
 <br>
 
 > [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
-= #7A: 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
+= #7A: UNAVAILABLE. 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
 = #11A: 11in tall, min size 9in tall. full color only.  
 <br>
 <br>
@@ -70,7 +70,31 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 
 <br>
 <br>
+> [![monkey](/images/flash/April2023/monkey-2.jpg)](https://frogsfrogs.github.io/images/flash/April2023/monkey-2.jpg)  
+#85    
+= minimum size 5.5" tall  
+<br>
+<br>
 
+> [![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
+#71    
+= 7 inches or wider  
+
+<br>
+<br>
+
+> [![11](/images/flash/May2023/11.jpg)](https://frogsfrogs.github.io/images/flash/May2023/11.jpg)  
+#11    
+= 7 inches or wider  
+
+<br>
+<br>
+
+> [![loquats](/images/flash/May2023/loquats.jpg)](https://frogsfrogs.github.io/images/flash/May2023/loquats.jpg)  
+#87 loquats  
+**unavailable**  
+<br>
+<br>
 
 <br>
 #### *** The below flash are repeatable, but I will probably retire designs if I have tattooed them multiple times***  
@@ -90,7 +114,7 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 #25: 3 inches tall or larger.  
 #26: 1.5 inches wide or larger.  
 #27: 2.5 inches tall or larger.  
-#28: 3.5 inches tall or larger.  
+#28: unavailable  
 <br>
 <br>
 
@@ -127,13 +151,6 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 
 
 
-> [![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
-#71    
-= 7 inches or wider  
-
-<br>
-<br>
-
 <!-- [![8](/images/flash/May2023/8.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8.jpg)  
 #8  
 = *available*  
@@ -142,21 +159,10 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 <br>
 <br> -->
 
-> [![11](/images/flash/May2023/11.jpg)](https://frogsfrogs.github.io/images/flash/May2023/11.jpg)  
-#11    
-= 7 inches or wider  
-
-<br>
-<br>
-
-> [![loquats](/images/flash/May2023/loquats.jpg)](https://frogsfrogs.github.io/images/flash/May2023/loquats.jpg)  
-#87 loquats  
-<br>
-<br>
 
 > [![16a](/images/flash/May2023/16a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/16a.jpg)  
 <br>
-= #16: 4 inches wide or larger.  
+= #16: **unavailable**  
 = #17: **unavailable**  
 = #18: 5 inches tall or larger.  
 <br>
@@ -184,11 +190,6 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 <br>
 <br>
 
-> [![herons](/images/flash/Jan2023/82.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/82.jpg)    
-= #83: 5 inches tall or larger.  
-
-<br>
-<br>
 
 > [![bunnies](/images/flash/Jan2023/5a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5a.jpg)  
 <br>
@@ -206,7 +207,7 @@ all 2.5-3 inches or larger
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #40: 7.5 in or taller.  
 = #41: 9 in or taller. 
-= #44: 7 in or taller.  
+= unavailable  
 <br>
 <br>
 
@@ -219,12 +220,8 @@ all 2.5-3 inches or larger
 <br>
 <br>
 
-> [![monkey](/images/flash/April2023/monkey-2.jpg)](https://frogsfrogs.github.io/images/flash/April2023/monkey-2.jpg)  
-#85    
-= minimum size 5.5" tall  
-
 > [![monkeyboobs](/images/flash/May2023/86.jpg)](https://frogsfrogs.github.io/images/flash/May2023/86.jpg)  
-= #86  
+= #m1  
 
 <!-- 
 ---

@@ -137,7 +137,7 @@ If it is out of budget, let me know and I will see if we can make it work.
 - I am currently in Philadelphia.  
 - Working out of private studio about half mile north of the 11th st trolley stop, near chinatown  
 - My dog or my studiomate's dog may be hanging out in the studio during the tattoo. Let me know in the notebox on the booking form if you have allergies or otherwise cannot be around dogs and we can leave them at home. The space in general will probably have dog allergens in it though.  
-- There is an elevator that goes to the studio (not wise enough to be ada accessible), and it is up half a flight of stairs - there is a fold out ramp we can put on those stairs (however the angle of it is a bit steep not ada accessible either). I do not have an alternate fully accessible space to work out of right now unfortunately.  
+- There is an elevator that goes to the studio on the 3rd floor (not wide enough to be ada accessible), and it is up half a flight of stairs - there is a fold out ramp we can put on those stairs (however the angle of it is a bit steep not ada accessible either). I do not have an alternate fully accessible space to work out of right now unfortunately.  
 <br>
 <br>
 
