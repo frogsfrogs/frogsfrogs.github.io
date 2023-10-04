@@ -26,6 +26,7 @@ Books are currently:
 <br><br>
 
 > [![flowerknts](/images/flash/Oct2023/knots.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/knots.jpg)  
+COLOR or BW  
 #72: 5.5 inches tall or larger.  
 #73: 9.5 inches tall or larger.  
 #74: 9.5 inches tall or larger.  

@@ -8,7 +8,7 @@ permalink: /custom-booking/
 <br>
 
 Books are currently:  
-**OPEN** for Oct 29, Oct 30, Nov 1 in Los Angeles  
+**OPEN** for Los Angeles, Oct 29, Oct 30, Nov 1 @howdy.la (atwater village)  
 **CLOSED** for Philadelphia (will open books on Oct 15 for Nov/Dec 2023 in Philly)  
 
 ## Custom Designs  
