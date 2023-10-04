@@ -7,7 +7,7 @@ permalink: /flash-book/
 <a href="/">main menu< </a>  
 <br>
 Books are currently:  
-**OPEN** for Oct 29, Oct 30, Nov 1 in Los Angeles  
+**OPEN** for Los Angeles, Oct 29, Oct 30, Nov 1 @howdy.la (atwater village)  
 **CLOSED** for Philadelphia (will open books on Oct 15 for Nov/Dec 2023 in Philly)  
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
@@ -25,11 +25,16 @@ Books are currently:
 (if not please click on image to view full size file)  
 <br><br>
 
-> [![flowerknts](/images/flash/Oct2023/knots.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/knots.jpg)  
-COLOR or BW  
-#72: 5.5 inches tall or larger.  
+> [![flowerknts](/images/flash/Oct2023/flowerknots.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/flowerknots.jpg)  
+COLOR or BW   
 #73: 9.5 inches tall or larger.  
 #74: 9.5 inches tall or larger.  
+<br>
+<br>
+
+> [![loop](/images/flash/Oct2023/72.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/72.jpg)  
+COLOR or BW  
+#72: 5.5 inches tall or larger.  
 <br>
 <br>
 
