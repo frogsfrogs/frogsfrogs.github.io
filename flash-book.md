@@ -29,6 +29,7 @@ Books are currently:
 COLOR or BW   
 #73: 9.5 inches tall or larger.  
 #74: 9.5 inches tall or larger.  
+= Please read <a href="/red-seal">this note</a> before requesting.  
 <br>
 <br>
 
