@@ -6,7 +6,8 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently:  
-**OPEN** for August - October 2023 in Philadelphia  
+**OPEN** for Oct 29, Oct 30, Nov 1 in Los Angeles  
+**CLOSED** for Philadelphia (will open books on Oct 15 for Nov/Dec 2023 in Philly)  
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 <!-- <br><br>
@@ -17,7 +18,7 @@ Books are currently:
 
 ---  
 
-# [BOOKING FORM LINK](https://form.jotform.com/232296904603154)  
+# [LA TRAVEL BOOKING FORM LINK](https://form.jotform.com/231460559845160)  
 
 --- 
 

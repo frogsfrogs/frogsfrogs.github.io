@@ -8,7 +8,8 @@ permalink: /custom-booking/
 <br>
 
 Books are currently:  
-**OPEN** for August - October 2023 in Philadelphia  
+**OPEN** for Oct 29, Oct 30, Nov 1 in Los Angeles  
+**CLOSED** for Philadelphia (will open books on Oct 15 for Nov/Dec 2023 in Philly)  
 
 ## Custom Designs  
   

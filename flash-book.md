@@ -7,7 +7,8 @@ permalink: /flash-book/
 <a href="/">main menu< </a>  
 <br>
 Books are currently:  
-**OPEN** for August - October 2023 in Philadelphia  
+**OPEN** for Oct 29, Oct 30, Nov 1 in Los Angeles  
+**CLOSED** for Philadelphia (will open books on Oct 15 for Nov/Dec 2023 in Philly)  
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 *- see <a href="/booking-info">booking info page</a> for booking form link -*  
