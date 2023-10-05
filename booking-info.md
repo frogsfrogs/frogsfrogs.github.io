@@ -6,7 +6,7 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently:  
-**OPEN** for Los Angeles, Oct 29, Oct 30, Nov 1 @howdy.la (atwater village)  
+**CLOSED** for Los Angeles, Oct 29, Oct 30, Nov 1 @howdy.la (atwater village). Will be replying to booking forms in the next 1-2 weeks!  
 **CLOSED** for Philadelphia (will open books on Oct 15 for Nov/Dec 2023 in Philly)  
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
@@ -18,8 +18,8 @@ Books are currently:
 
 ---  
 
-# [LA TRAVEL BOOKING FORM LINK](https://form.jotform.com/231460559845160)  
-
+<!-- # [LA TRAVEL BOOKING FORM LINK](https://form.jotform.com/231460559845160)  
+ -->
 --- 
 
 
