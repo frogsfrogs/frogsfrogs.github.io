@@ -10,13 +10,15 @@ I keep having dreams of you.
 Sometimes,  
 we meet and we are friends again.  
 <br>
-we meet and we are distant, and it's awkward.  
+Sometimes,  
+we meet, and we are distant  
+and it's awkward.  
 <br>
-we meet,  
-and we are lovers.  
+We meet,  
+and we become lovers.  
 <br>
 Sometimes.  
-we meet, and we say goodbye.  
+we meet.    &nbsp;&nbsp; and we say goodbye.  
 <br>
 never in any of these dreams do I hate you  
 but when I wake up I find myself wishing I did.  
