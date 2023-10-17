@@ -15,7 +15,7 @@ we meet and we are distant, and it's awkward.
 we meet,  
 and we are lovers.  
 <br>
-Sometimes,  
+Sometimes.  
 we meet, and we say goodbye.  
 <br>
 never in any of these dreams do I hate you  
