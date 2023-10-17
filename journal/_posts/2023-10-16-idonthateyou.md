@@ -12,7 +12,8 @@ we meet and we are friends again.
 <br>
 we meet and we are distant, and it's awkward.  
 <br>
-we meet, and we are lovers.  
+we meet,  
+and we are lovers.  
 <br>
 Sometimes,  
 we meet, and we say goodbye.  
