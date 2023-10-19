@@ -8,7 +8,7 @@ permalink: /flash-book/
 <br>
 Books are currently:  
 **CLOSED** for Los Angeles, Oct 29, Oct 30, Nov 1 @howdy.la (atwater village). Will be replying to booking forms in the next 1-2 weeks!  
-**CLOSED** for Philadelphia (will open books on Oct 15 for Nov/Dec 2023 in Philly)  
+**CLOSED** for Philadelphia (will open books on Oct 18 for Nov/Dec 2023 in Philly)  
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 *- see <a href="/booking-info">booking info page</a> for booking form link -*  
@@ -25,19 +25,6 @@ Books are currently:
 (if not please click on image to view full size file)  
 <br><br>
 
-> [![flowerknts](/images/flash/Oct2023/flowerknots.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/flowerknots.jpg)  
-COLOR or BW   
-#73: 9.5 inches tall or larger.  
-#74: 9.5 inches tall or larger.  
-= Please read <a href="/red-seal">this note</a> before requesting.  
-<br>
-<br>
-
-> [![loop](/images/flash/Oct2023/72.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/72.jpg)  
-COLOR or BW  
-#72: 5.5 inches tall or larger.  
-<br>
-<br>
 
 > [![keinenkacho](/images/flash/KeinenImao/KeinenKacho.jpg)](https://frogsfrogs.github.io/images/flash/KeinenImao/KeinenKacho.jpg)  
 Woodblock Prints by Keinen Imao (1845 - 1924)  
@@ -54,13 +41,6 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 [![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
 #6: unavailable  
 #7: 7 inches tall or larger.  
-<br>
-<br>
-
-> [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
-= Please read <a href="/red-seal">this note</a> before requesting.  
-= #7A: UNAVAILABLE. 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
-= #11A: 11in tall, min size 9in tall. full color only.  
 <br>
 <br>
 
@@ -237,12 +217,32 @@ all 2.5-3 inches or larger
 > [![monkeyboobs](/images/flash/May2023/86.jpg)](https://frogsfrogs.github.io/images/flash/May2023/86.jpg)  
 = #m1  
 
-<!-- 
+
 ---
 <p style="text-align: center;">CLAIMED DESIGNS:</p>
 
 ---  
- -->
+
+> [![flowerknts](/images/flash/Oct2023/flowerknots.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/flowerknots.jpg)  
+COLOR or BW   
+#73: **taken** 9.5 inches tall or larger.  
+#74: **taken** 9.5 inches tall or larger.  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+<br>
+<br>
+
+> [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #7A: **taken** 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
+= #11A: **taken** 11in tall, min size 9in tall. full color only.  
+<br>
+<br>
+
+> [![loop](/images/flash/Oct2023/72.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/72.jpg)  
+COLOR or BW  
+#72: 5.5 inches tall or larger. **taken**  
+<br>
+<br>
 
 
 
