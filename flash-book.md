@@ -84,14 +84,19 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 <br>
 <br>
 
-> [![loquats](/images/flash/May2023/loquats.jpg)](https://frogsfrogs.github.io/images/flash/May2023/loquats.jpg)  
-#87 loquats  
-**unavailable**  
-<br>
-<br>
-
 <br>
 #### *** The below flash may be repeated one time***  
+<br>
+
+> [![smallflash](/images/flash/Nov2023/smallflash.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/smallflash.jpg)  
+#31: unavailable  
+#32: 3.5 inches tall or larger.  
+#33: 2.5 inches tall or larger.  
+#34: 3.5 inches tall or larger.  
+#35: 3 inches tall or larger.  
+#36: unavailable  
+#37: unavailable  
+<br>
 <br>
 
 > [![yellowmarkerflash](/images/flash/Aug2023/yellowflash.jpg)](https://frogsfrogs.github.io/images/flash/Aug2023/yellowflash.jpg)  
@@ -241,6 +246,13 @@ COLOR or BW
 > [![loop](/images/flash/Oct2023/72.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/72.jpg)  
 COLOR or BW  
 #72: 5.5 inches tall or larger. **taken**  
+<br>
+<br>
+
+
+> [![loquats](/images/flash/May2023/loquats.jpg)](https://frogsfrogs.github.io/images/flash/May2023/loquats.jpg)  
+#87 loquats  
+**unavailable**  
 <br>
 <br>
 
