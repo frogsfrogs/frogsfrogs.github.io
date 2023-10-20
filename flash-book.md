@@ -42,7 +42,8 @@ Books are currently:
 > [![novknots](/images/flash/Nov2023/nov2023-knots.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/nov2023-knots.jpg)  
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #45: 8 inches tall or larger.  
-= #48: 9 inches tall or larger.
+= #48: 9 inches tall or larger.  
+available in color, or bw linework - please let me know in the form which you are interested in!
 <br>
 <br>
 
