@@ -8,8 +8,8 @@ permalink: /custom-booking/
 <br>
 
 Books are currently:  
-**CLOSED** for Los Angeles, Oct 29, Oct 30, Nov 1 @howdy.la (atwater village). Will be replying to booking forms in the next 1-2 weeks!  
-**CLOSED** for Philadelphia (will open books on Oct 15 for Nov/Dec 2023 in Philly)  
+**OPEN** for Philadelphia Nov+Dec 2023  
+**CLOSED** for Los Angeles, Oct 29, Oct 30, Nov 1 @howdy.la (atwater village).  
 
 ## Custom Designs  
   
@@ -43,7 +43,8 @@ I will include a price quote in my email response to your booking form, based on
 
 ---
 <!-- ## <center> <a href="https://form.jotform.com/213116766264254">CUSTOM DESIGN Booking Form Link</a> </center>   -->
-<!-- ## <center> <a href="https://form.jotform.com/231460559845160"> LA TRAVEL BOOKING FORM Link</a> </center>   -->
+## <center> <a href="https://form.jotform.com/232296904603154"> BOOKING FORM Link</a> </center>  
+<!-- ## <center> <a href="https://form.jotform.com/231460559845160"> TRAVEL BOOKING FORM Link</a> </center>   -->
 ---
 
 
