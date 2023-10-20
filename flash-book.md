@@ -36,11 +36,40 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 <br>
 <br>
 
+> [![novshoals](/images/flash/Nov2023/nov2023shoals.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/nov2023shoals.jpg)  
+= #29: at least 4 inches tall  
+= #30: at least 4 inches tall  
+= #38: at least 4 inches tall
+<br>
+<br>
+
+> [![pencilnast2](/images/flash/Nov2023/pencilnast2.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/pencilnast2.jpg)  
+= #39: 4 inches tall or larger.  
+= #42: 5 inches tall or larger.  
+= #43: 4 inches tall or larger.
+<br>
+<br>
+
+> [![novknots](/images/flash/Nov2023/nov2023-knots.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/nov2023-knots.jpg)  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #45: 8 inches tall or larger.  
+= #48: 9 inches tall or larger.
+<br>
+<br>
+
+[![persim](/images/flash/Nov2023/49.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/49.jpg)
+[![persim](/images/flash/Nov2023/50.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/50.jpg)  
+= #49B: at least 2.25 inches wide  
+= #50B: at least 2.25 inches wide  
+= #50A: at least 2.5 inches wide  
+= #50C: at least 2.5 inches wide  
+<br>
+<br>
 
 > [![6](/images/flash/May2023/6.jpg)](https://frogsfrogs.github.io/images/flash/May2023/6.jpg)
 [![wc](/images/flash/May2023/whitecurrants.jpg)](https://frogsfrogs.github.io/images/flash/May2023/whitecurrants.jpg)  
 #6: unavailable  
-#7: 7 inches tall or larger.  
+#7: 7 inches tall or larger.
 <br>
 <br>
 
@@ -50,8 +79,7 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 = *available*  
 = Rosa gallica by Mary Delaney (1700-1788)  
 = 6.5 - 8.5 in. tall  
-= full color  
-
+= full color
 <br>
 <br>
 
@@ -60,26 +88,25 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 = *available*  
 = Rhododendron by Mary Delaney (1700-1788)  
 = 6.5 - 8.5 in. tall  
-= full color  
-
+= full color
 <br>
 <br>
 > [![monkey](/images/flash/April2023/monkey-2.jpg)](https://frogsfrogs.github.io/images/flash/April2023/monkey-2.jpg)  
 #85    
-= minimum size 5.5" tall  
+= minimum size 5.5" tall
 <br>
 <br>
 
 > [![khalilgibran](/images/flash/Jan2023/4a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/4a.jpg)  
 #71    
-= 7 inches or wider  
+= 7 inches or wider
 
 <br>
 <br>
 
 > [![11](/images/flash/May2023/11.jpg)](https://frogsfrogs.github.io/images/flash/May2023/11.jpg)  
 #11    
-= 7 inches or wider  
+= 7 inches or wider
 
 <br>
 <br>
