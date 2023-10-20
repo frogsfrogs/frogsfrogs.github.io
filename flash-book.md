@@ -25,17 +25,6 @@ Books are currently:
 (if not please click on image to view full size file)  
 <br><br>
 
-
-> [![keinenkacho](/images/flash/KeinenImao/KeinenKacho.jpg)](https://frogsfrogs.github.io/images/flash/KeinenImao/KeinenKacho.jpg)  
-Woodblock Prints by Keinen Imao (1845 - 1924)  
-can tattoo these with the rectangle border or without (will draw in the leaves/flowers on the edges)  
-= #21: at least 7 inches tall  
-= #22: at least 7 inches tall  
-= #23: unavailable  
-= #24: at least 7 inches tall  
-<br>
-<br>
-
 > [![novshoals](/images/flash/Nov2023/nov2023shoals.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/nov2023shoals.jpg)  
 = #29: at least 4 inches tall  
 = #30: at least 4 inches tall  
@@ -54,6 +43,16 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 = Please read <a href="/red-seal">this note</a> before requesting.  
 = #45: 8 inches tall or larger.  
 = #48: 9 inches tall or larger.
+<br>
+<br>
+
+> [![keinenkacho](/images/flash/KeinenImao/KeinenKacho.jpg)](https://frogsfrogs.github.io/images/flash/KeinenImao/KeinenKacho.jpg)  
+Woodblock Prints by Keinen Imao (1845 - 1924)  
+can tattoo these with the rectangle border or without (will draw in the leaves/flowers on the edges)  
+= #21: at least 7 inches tall  
+= #22: at least 7 inches tall  
+= #23: unavailable  
+= #24: at least 7 inches tall  
 <br>
 <br>
 
