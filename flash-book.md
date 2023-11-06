@@ -7,8 +7,7 @@ permalink: /flash-book/
 <a href="/">main menu< </a>  
 <br>
 Books are currently:  
-**OPEN** for Philadelphia Nov+Dec 2023  
-**CLOSED** for Los Angeles, Oct 29, Oct 30, Nov 1 @howdy.la (atwater village).  
+**OPEN** for Philadelphia Dec 2023  
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 *- see <a href="/booking-info">booking info page</a> for booking form link -*  
@@ -28,7 +27,7 @@ Books are currently:
 > [![novshoals](/images/flash/Nov2023/nov2023shoals.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/nov2023shoals.jpg)  
 = #29: at least 4 inches tall  
 = #30: at least 4 inches tall  
-= #38: at least 4 inches tall
+= #38: unavailable  
 <br>
 <br>
 
@@ -62,7 +61,7 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 = #49B: at least 2.25 inches wide  
 = #50B: at least 2.25 inches wide  
 = #50A: at least 2.5 inches wide  
-= #50C: at least 2.5 inches wide  
+= #50C: unavailable  
 <br>
 <br>
 
@@ -131,13 +130,13 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 #13: 5 inches wide or larger.  
 #14: 4 inches wide or larger.  
 #15: 2.75 inches wide or larger.  
-#19: 3.5 inches wide or larger.  
+#19: 3.5 inches wide or larger.<!-- booked once -->  
 #20: 3.5 inches tall or larger.  
 <br>
 <br>
 
 > [![25](/images/flash/Aug2023/25.jpg)](https://frogsfrogs.github.io/images/flash/Aug2023/25.jpg)  
-#25: 3 inches tall or larger.  
+#25: 3 inches tall or larger.<!-- booked once -->  
 #26: 1.5 inches wide or larger.  
 #27: 2.5 inches tall or larger.  
 #28: unavailable  
@@ -152,14 +151,12 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 
 > [![4](/images/flash/May2023/4.jpg)](https://frogsfrogs.github.io/images/flash/May2023/4.jpg)  
 #4: 4.5 inches tall or larger.  
-#5: 4.5 inches tall or larger.
+#5: 4.5 inches tall or larger.<!-- booked once -->
 <br>
 <br>
 
 > [![8a](/images/flash/May2023/8a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8a.jpg)  
-#8: 3.5 inches wide or larger.  
-#9: 3.5 inches wide or larger.  
-#10: 4 inches wide or larger.  
+#8, #9, #10: unavailable  
 <br>
 <br>
 
