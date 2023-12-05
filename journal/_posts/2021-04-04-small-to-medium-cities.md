@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Small to Medium Cities"
-categories: journal
+categories: lists
 date: 2021-04-04 18:19:00 -0400
 ---
 <a href="/blog-posts">all blog posts< </a>  

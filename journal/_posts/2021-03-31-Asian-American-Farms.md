@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asian American Farms"
-categories: journal farms
+categories: lists farms
 date: 2021-03-31 01:04:00 -0400
 ---
 <a href="/blog-posts">all blog posts< </a>  
