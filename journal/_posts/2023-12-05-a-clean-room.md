@@ -13,7 +13,7 @@ my grandfather's balcony was covered in dust -
 dust so fine,  
 and loved.  
 <br>
-i never saw the inside of my father's room.
+rarely did I see the inside of my father's office.
 
 <br>
 how many lifetimes would it take  
