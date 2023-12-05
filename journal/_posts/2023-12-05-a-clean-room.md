@@ -22,6 +22,7 @@ and for what reason
 should I clean mine at all  
 
 <!-- cleaning, as devotion, or worship -->
+<!-- but also as a cyclical failing to be good -->
 <br>
 <br>
 <a href="/blog-posts">all blog posts< </a>  
