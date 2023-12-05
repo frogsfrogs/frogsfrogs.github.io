@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "a clean room"
-categories: journal prose
+categories: journal poem
 date: 2023-12-05 01:42:00
 ---
 <br>
