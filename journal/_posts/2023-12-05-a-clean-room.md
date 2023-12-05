@@ -7,8 +7,8 @@ date: 2023-12-05 01:42:00
 <br>
 what does it take to have a clean room?  
 <br>
-my mother's rooms were not tidy  
-never for longer than a moment.  
+my mother's rooms were never tidy  
+not for longer than a moment.  
 my grandfather's balcony was always covered in dust -  
 dust so fine,  
 and loved.  
