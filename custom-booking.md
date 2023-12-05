@@ -8,7 +8,7 @@ permalink: /custom-booking/
 <br>
 
 Books are currently:  
-**OPEN** for Philadelphia Dec 2023  
+**CLOSED** bit behind on replying to emails about Dec/Jan books! Will try to reply to everyone this week, thank you for your patience xx -12/4/23  
 
 ## Custom Designs  
   

@@ -7,7 +7,7 @@ permalink: /flash-book/
 <a href="/">main menu< </a>  
 <br>
 Books are currently:  
-**OPEN** for Philadelphia Dec 2023  
+**CLOSED** bit behind on replying to emails about Dec/Jan books! Will try to reply to everyone this week, thank you for your patience xx -12/4/23  
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 *- see <a href="/booking-info">booking info page</a> for booking form link -*  

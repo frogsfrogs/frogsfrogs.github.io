@@ -6,7 +6,7 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently:  
-**OPEN** for Philadelphia Dec 2023  
+**CLOSED** bit behind on replying to emails about Dec/Jan books! Will try to reply to everyone this week, thank you for your patience xx -12/4/23  
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 <!-- <br><br>
