@@ -8,13 +8,16 @@ permalink: /custom-booking/
 <br>
 
 Books are currently:  
-**CLOSED** bit behind on replying to emails about Dec/Jan books! Will try to reply to everyone this week, thank you for your patience xx -12/4/23  
+**CLOSED**  
+*Books will open in March 2023 for Spring 2024*    
 
-## Custom Designs  
+<br>
+
+<!-- ## Custom Designs  
   
 Please read through the Booking Info page linked above before filling out the form - thanks!  
 <br>
-<br>
+<br> -->
 ## Here are some custom design categories you can choose from:  
 
 **Lucky Knots**  
@@ -42,7 +45,7 @@ I will include a price quote in my email response to your booking form, based on
 
 ---
 <!-- ## <center> <a href="https://form.jotform.com/213116766264254">CUSTOM DESIGN Booking Form Link</a> </center>   -->
-## <center> <a href="https://form.jotform.com/232296904603154"> BOOKING FORM Link</a> </center>  
+<!-- ## <center> <a href="https://form.jotform.com/232296904603154"> BOOKING FORM Link</a> </center>  --> 
 <!-- ## <center> <a href="https://form.jotform.com/231460559845160"> TRAVEL BOOKING FORM Link</a> </center>   -->
 ---
 

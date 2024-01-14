@@ -2,8 +2,8 @@ entries:
   - title: Tattoos
     entries:
       - title: <a href="/booking-info/">Booking Info</a>  
-      - title: Booking form
-        url: https://form.jotform.com/232296904603154
+      # - title: Booking form
+      #   url: https://form.jotform.com/232296904603154
       # - title: Los Angeles Oct 29-Nov 1 Booking Form    
       #   url: https://form.jotform.com/231460559845160    
       - title: <a href="/flash-book/">Flash Designs</a>

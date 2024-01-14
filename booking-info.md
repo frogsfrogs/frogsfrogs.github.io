@@ -6,7 +6,8 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently:  
-**CLOSED** bit behind on replying to emails about Dec/Jan books! Will try to reply to everyone this week, thank you for your patience xx -12/4/23  
+**CLOSED**  
+*Books will open in March 2023 for Spring 2024*    
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 <!-- <br><br>
@@ -18,9 +19,7 @@ Books are currently:
 ---  
 
 <!-- # [LA TRAVEL BOOKING FORM LINK](https://form.jotform.com/231460559845160)   -->
-# [BOOKING FORM LINK](https://form.jotform.com/232296904603154)  
-
-
+<!-- # [BOOKING FORM LINK](https://form.jotform.com/232296904603154)   -->
 --- 
 
 
