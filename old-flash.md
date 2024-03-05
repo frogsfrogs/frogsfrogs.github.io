@@ -5,20 +5,81 @@ permalink: /old-flash/
 ---
 <a href="/">back< </a>
 <br>
-Books are currently: **CLOSED**   
-*- Thank you if you submitted a booking request for May-June 2022! I will try to finish replying to emails by May 19 (I wrote May 12 previously, I got very behind this week) -*  
+<br><br>
+**FLASHBOOK** 
+<br>
+old or abandoned or removed flash  
+<br>
 
-<br><br>
-**FLASHBOOK**  
-  
-= All flash placements: arm/leg/back. other placements, maybe.  
-= I **cannot tattoo ribs or side (anything between hip bone and armpit)** due to my back issues, I am unable to sustain the posture needed to tattoo this area.  
-= I will include a price quote in my email response to your booking form, based on size/placement/style.  
+> [![blackwork](/images/flash/Jan2023/6a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/6.jpg)  
+<br>
+<!-- = #61: 6 inches tall or larger. **unavailable**  
+= #62: 4 inches wide or larger. **unavailable**   -->
+= #65: 5 inches tall or larger. UNAVAILABLE  
 <br>
 <br>
-(on mobile you should be able to just zoom in on this page)  
-(if not please click on image to view full size file)  
-<br><br>
+
+
+
+
+> [![scribbleknots](/images/flash/Oct2022/40a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/40a.jpg)    
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #40: 7.5 in or taller.  
+= #41: 9 in or taller. 
+= unavailable  
+<br>
+<br>
+
+> [![bunnies](/images/flash/Jan2023/5a.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/5a.jpg)  
+<br>
+all 2.5-3 inches or larger  
+= #66  
+= #67  
+= #68  
+= #69  
+= #70  
+<br>
+<br>
+
+
+> [![8a](/images/flash/May2023/8a.jpg)](https://frogsfrogs.github.io/images/flash/May2023/8a.jpg)  
+#8, #9, #10: unavailable  
+<br>
+<br>
+
+> [![catheads](/images/flash/Jan2023/64.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/64.jpg)  
+<br>
+= #64: *available*  
+<br>
+<br>
+
+
+> [![jackrabbit](/images/flash/Jan2023/81.jpg)](https://frogsfrogs.github.io/images/flash/Jan2023/81.jpg)  
+#81    
+= 4.5 inches tall or larger  
+done twicde, unavailbable  
+<br>
+<br>
+> [![rose](/images/flash/April2023/rose.jpg)](https://frogsfrogs.github.io/images/flash/April2023/rose.jpg)  
+#85  
+= *available*  
+= Rosa gallica by Mary Delaney (1700-1788)  
+= 6.5 - 8.5 in. tall  
+= full color
+<br>
+didn't do this one just removed because full color
+<br>
+<br>
+
+> [![rhododendron](/images/flash/April2023/rhododendron.jpg)](https://frogsfrogs.github.io/images/flash/April2023/rhododendron.jpg)  
+#86  
+= *available*  
+= Rhododendron by Mary Delaney (1700-1788)  
+= 6.5 - 8.5 in. tall  
+= full color  
+didn't do this one just removed because full color  
+<br>
+<br>
 
 [![19](/images/flash/May2023/19.jpg)](https://frogsfrogs.github.io/images/flash/May2023/19.jpg)  
 <br>
@@ -460,6 +521,40 @@ Persimmons (collaged from paintings by zhang da qian)
 = **taken**  
 <br>
 <br>
+
+---
+<p style="text-align: center;">CLAIMED DESIGNS:</p>
+
+---  
+
+> [![flowerknts](/images/flash/Oct2023/flowerknots.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/flowerknots.jpg)  
+COLOR or BW   
+#73: **taken** 9.5 inches tall or larger.  
+#74: **taken** 9.5 inches tall or larger.  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+<br>
+<br>
+
+> [![flowerknots](/images/flash/Oct2022/13a.jpg)](https://frogsfrogs.github.io/images/flash/Oct2022/13a.jpg)  
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #7A: **taken** 9 - 10in tall, min size 8in tall. full color, grayscale or bw linework.  
+= #11A: **taken** 11in tall, min size 9in tall. full color only.  
+<br>
+<br>
+
+> [![loop](/images/flash/Oct2023/72.jpg)](https://frogsfrogs.github.io/images/flash/Oct2023/72.jpg)  
+COLOR or BW  
+#72: 5.5 inches tall or larger. **taken**  
+<br>
+<br>
+
+
+> [![loquats](/images/flash/May2023/loquats.jpg)](https://frogsfrogs.github.io/images/flash/May2023/loquats.jpg)  
+#87 loquats  
+**unavailable**  
+<br>
+<br>
+
 
 
 
