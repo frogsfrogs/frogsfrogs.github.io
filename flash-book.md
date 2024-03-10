@@ -25,27 +25,27 @@ Books are currently:
 (if not please click on image to view full size file)  
 <br><br>
 
-[![m1](/images/flash/mar2024/m1.png)](https://frogsfrogs.github.io/images/flash/mar2024/m1.png)  
+[![m1](/images/flash/mar2024/m1.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m1.jpg)  
 <br>
 = #m1: 3.75 inches wide or larger.  
 <br>
 
-[![m2](/images/flash/mar2024/m2.png)](https://frogsfrogs.github.io/images/flash/mar2024/m2.png)  
+[![m2](/images/flash/mar2024/m2.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m2.jpg)  
 <br>
 = #m2: 3.5 inches wide or larger.  
 <br>
 
-[![m3](/images/flash/mar2024/m3.png)](https://frogsfrogs.github.io/images/flash/mar2024/m3.png)  
+[![m3](/images/flash/mar2024/m3.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m3.jpg)  
 <br>
 = #m3: 3.5 inches wide or larger.  
 <br>
 
-[![m4](/images/flash/mar2024/m4.png)](https://frogsfrogs.github.io/images/flash/mar2024/m4.png)  
+[![m4](/images/flash/mar2024/m4.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m4.jpg)  
 <br>
 = #m4: 4 inches wide or larger.  
 <br>
 
-[![m5](/images/flash/mar2024/m5.png)](https://frogsfrogs.github.io/images/flash/mar2024/m5.png)  
+[![m5](/images/flash/mar2024/m5.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m5.jpg)  
 <br>
 = #m5: 5 inches tall or larger.  
 <br>
@@ -56,22 +56,22 @@ Books are currently:
 = #m6: 9 inches tall or larger. Can draw whatever you like in the pendant!  
 <br>
 
-[![m7](/images/flash/mar2024/m7a.png)](https://frogsfrogs.github.io/images/flash/mar2024/m7a.png)  
+[![m7](/images/flash/mar2024/m7a.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m7a.jpg)  
 <br>
 = #m7: 3 x 4 inches or larger.  
 <br>
 
-[![m8](/images/flash/mar2024/m8.png)](https://frogsfrogs.github.io/images/flash/mar2024/m8.png)  
+[![m8](/images/flash/mar2024/m8.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m8.jpg)  
 <br>
 = #m8: 5 inches tall or larger.  
 <br>
 
-[![m9](/images/flash/mar2024/m9a.png)](https://frogsfrogs.github.io/images/flash/mar2024/m9a.png)  
+[![m9](/images/flash/mar2024/m9a.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m9a.jpg)  
 <br>
 = #m9: 3.25 inches tall or larger.  
 <br>
 
-[![m10](/images/flash/mar2024/m10.png)](https://frogsfrogs.github.io/images/flash/mar2024/m10.png)  
+[![m10](/images/flash/mar2024/m10.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m10.jpg)  
 <br>
 = #m10: 4 inches tall or larger.  
 <br>
