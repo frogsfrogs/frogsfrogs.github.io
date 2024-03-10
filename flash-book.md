@@ -7,11 +7,10 @@ permalink: /flash-book/
 <a href="/">main menu< </a>  
 <br>
 Books are currently:  
-**CLOSED**  
-*Books will open in March 2023 for Spring 2024*    
+**OPEN** now booking for March + April 2024    
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
-<!-- *- see <a href="/booking-info">booking info page</a> for booking form link -*   -->
+*- see <a href="/booking-info">booking info page</a> for booking form link -*  
 <br><br>
 - - - 
 **FLASHBOOK**  
@@ -26,40 +25,53 @@ Books are currently:
 (if not please click on image to view full size file)  
 <br><br>
 
-[![m1](/images/flash/mar2024/mar2024_1.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_1.jpg)  
+[![m1](/images/flash/mar2024/m1.png)](https://frogsfrogs.github.io/images/flash/mar2024/m1.png)  
 <br>
 = #m1: 3.75 inches wide or larger.  
 <br>
 
-[![m2](/images/flash/mar2024/mar2024_2.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_2.jpg)  
+[![m2](/images/flash/mar2024/m2.png)](https://frogsfrogs.github.io/images/flash/mar2024/m2.png)  
 <br>
-= #m2: 3.5 inches tall or larger.  
+= #m2: 3.5 inches wide or larger.  
 <br>
 
-[![m3](/images/flash/mar2024/mar2024_3.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_3.jpg)  
+[![m3](/images/flash/mar2024/m3.png)](https://frogsfrogs.github.io/images/flash/mar2024/m3.png)  
 <br>
 = #m3: 3.5 inches wide or larger.  
+<br>
+
+[![m4](/images/flash/mar2024/m4.png)](https://frogsfrogs.github.io/images/flash/mar2024/m4.png)  
+<br>
 = #m4: 4 inches wide or larger.  
 <br>
 
-[![m5](/images/flash/mar2024/mar2024_5.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_5.jpg)  
+[![m5](/images/flash/mar2024/m5.png)](https://frogsfrogs.github.io/images/flash/mar2024/m5.png)  
 <br>
 = #m5: 5 inches tall or larger.  
 <br>
 
 [![m6](/images/flash/mar2024/mar2024_6.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_6.jpg)  
 <br>
-= #m6: 9 inches tall or larger.   
+= Please read <a href="/red-seal">this note</a> before requesting.  
+= #m6: 9 inches tall or larger. Can draw whatever you like in the pendant!  
 <br>
 
-[![m7](/images/flash/mar2024/mar2024_7.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_7.jpg)  
+[![m7](/images/flash/mar2024/m7a.png)](https://frogsfrogs.github.io/images/flash/mar2024/m7a.png)  
 <br>
 = #m7: 3 x 4 inches or larger.  
-= #m8: 5 inches tall or larger.  
-= #m9: 3.25 inches tall or larger.   
 <br>
 
-[![m10](/images/flash/mar2024/mar2024_10.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_10.jpg)  
+[![m8](/images/flash/mar2024/m8.png)](https://frogsfrogs.github.io/images/flash/mar2024/m8.png)  
+<br>
+= #m8: 5 inches tall or larger.  
+<br>
+
+[![m9](/images/flash/mar2024/m9a.png)](https://frogsfrogs.github.io/images/flash/mar2024/m9a.png)  
+<br>
+= #m9: 3.25 inches tall or larger.  
+<br>
+
+[![m10](/images/flash/mar2024/m10.png)](https://frogsfrogs.github.io/images/flash/mar2024/m10.png)  
 <br>
 = #m10: 4 inches tall or larger.  
 <br>

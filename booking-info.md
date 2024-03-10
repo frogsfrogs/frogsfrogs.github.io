@@ -6,8 +6,7 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently:  
-**CLOSED**  
-*Books will open in March 2023 for Spring 2024*    
+**OPEN** now booking for March + April 2024    
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 <!-- <br><br>
@@ -19,7 +18,7 @@ Books are currently:
 ---  
 
 <!-- # [LA TRAVEL BOOKING FORM LINK](https://form.jotform.com/231460559845160)   -->
-<!-- # [BOOKING FORM LINK](https://form.jotform.com/232296904603154)   -->
+# [BOOKING FORM LINK](https://form.jotform.com/232296904603154)  
 --- 
 
 
@@ -34,7 +33,7 @@ Books are currently:
 ### Flash Designs  
 <!-- - [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-designs)    -->
 - [Flash Designs can be viewed here.](https://frogsfrogs.github.io/flash-book)  
-- Some flash are repeatable (the section is labeled), but I will probably retire designs if I have tattooed them multiple times  
+- Flash is repeatable (unless labeled "unavailable" or "not repeatable"), but I will probably retire designs if I have tattooed them multiple times  
 <!-- - Flash Designs will be posted here when books open. -->
 - Please read <a href="/red-seal">this note</a> before requesting any flash design marked with a red seal stamp.  
 <!-- - To book flash, complete the booking form at the bottom of this page.   -->
@@ -43,7 +42,7 @@ Books are currently:
 ### Custom Designs  
 
 - [Click here for Custom Booking instructions.](https://frogsfrogs.github.io/custom-booking)  
-- To book custom, complete the booking form at the bottom of this page  
+- To book custom, complete the booking form at the top of this page  
 - Custom designs are available to view at the time of the appointment - happy to make any desired adjustments at that time.  
 
 
