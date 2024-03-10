@@ -20,10 +20,49 @@ Books are currently:
 = All flash placements: arm/leg/back. other placements, maybe.  
 = I **cannot tattoo ribs or side (anything between hip bone and armpit), or likely sternum** due to my back issues, I am unable to sustain the posture needed to tattoo this area.  
 = I will include a price quote in my email response to your booking form, based on size/placement/style.  
+= **all flash repeatable** except the ones marked "unavailable" or "not repeatable"  
 <br>
 (on mobile you should be able to just zoom in on this page)  
 (if not please click on image to view full size file)  
 <br><br>
+
+[![m1](/images/flash/mar2024/mar2024_1.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_1.jpg)  
+<br>
+= #m1: 3.75 inches wide or larger.  
+<br>
+
+[![m2](/images/flash/mar2024/mar2024_2.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_2.jpg)  
+<br>
+= #m2: 3.5 inches tall or larger.  
+<br>
+
+[![m3](/images/flash/mar2024/mar2024_3.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_3.jpg)  
+<br>
+= #m3: 3.5 inches wide or larger.  
+= #m4: 4 inches wide or larger.  
+<br>
+
+[![m5](/images/flash/mar2024/mar2024_5.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_5.jpg)  
+<br>
+= #m5: 5 inches tall or larger.  
+<br>
+
+[![m6](/images/flash/mar2024/mar2024_6.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_6.jpg)  
+<br>
+= #m6: 9 inches tall or larger.   
+<br>
+
+[![m7](/images/flash/mar2024/mar2024_7.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_7.jpg)  
+<br>
+= #m7: 3 x 4 inches or larger.  
+= #m8: 5 inches tall or larger.  
+= #m9: 3.25 inches tall or larger.   
+<br>
+
+[![m10](/images/flash/mar2024/mar2024_10.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/mar2024_10.jpg)  
+<br>
+= #m10: 4 inches tall or larger.  
+<br>
 
 > [![18](/images/flash/May2023/18.jpg)](https://frogsfrogs.github.io/images/flash/May2023/18.jpg)  
 <br>
@@ -58,6 +97,7 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 = #22: unavailable  
 = #23: unavailable  
 = #24: at least 7 inches tall  
+**not repeatable**  
 <br>
 <br>
 
@@ -99,10 +139,6 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 #11    
 = 7 inches or wider
 
-<br>
-<br>
-
-**REPEATABLE**  
 <br>
 <br>
 > [![tinyflash](/images/flash/mar2024/tinyflash.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/tinyflash.jpg)  
