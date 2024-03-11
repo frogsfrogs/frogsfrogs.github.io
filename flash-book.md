@@ -157,14 +157,14 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 <br>
 <br>
 
-> [![smallflash](/images/flash/Nov2023/smallflash.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/smallflash.jpg)  
-#31: unavailable  
+> [![smallflash](/images/flash/Nov2023/smallflash-1.jpg)](https://frogsfrogs.github.io/images/flash/Nov2023/smallflash-1.jpg)  
+#31: 4 inches tall or larger.  
 #32: 3.5 inches tall or larger.  
 #33: 2.5 inches tall or larger.  
 #34: 3.5 inches tall or larger.  
 #35: 3 inches tall or larger.  
 #36: unavailable  
-#37: unavailable  
+#37: 4 inches tall or larger.    
 <br>
 <br>
 
@@ -200,7 +200,7 @@ can tattoo these with the rectangle border or without (will draw in the leaves/f
 
 
 > [![monkeyboobs](/images/flash/May2023/86.jpg)](https://frogsfrogs.github.io/images/flash/May2023/86.jpg)  
-= #m1  
+= #monkey  
 
 
 
