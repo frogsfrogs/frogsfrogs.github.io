@@ -6,7 +6,7 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently:  
-**OPEN** now booking for March + April 2024    
+**CLOSED** Thank you everybody who submitting a booking request for March + April 2024! Will be replying to everyone this week - may end up booking May from these requests as well, I didn't realize how late in March it already is oops    
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 <!-- <br><br>
