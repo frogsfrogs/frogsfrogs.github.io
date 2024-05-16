@@ -13,7 +13,7 @@ We are lovers.
 We meet, and we say goodbye.  
 <br>
 never in any of these dreams do I hate you  
-but when I wake up I find myself wishing I did.  
+but when I wake up I really wish I did.  
 <br>
 <!-- how lonely it is, to be a boy. 
 how painful, to be called a girl. 
