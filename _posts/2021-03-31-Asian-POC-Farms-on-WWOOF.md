@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asian/POC Farms on WWOOF"
-categories: farms
+categories: lists farms
 date: 2021-03-31 01:42:00 -0400
 ---
 <a href="/blog-posts">all blog posts< </a>  

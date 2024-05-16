@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I don't hate you but is it better if you think I do?"
-categories: journal prose
+categories: venting
 date: 2023-10-16 20:24:00
 ---
 <br>
