@@ -25,6 +25,75 @@ Books are currently:
 (if not please click on image to view full size file)  
 <br><br>
 
+[![m11-12](/images/flash/Aug2024/m11-12.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m11-12.jpg)  
+<br>
+= #m11  
+= #m12  
+<br>
+
+[![m14-16](/images/flash/Aug2024/m14-16.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m14-16.jpg)  
+<br>
+= #m14  
+= #m15  
+= #m16  
+<br>
+
+[![m17-18](/images/flash/Aug2024/m17-18.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m17-18.jpg)  
+<br>
+= #m17  
+= #m18    
+<br>
+
+[![m19-20](/images/flash/Aug2024/m19-20.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m19-20.jpg)  
+<br>
+= #m19  
+= #m20  
+<br>
+
+[![m21](/images/flash/Aug2024/m21.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m21.jpg)  
+<br>
+= #m21  
+<br>
+
+[![m22](/images/flash/Aug2024/m22.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m22.jpg)  
+<br>
+= #m22  
+<br>
+
+[![m23-24](/images/flash/Aug2024/m23-24.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m23-24.jpg)  
+<br>
+= #m23  
+= #m24  
+<br>
+
+[![m25-27](/images/flash/Aug2024/m25-27.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m25-27.jpg)  
+<br>
+= #m25  
+= #m26  
+= #m27  
+<br>
+
+[![m28](/images/flash/Aug2024/m28.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m28.jpg)  
+<br>
+= #m28  
+<br>
+
+[![m29](/images/flash/Aug2024/m29.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m29.jpg)  
+<br>
+= #m29  
+<br>
+
+[![m30](/images/flash/Aug2024/m30.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m30.jpg)  
+<br>
+= #m30  
+<br>
+
+[![m31](/images/flash/Aug2024/m31-32.PNG)](https://frogsfrogs.github.io/images/flash/Aug2024/m31-32.PNG)  
+<br>
+= #m31  
+= #m32  
+<br>
+
 [![m1](/images/flash/mar2024/m1.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m1.jpg)  
 <br>
 = #m1: 3.75 inches wide or larger.  
