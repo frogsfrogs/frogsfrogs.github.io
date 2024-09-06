@@ -27,76 +27,73 @@ Currently taking booking requests for Sept 12-October 2024!
 
 [![m11-12](/images/flash/Aug2024/m11-12.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m11-12.jpg)  
 <br>
-= #m11  
-= #m12  
+= #m11 & #m12: best if 3 inches tall or larger  
 <br>
 
 [![m13](/images/flash/Aug2024/m13.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m13.jpg)  
 <br>
-= #m13    
+= #m13: best if 4 inches tall or larger    
 <br>
 
 [![m14-16](/images/flash/Aug2024/m14-16.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m14-16.jpg)  
 <br>
-= #m14  
-= #m15  
-= #m16  
+= #m14-m16: any size  
 <br>
 
 [![m17-18](/images/flash/Aug2024/m17-18.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m17-18.jpg)  
 <br>
-= #m17  
-= #m18    
+= #m17: best to be 2.5 inches wide or larger  
+= #m18: best to be 2 inches wide or larger  
 <br>
 
 [![m19-20](/images/flash/Aug2024/m19-20.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m19-20.jpg)  
 <br>
-= #m19  
-= #m20  
+= #m19: 3.5 inches wide or larger  
+= #m20: 4 inches tall or larger  
 <br>
 
 [![m31](/images/flash/Aug2024/m31-32.PNG)](https://frogsfrogs.github.io/images/flash/Aug2024/m31-32.PNG)  
 <br>
-= #m31  
-= #m32  
+= #m31: best if 7 inches tall or larger  
+= #m32: best if 5 inches tall or larger  
 <br>
 
 [![m21](/images/flash/Aug2024/m21.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m21.jpg)  
 <br>
-= #m21  
+= #m21: best if 3.5-4 inches tall or larger. smaller & simplified would be cute too.  
 <br>
 
 [![m22](/images/flash/Aug2024/m22.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m22.jpg)  
 <br>
-= #m22  
+= #m22: 5 inches wide or larger  
 <br>
 
 [![m23-24](/images/flash/Aug2024/m23-24.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m23-24.jpg)  
 <br>
-= #m23  
-= #m24  
+= #m23: best if 4.5 inches tall or larger. can be customized to look like a specific cat :)  
+= #m24: best if 2.5 inches tall or larger. can be customized to look like a specific cat :)  
 <br>
 
 [![m25-27](/images/flash/Aug2024/m25-27.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m25-27.jpg)  
 <br>
-= #m25  
-= #m26  
-= #m27  
+= #m25: best if 2.5 inches wide or larger  
+= #m26: best if 2.5 inches wide or larger  
+= #m27: best if 2 inches wide or larger  
 <br>
 
 [![m28](/images/flash/Aug2024/m28.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m28.jpg)  
 <br>
-= #m28  
+= #m28: best if 7ish inches tall or larger  
 <br>
 
 [![m29](/images/flash/Aug2024/m29.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m29.jpg)  
 <br>
-= #m29  
+= #m29: best if 5 inches tall or larger  
 <br>
 
 [![m30](/images/flash/Aug2024/m30.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m30.jpg)  
 <br>
-= #m30  
+= #m30: best if 4 inches wide or larger  
 <br>
 
 [![m1](/images/flash/mar2024/m1.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m1.jpg)  
