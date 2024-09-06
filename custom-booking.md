@@ -8,7 +8,8 @@ permalink: /custom-booking/
 <br>
 
 Books are currently:  
-**CLOSED** Thank you everybody who submitting a booking request for March + April 2024! Will be replying to everyone this week - may end up booking May from these requests as well, I didn't realize how late in March it already is oops    
+**OPEN** Books are now open for Sept 12-October 2024  
+Booking form link is at the bottom of this page.  
 
 <br>
 
