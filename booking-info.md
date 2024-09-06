@@ -5,8 +5,8 @@ permalink: /booking-info/
 ---
 <a href="/">back< </a>  
 <br>
-Books are currently:  
-**OPEN** Currently taking booking requests for Sept 12-October 2024!    
+Books are currently: **OPEN**  
+Currently taking booking requests for Sept 12-October 2024!    
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 <!-- <br><br>

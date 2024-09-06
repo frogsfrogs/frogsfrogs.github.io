@@ -6,8 +6,8 @@ permalink: /flash-book/
 <a href="/booking-info">back to booking info< </a>  
 <a href="/">main menu< </a>  
 <br>
-Books are currently:  
-**CLOSED** Thank you everybody who submitting a booking request for March + April 2024! Will be replying to everyone this week - may end up booking May from these requests as well, I didn't realize how late in March it already is oops     
+Books are currently: **OPEN**  
+Currently taking booking requests for Sept 12-October 2024!     
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 *- see <a href="/booking-info">booking info page</a> for booking form link -*  
@@ -31,6 +31,11 @@ Books are currently:
 = #m12  
 <br>
 
+[![m13](/images/flash/Aug2024/m13.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m13.jpg)  
+<br>
+= #m13    
+<br>
+
 [![m14-16](/images/flash/Aug2024/m14-16.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m14-16.jpg)  
 <br>
 = #m14  
@@ -48,6 +53,12 @@ Books are currently:
 <br>
 = #m19  
 = #m20  
+<br>
+
+[![m31](/images/flash/Aug2024/m31-32.PNG)](https://frogsfrogs.github.io/images/flash/Aug2024/m31-32.PNG)  
+<br>
+= #m31  
+= #m32  
 <br>
 
 [![m21](/images/flash/Aug2024/m21.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m21.jpg)  
@@ -86,12 +97,6 @@ Books are currently:
 [![m30](/images/flash/Aug2024/m30.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m30.jpg)  
 <br>
 = #m30  
-<br>
-
-[![m31](/images/flash/Aug2024/m31-32.PNG)](https://frogsfrogs.github.io/images/flash/Aug2024/m31-32.PNG)  
-<br>
-= #m31  
-= #m32  
 <br>
 
 [![m1](/images/flash/mar2024/m1.jpg)](https://frogsfrogs.github.io/images/flash/mar2024/m1.jpg)  
