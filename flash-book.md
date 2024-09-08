@@ -46,13 +46,13 @@ Currently taking booking requests for Sept 12-October 2024!
 = #m18: best to be 2 inches wide or larger  
 <br>
 
-[![m19-20](/images/flash/Aug2024/m19-20.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m19-20.jpg)  
+[![m19-20a](/images/flash/Aug2024/m19-20a.jpg)](https://frogsfrogs.github.io/images/flash/Aug2024/m19-20a.jpg)  
 <br>
 = #m19: 3.5 inches wide or larger  
 = #m20: 4 inches tall or larger  
 <br>
 
-[![m31](/images/flash/Aug2024/m31-32.PNG)](https://frogsfrogs.github.io/images/flash/Aug2024/m31-32.PNG)  
+[![m31a](/images/flash/Aug2024/m31-32a.PNG)](https://frogsfrogs.github.io/images/flash/Aug2024/m31-32a.PNG)  
 <br>
 = #m31: best if 7 inches tall or larger  
 = #m32: best if 5 inches tall or larger  
