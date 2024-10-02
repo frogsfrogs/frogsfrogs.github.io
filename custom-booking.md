@@ -8,7 +8,7 @@ permalink: /custom-booking/
 <br>
 
 Books are currently:  
-**OPEN** Books are now open for Sept 12-October 2024  
+**OPEN** Books are now open for November 2024  
 Booking form link is at the bottom of this page.  
 
 <br>

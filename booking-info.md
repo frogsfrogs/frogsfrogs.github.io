@@ -6,7 +6,7 @@ permalink: /booking-info/
 <a href="/">back< </a>  
 <br>
 Books are currently: **OPEN**  
-Currently taking booking requests for Sept 12-October 2024!    
+Currently taking booking requests for November 2024    
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 <!-- <br><br>
@@ -115,11 +115,11 @@ If it is out of budget, let me know and I will see if we can make it work.
 - Appointment minimum 150 (if it's a really simple one I'm happy to do 2 for the minimum).  
 <br>
 
-<!-- **Touchups**  
-- After your tattoo heals, if anything heals out or there are any other fixes you'd like, I offer one free touchup within the first 6 months. After that, touchup fee depends on the scope/scale. I am happy to do touch-ups, but please only book a touchup if there is something specific you would like me to touchup.  
-- Please let your tattoo heal at least 1 month before getting a touchup. 
-- Email me at onion.ttt@gmail.com if you would like to book a touchup. Please include a well-lit, clear photo of the healed tattoo in your email, and a short description of what you'd like me to touchup.  
-<br> -->
+**Touchups**  
+- After your tattoo heals, if anything heals out or there are any other fixes you'd like, I offer one free touchup within the first 6 months. After that, touchup fee depends on the scope/scale. I am happy to do touch-ups, but please only book a touchup if there is something specific you would like me to touchup. Hand/Foot placements are excluded from free touchup policy.  
+<!-- - Please let your tattoo heal at least 1 month before getting a touchup. 
+- Email me at onion.ttt@gmail.com if you would like to book a touchup. Please include a well-lit, clear photo of the healed tattoo in your email, and a short description of what you'd like me to touchup.   -->
+<br>
 
 <!-- **Healing after Vaccine**  
 - IF YOU ARE GETTING/HAVE GOTTEN THE COVID-19 VACCINE OR BOOSTERS: please wait at least 1.5 weeks after your last shot before getting your tattoo with me. There is a distinct possibility of poor tattoo healing or pseudo-allergic reactions with tattoos done directly after receiving a vaccine shot, due to increased immune system reactivity.  

@@ -7,7 +7,7 @@ permalink: /flash-book/
 <a href="/">main menu< </a>  
 <br>
 Books are currently: **OPEN**  
-Currently taking booking requests for Sept 12-October 2024!     
+Currently taking booking requests for November 2024!     
 
 <!-- *-  Books will next open in early August for mid-August thru September 2023 in Philly-*  -->
 *- see <a href="/booking-info">booking info page</a> for booking form link -*  
