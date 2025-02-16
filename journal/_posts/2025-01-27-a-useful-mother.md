@@ -28,7 +28,7 @@ I think about what it would mean to choose to be a mother now,
 and it feels like I already know - and I already failed.  
 <br>
 <br>
-I had decided awhile ago, without realizing it, that I don't owe my mother a debt. That if anything, she owes me.  
+I had decided awhile ago, without realizing it, that I don't owe my mother a debt. Emotionally, anyways. That if anything, she owes me.  
 That's wrong too though. I don't think there are debts, just a shitty, shitty world.  
 I don't want to count debts, it feels like if I start counting I'll never stop.  
 A mother doesn't count what she's owed. She's perfectly caring and endlessly giving. It's the only kind of useful I've ever known.
