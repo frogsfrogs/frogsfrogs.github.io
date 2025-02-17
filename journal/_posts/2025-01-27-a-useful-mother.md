@@ -15,7 +15,7 @@ There's nothing worse than being a useless person
 A use-less does not eat, drink, breathe without it being at the expense of someone else  
 who is sponsoring you? it does not matter. it cannot possibly be deserved.  
 <br>
-will an eldest daughter ever feel deserving ?  
+does the eldest daughter ever feel deserving ?  
 When I was 5 and you asked if I wanted a little sister  
 I didn't know you were also asking if I wanted to be an eldest daughter  
 I didn't know that this also meant being a mother  
@@ -29,7 +29,7 @@ and it feels like I already know - and I already failed.
 <br>
 <br>
 I had decided awhile ago, without realizing it, that I don't owe my mother a debt. Emotionally, anyways. That if anything, she owes me.  
-That's wrong too though. I don't think there are debts, just a shitty, shitty world.  
+That's wrong too though. I don't think there are debts. just a shitty world.  
 I don't want to count debts, it feels like if I start counting I'll never stop.  
-A mother doesn't count what she's owed. She's perfectly caring and endlessly giving. It's the only kind of useful I've ever known.
+A good mother doesn't count what she's owed. She's perfectly caring and endlessly giving. It's the only kind of useful I've ever known.
 
