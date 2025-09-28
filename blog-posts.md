@@ -1,7 +1,7 @@
 ---
 layout: page
-title: blorg-posts
-permalink: /blorg-posts/
+title: blog-posts
+permalink: /blog-posts/
 ---
 <a href="/">main menu< </a>  
 <a href="/categories">post categories< </a>  
